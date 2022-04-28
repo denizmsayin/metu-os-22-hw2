@@ -1,6 +1,10 @@
 # CENG334 - Operating Systems Spring 2022
 ## Homework 2
 
+<p align="center">
+  <img src=https://hardalist.net/wp-content/uploads/2021/09/Evrensel-Baris-Berkant-Komik-Karikaturler-Sergisi-2.jpg width=400 />
+</p>
+
 ### Reading Material
 
 * Read the PDF!

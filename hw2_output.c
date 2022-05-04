@@ -37,21 +37,21 @@ void hw2_notify(enum hw2_actions action, unsigned id, unsigned i, unsigned j)
 
     printf("(T%lu) ", pthread_self());
 
-    if (GATHERER_CREATED <= action && action <= GATHERER_CONTINUED) {
+    if (PROPER_PRIVATE_CREATED <= action && action <= PROPER_PRIVATE_CONTINUED) {
         printf("G%u ", id);
     } else if (SNEAKY_SMOKER_CREATED <= action && action <= SNEAKY_SMOKER_STOPPED) {
         printf("S%u ", id);
     }
 
     switch (action) {
-    case GATHERER_CREATED: puts("created."); break;
-    case GATHERER_ARRIVED: printf("arrived at area (%u, %u).\n", i, j); break;
-    case GATHERER_GATHERED: printf("gathered a cigbutt from (%u, %u).\n", i, j); break;
-    case GATHERER_CLEARED: puts("cleared the current area and left."); break;
-    case GATHERER_EXITED: puts("finished cleaning and exited."); break;
-    case GATHERER_TOOK_BREAK: puts("took a break."); break;
-    case GATHERER_STOPPED: puts("stopped as ordered."); break;
-    case GATHERER_CONTINUED: puts("is continuing after a break."); break;
+    case PROPER_PRIVATE_CREATED: puts("created."); break;
+    case PROPER_PRIVATE_ARRIVED: printf("arrived at area (%u, %u).\n", i, j); break;
+    case PROPER_PRIVATE_GATHERED: printf("gathered a cigbutt from (%u, %u).\n", i, j); break;
+    case PROPER_PRIVATE_CLEARED: puts("cleared the current area and left."); break;
+    case PROPER_PRIVATE_EXITED: puts("finished cleaning and exited."); break;
+    case PROPER_PRIVATE_TOOK_BREAK: puts("took a break."); break;
+    case PROPER_PRIVATE_STOPPED: puts("stopped as ordered."); break;
+    case PROPER_PRIVATE_CONTINUED: puts("is continuing after a break."); break;
     case ORDER_BREAK: puts("BREAK!"); break;
     case ORDER_CONTINUE: puts("CONTINUE!"); break;
     case ORDER_STOP: puts("STOP!"); break;

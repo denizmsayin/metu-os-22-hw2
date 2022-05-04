@@ -5,6 +5,10 @@
   <img src=https://hardalist.net/wp-content/uploads/2021/09/Evrensel-Baris-Berkant-Komik-Karikaturler-Sergisi-2.jpg width=400 />
 </p>
 
+### Extra Info About Restrictions
+
+* Both System V and POSIX semaphores are allowed: Feel free to use <semaphore.h> or <sys/sem.h>.
+
 ### Reading Material
 
 * Read the PDF!

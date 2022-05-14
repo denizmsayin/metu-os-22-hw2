@@ -1,6 +1,10 @@
 #ifndef HW2_OUTPUT_H_
 #define HW2_OUTPUT_H_
 
+#ifdef __cplusplus
+extern "C" {
+#endif
+
 enum hw2_actions {
     // First part
     PROPER_PRIVATE_CREATED,
@@ -32,5 +36,8 @@ void hw2_init_notifier(void);
 // The notifier you should use *literally* everywhere.
 void hw2_notify(enum hw2_actions action, unsigned id, unsigned x, unsigned y);
 
+#ifdef __cplusplus
+}
+#endif
 
 #endif

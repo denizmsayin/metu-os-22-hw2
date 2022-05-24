@@ -9,10 +9,66 @@
 
 static struct timeval g_start_time;
 
+void input_Parser(int argc, char *argv[], int *p_num_threads, int *p_num_iterations, int *p_num_elements, int *p_array_size)
+{
+    if (argc != 6)
+    {
+        fprintf(stderr, "Usage: %s <# threads> <# iterations> <# elements> <array size>\n", argv[0]);
+        exit(EXIT_FAILURE);
+    }
+
+    *p_num_threads = atoi(argv[1]);
+    *p_num_iterations = atoi(argv[2]);
+    *p_num_elements = atoi(argv[3]);
+    *p_array_size = atoi(argv[4]);
+}
+
+
 void hw2_init_notifier(void)
 {
     gettimeofday(&g_start_time, NULL);
+}   
+
+// This function is called by each thread to wait for the other threads to finish.
+void hw2_wait_for_notification(void)
+{
+    struct timeval end_time;
+    gettimeofday(&end_time, NULL);
+    double elapsed_time = (end_time.tv_sec - g_start_time.tv_sec) + (end_time.tv_usec - g_start_time.tv_usec) / 1000000.0;
+    printf("Elapsed time: %.6f\n", elapsed_time);
 }
+// This function is called by each thread to notify the other threads that it is done.
+void hw2_notify_all(void)
+{
+    // this function is intentionally left blank
+}
+
+// This function is called by each thread to wait for the other threads to finish.
+void hw2_wait_for_notification_mt(void)
+{
+    // TODO: Implement this function.
+}
+// This function is called by each thread to notify the other threads that it is done.
+void hw2_notify_all_mt(void)
+{
+    // TODO: Implement this function.
+}
+// This function is called by each thread to wait for the other threads to finish.
+void hw2_wait_for_notification_st(void)
+{
+    // TODO: Implement this function.
+}
+// This function is called by each thread to notify the other threads that it is done.
+void hw2_notify_all_st(void)
+{
+    // TODO: Implement this function.
+}
+// This function is called by each thread to wait for the other threads to finish.
+void hw2_wait_for_notification_mt_st(void)
+{
+    // TODO: Implement this function.
+}
+
 
 static long get_timestamp(void)
 {
@@ -21,6 +77,7 @@ static long get_timestamp(void)
     return (cur_time.tv_sec - g_start_time.tv_sec) * 1000000 
            + (cur_time.tv_usec - g_start_time.tv_usec);
 }
+
 
 void hw2_notify(enum hw2_actions action, unsigned id, unsigned i, unsigned j)
 {

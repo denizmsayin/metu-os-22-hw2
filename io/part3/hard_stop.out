@@ -1,0 +1,32 @@
+t:       365 | (T139877990876928) G0 created.
+t:       466 | (T139877974091520) G2 created.
+t:       487 | (T139877990876928) G0 arrived at area (0, 0).
+t:       529 | (T139877982484224) G1 created.
+t:       540 | (T139877982484224) G1 arrived at area (0, 2).
+t:       568 | (T139877890914048) S0 created.
+t:       576 | (T139877890914048) S0 arrived at cell (2, 1).
+t:       630 | (T139877882521344) S1 created.
+t:    400852 | (T139877982484224) G1 gathered a cigbutt from (0, 2).
+t:    400877 | (T139877890914048) S0 flicked a cigbutt towards (1, 0).
+t:    400967 | (T139877990876928) G0 gathered a cigbutt from (0, 0).
+t:    801014 | (T139877982484224) G1 gathered a cigbutt from (0, 2).
+t:    801044 | (T139877890914048) S0 flicked a cigbutt towards (1, 1).
+t:    801108 | (T139877990876928) G0 gathered a cigbutt from (0, 0).
+t:   1201307 | (T139877990876928) G0 gathered a cigbutt from (0, 0).
+t:   1201332 | (T139877890914048) S0 flicked a cigbutt towards (1, 2).
+t:   1201377 | (T139877982484224) G1 gathered a cigbutt from (0, 2).
+t:   1601718 | (T139877990876928) G0 gathered a cigbutt from (0, 0).
+t:   1601748 | (T139877890914048) S0 flicked a cigbutt towards (2, 2).
+t:   1601771 | (T139877982484224) G1 gathered a cigbutt from (0, 2).
+t:   2002151 | (T139877890914048) S0 flicked a cigbutt towards (3, 2).
+t:   2002182 | (T139877990876928) G0 gathered a cigbutt from (0, 0).
+t:   2002260 | (T139877982484224) G1 gathered a cigbutt from (0, 2).
+t:   2402579 | (T139877982484224) G1 gathered a cigbutt from (0, 3).
+t:   2402610 | (T139877890914048) S0 flicked a cigbutt towards (3, 1).
+t:   2402687 | (T139877990876928) G0 gathered a cigbutt from (0, 1).
+t:   2500429 | (T139877990881088) STOP!
+t:   2500486 | (T139877982484224) G1 stopped as ordered.
+t:   2500673 | (T139877890914048) S0 stopped as ordered.
+t:   2500844 | (T139877990876928) G0 stopped as ordered.
+t:   2500906 | (T139877974091520) G2 stopped as ordered.
+t:   2500966 | (T139877882521344) S1 stopped as ordered.

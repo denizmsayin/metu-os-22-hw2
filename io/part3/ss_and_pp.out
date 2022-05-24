@@ -1,0 +1,75 @@
+t:      2777 | (T140273699653376) G0 created.
+t:      2893 | (T140273699653376) G0 arrived at area (0, 0).
+t:      2938 | (T140273691260672) G1 created.
+t:      2961 | (T140273540257536) S1 created.
+t:      3000 | (T140273682867968) S0 created.
+t:    303209 | (T140273699653376) G0 gathered a cigbutt from (0, 0).
+t:    603361 | (T140273699653376) G0 gathered a cigbutt from (0, 0).
+t:    903757 | (T140273699653376) G0 gathered a cigbutt from (0, 0).
+t:   1000260 | (T140273699657536) BREAK!
+t:   1000325 | (T140273699653376) G0 took a break.
+t:   1000388 | (T140273691260672) G1 took a break.
+t:   1000413 | (T140273540257536) S1 arrived at cell (2, 2).
+t:   1000429 | (T140273682867968) S0 arrived at cell (1, 1).
+t:   1300566 | (T140273682867968) S0 flicked a cigbutt towards (0, 0).
+t:   1300593 | (T140273540257536) S1 flicked a cigbutt towards (1, 1).
+t:   1600724 | (T140273682867968) S0 flicked a cigbutt towards (0, 1).
+t:   1600739 | (T140273540257536) S1 flicked a cigbutt towards (1, 2).
+t:   1900874 | (T140273682867968) S0 flicked a cigbutt towards (0, 2).
+t:   1900887 | (T140273540257536) S1 flicked a cigbutt towards (1, 3).
+t:   2000371 | (T140273699657536) CONTINUE!
+t:   2000430 | (T140273699653376) G0 is continuing after a break.
+t:   2000449 | (T140273691260672) G1 is continuing after a break.
+t:   2201104 | (T140273682867968) S0 flicked a cigbutt towards (1, 2).
+t:   2201133 | (T140273540257536) S1 flicked a cigbutt towards (2, 3).
+t:   2501515 | (T140273540257536) S1 flicked a cigbutt towards (3, 3).
+t:   2501543 | (T140273682867968) S0 flicked a cigbutt towards (2, 2).
+t:   2801934 | (T140273540257536) S1 flicked a cigbutt towards (3, 2).
+t:   2801965 | (T140273682867968) S0 flicked a cigbutt towards (2, 1).
+t:   3102347 | (T140273682867968) S0 flicked a cigbutt towards (2, 0).
+t:   3102359 | (T140273540257536) S1 flicked a cigbutt towards (3, 1).
+t:   3402535 | (T140273540257536) S1 flicked a cigbutt towards (2, 1).
+t:   3402547 | (T140273540257536) S1 had enough of the current area and left.
+t:   3402554 | (T140273682867968) S0 flicked a cigbutt towards (1, 0).
+t:   3402562 | (T140273682867968) S0 had enough of the current area and left.
+t:   3402625 | (T140273540257536) S1 arrived at cell (1, 2).
+t:   3702774 | (T140273540257536) S1 flicked a cigbutt towards (0, 1).
+t:   4002910 | (T140273540257536) S1 flicked a cigbutt towards (0, 2).
+t:   4303306 | (T140273540257536) S1 flicked a cigbutt towards (0, 3).
+t:   4603465 | (T140273540257536) S1 flicked a cigbutt towards (1, 3).
+t:   4903861 | (T140273540257536) S1 flicked a cigbutt towards (2, 3).
+t:   5204200 | (T140273540257536) S1 flicked a cigbutt towards (2, 2).
+t:   5504575 | (T140273540257536) S1 flicked a cigbutt towards (2, 1).
+t:   5804970 | (T140273540257536) S1 flicked a cigbutt towards (1, 1).
+t:   5804981 | (T140273540257536) S1 had enough of the current area and left.
+t:   5805014 | (T140273540257536) S1 arrived at cell (2, 1).
+t:   5805093 | (T140273682867968) S0 arrived at cell (1, 2).
+t:   6105412 | (T140273682867968) S0 flicked a cigbutt towards (0, 1).
+t:   6105445 | (T140273540257536) S1 flicked a cigbutt towards (1, 0).
+t:   6405827 | (T140273540257536) S1 flicked a cigbutt towards (1, 1).
+t:   6405858 | (T140273682867968) S0 flicked a cigbutt towards (0, 2).
+t:   6706247 | (T140273540257536) S1 flicked a cigbutt towards (1, 2).
+t:   6706279 | (T140273682867968) S0 flicked a cigbutt towards (0, 3).
+t:   7006549 | (T140273682867968) S0 flicked a cigbutt towards (1, 3).
+t:   7006581 | (T140273540257536) S1 flicked a cigbutt towards (2, 2).
+t:   7306965 | (T140273540257536) S1 flicked a cigbutt towards (3, 2).
+t:   7306996 | (T140273682867968) S0 flicked a cigbutt towards (2, 3).
+t:   7607128 | (T140273540257536) S1 flicked a cigbutt towards (3, 1).
+t:   7607160 | (T140273682867968) S0 flicked a cigbutt towards (2, 2).
+t:   7907542 | (T140273540257536) S1 flicked a cigbutt towards (3, 0).
+t:   7907574 | (T140273682867968) S0 flicked a cigbutt towards (2, 1).
+t:   8207961 | (T140273682867968) S0 flicked a cigbutt towards (1, 1).
+t:   8207982 | (T140273682867968) S0 had enough of the current area and left.
+t:   8208107 | (T140273540257536) S1 flicked a cigbutt towards (2, 0).
+t:   8208117 | (T140273540257536) S1 had enough of the current area and left.
+t:   8208146 | (T140273540257536) S1 finished smoking and exited.
+t:   8208158 | (T140273699653376) G0 arrived at area (0, 0).
+t:   8508523 | (T140273699653376) G0 gathered a cigbutt from (0, 0).
+t:   8808923 | (T140273699653376) G0 gathered a cigbutt from (0, 0).
+t:   9109315 | (T140273699653376) G0 gathered a cigbutt from (0, 0).
+t:   9409718 | (T140273699653376) G0 gathered a cigbutt from (0, 0).
+t:   9710111 | (T140273699653376) G0 gathered a cigbutt from (0, 1).
+t:  10000411 | (T140273699657536) STOP!
+t:  10000473 | (T140273699653376) G0 stopped as ordered.
+t:  10000504 | (T140273691260672) G1 stopped as ordered.
+t:  10000534 | (T140273682867968) S0 stopped as ordered.

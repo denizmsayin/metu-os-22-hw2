@@ -1,0 +1,19 @@
+t:       348 | (T139936532477696) G0 created.
+t:       479 | (T139936532477696) G0 arrived at area (2, 0).
+t:       487 | (T139936515692288) G2 created.
+t:       496 | (T139936515692288) G2 arrived at area (0, 2).
+t:       535 | (T139936524084992) G1 created.
+t:       589 | (T139936507299584) G3 created.
+t:       598 | (T139936507299584) G3 arrived at area (2, 4).
+t:       624 | (T139936498906880) G4 created.
+t:       629 | (T139936498906880) G4 arrived at area (4, 3).
+t:    500630 | (T139936532477696) G0 gathered a cigbutt from (2, 0).
+t:    500643 | (T139936515692288) G2 gathered a cigbutt from (0, 2).
+t:    500736 | (T139936507299584) G3 gathered a cigbutt from (2, 4).
+t:    500763 | (T139936498906880) G4 gathered a cigbutt from (4, 3).
+t:   1000425 | (T139936532481856) STOP!
+t:   1000478 | (T139936532477696) G0 stopped as ordered.
+t:   1000505 | (T139936524084992) G1 stopped as ordered.
+t:   1000515 | (T139936515692288) G2 stopped as ordered.
+t:   1000531 | (T139936507299584) G3 stopped as ordered.
+t:   1000544 | (T139936498906880) G4 stopped as ordered.

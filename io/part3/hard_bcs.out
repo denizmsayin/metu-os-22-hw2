@@ -1,0 +1,38 @@
+t:       355 | (T140173319288576) G0 created.
+t:       442 | (T140173319288576) G0 arrived at area (0, 0).
+t:       459 | (T140173302503168) G2 created.
+t:       500 | (T140173310895872) G1 created.
+t:       511 | (T140173310895872) G1 arrived at area (0, 2).
+t:       523 | (T140173294110464) S0 created.
+t:       531 | (T140173294110464) S0 arrived at cell (2, 1).
+t:       579 | (T140173285717760) S1 created.
+t:    400847 | (T140173310895872) G1 gathered a cigbutt from (0, 2).
+t:    400876 | (T140173294110464) S0 flicked a cigbutt towards (1, 0).
+t:    400920 | (T140173319288576) G0 gathered a cigbutt from (0, 0).
+t:    801256 | (T140173310895872) G1 gathered a cigbutt from (0, 2).
+t:    801283 | (T140173294110464) S0 flicked a cigbutt towards (1, 1).
+t:    801372 | (T140173319288576) G0 gathered a cigbutt from (0, 0).
+t:   1000398 | (T140173319292736) BREAK!
+t:   1000437 | (T140173310895872) G1 took a break.
+t:   1000532 | (T140173319288576) G0 took a break.
+t:   1000629 | (T140173302503168) G2 took a break.
+t:   1201649 | (T140173294110464) S0 flicked a cigbutt towards (1, 2).
+t:   1500316 | (T140173319292736) CONTINUE!
+t:   1500374 | (T140173310895872) G1 is continuing after a break.
+t:   1500382 | (T140173310895872) G1 arrived at area (0, 2).
+t:   1500398 | (T140173319288576) G0 is continuing after a break.
+t:   1500414 | (T140173319288576) G0 arrived at area (0, 0).
+t:   1500423 | (T140173302503168) G2 is continuing after a break.
+t:   1601980 | (T140173294110464) S0 flicked a cigbutt towards (2, 2).
+t:   1900787 | (T140173319288576) G0 gathered a cigbutt from (0, 0).
+t:   1900816 | (T140173310895872) G1 gathered a cigbutt from (0, 2).
+t:   2002376 | (T140173294110464) S0 flicked a cigbutt towards (3, 2).
+t:   2301204 | (T140173319288576) G0 gathered a cigbutt from (0, 0).
+t:   2301237 | (T140173310895872) G1 gathered a cigbutt from (0, 2).
+t:   2402457 | (T140173294110464) S0 flicked a cigbutt towards (3, 1).
+t:   2500183 | (T140173319292736) STOP!
+t:   2500235 | (T140173319288576) G0 stopped as ordered.
+t:   2500266 | (T140173302503168) G2 stopped as ordered.
+t:   2500308 | (T140173294110464) S0 stopped as ordered.
+t:   2500377 | (T140173310895872) G1 stopped as ordered.
+t:   2500455 | (T140173285717760) S1 stopped as ordered.

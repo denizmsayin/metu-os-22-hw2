@@ -1,0 +1,14 @@
+t:       338 | (T140004423378688) G3 created.
+t:       423 | (T140004423378688) G3 arrived at area (3, 4).
+t:       426 | (T140004423378688) G3 cleared the current area and left.
+t:       431 | (T140004423378688) G3 finished cleaning and exited.
+t:       490 | (T140004414985984) G4 created.
+t:       501 | (T140004414985984) G4 arrived at area (3, 3).
+t:    500648 | (T140004414985984) G4 gathered a cigbutt from (3, 3).
+t:   1000797 | (T140004414985984) G4 gathered a cigbutt from (3, 3).
+t:   1500949 | (T140004414985984) G4 gathered a cigbutt from (3, 3).
+t:   2000110 | (T140004423382848) STOP!
+t:   2000175 | (T140004414985984) G4 stopped as ordered.
+t:   3000089 | (T140004423382848) BREAK!
+t:   4000383 | (T140004423382848) CONTINUE!
+t:   5000090 | (T140004423382848) STOP!

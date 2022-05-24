@@ -1,0 +1,20 @@
+t:       332 | (T140609558378240) S0 created.
+t:       414 | (T140609558378240) S0 arrived at cell (1, 1).
+t:       472 | (T140609549985536) S1 created.
+t:       483 | (T140609549985536) S1 arrived at cell (2, 1).
+t:    300500 | (T140609558378240) S0 flicked a cigbutt towards (0, 0).
+t:    300623 | (T140609549985536) S1 flicked a cigbutt towards (1, 0).
+t:    600896 | (T140609558378240) S0 flicked a cigbutt towards (0, 1).
+t:    600947 | (T140609549985536) S1 flicked a cigbutt towards (1, 1).
+t:    901225 | (T140609558378240) S0 flicked a cigbutt towards (0, 2).
+t:    901256 | (T140609549985536) S1 flicked a cigbutt towards (1, 2).
+t:   1201638 | (T140609549985536) S1 flicked a cigbutt towards (2, 2).
+t:   1201668 | (T140609558378240) S0 flicked a cigbutt towards (1, 2).
+t:   1502043 | (T140609558378240) S0 flicked a cigbutt towards (2, 2).
+t:   1502059 | (T140609558378240) S0 had enough of the current area and left.
+t:   1502067 | (T140609558378240) S0 finished smoking and exited.
+t:   1502071 | (T140609549985536) S1 flicked a cigbutt towards (3, 2).
+t:   1802411 | (T140609549985536) S1 flicked a cigbutt towards (3, 1).
+t:   2102502 | (T140609549985536) S1 flicked a cigbutt towards (3, 0).
+t:   2102513 | (T140609549985536) S1 had enough of the current area and left.
+t:   2102523 | (T140609549985536) S1 finished smoking and exited.

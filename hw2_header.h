@@ -150,6 +150,25 @@ typedef struct hw2_output_iterator {
 // Call this at the start of your main function!
 void hw2_init_notifier(void);
 
+class hw2_notifier {
+  private:
+    hw2_output_writer_c writer;
+    hw2_output_iterator iterator;
+    
+public:
+  hw2_notifier();
+  ~hw2_notifier();
+  void notify(hw2_output *output);
+  void notify(hw2_state state);
+  void notify(terrain *terrain);
+  void notify(hw2_notification notification);
+  void notify(hw2_order order);
+  void notify(hw2_order_break order);
+  void notify(hw2_order_continue order);
+  void notify(hw2_order_stop order);
+  void notify(hw2_order_flicked order);
+};
+
 typedef void (*hw2_notifier_callback)(hw2_output *output);
 
 typedef struct hw2_notifier {

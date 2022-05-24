@@ -11,9 +11,9 @@
 2 1 4 400 1
 0 0
 3
-break 1000
-continue 1500
-stop 2500
+1000 break
+1500 continue
+2500 stop
 2
 0 400 1
 2 1 10

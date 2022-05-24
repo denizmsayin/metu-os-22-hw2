@@ -802,5 +802,5 @@
 399 1 1 500 1
 0 0
 2
-break 3000
-continue 3001
+3000 break
+3001 continue

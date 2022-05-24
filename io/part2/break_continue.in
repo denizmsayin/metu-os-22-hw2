@@ -11,5 +11,5 @@
 2 2 2 500 1
 0 2
 2
-break 2500
-continue 3500
+2500 break
+3500 continue

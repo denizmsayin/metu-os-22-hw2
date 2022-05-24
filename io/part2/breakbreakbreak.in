@@ -11,9 +11,9 @@
 3 1 1 250 1
 1 1
 6
-break 1100
-break 1500
-break 1900
-break 2300
-break 2990
-continue 3500
+1100 break
+1500 break
+1900 break
+2300 break
+2990 break
+3500 continue

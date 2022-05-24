@@ -7,18 +7,6 @@
 extern "C" {
 #endif
 
-typedef struct area{
-    int i;
-    int j;
-} area;
-typedef struct terrain_cell {
-  unsigned i;
-  unsigned j;
-  unsigned cig_count;
-  unsigned num_proper_privates;
-  unsigned num_sneaky_smokers;
-} terrain_cell;
-
 
 // proper private are
 typedef struct proper_private {
@@ -27,7 +15,7 @@ typedef struct proper_private {
   int area_j;
   int time_to_gather;
   int areas_to_gather;
-  area *areas;
+  int *areas;
   int state;
 } proper_private;
 typedef struct {
@@ -63,11 +51,18 @@ typedef struct {
   unsigned j;
 } hw2_order_flicked;
 
+typedef struct terrain_cell {
+  unsigned i;
+  unsigned j;
+  unsigned cig_count;
+  unsigned num_proper_privates;
+  unsigned num_sneaky_smokers;
+} terrain_cell;
 
 typedef struct terrain {
   unsigned num_rows;
   unsigned num_cols;
-  terrain_cell **cells;
+  terrain_cell *cells;
   unsigned num_proper_privates;
   proper_private *proper_privates;
 } terrain;

@@ -6,11 +6,6 @@
 #ifdef __cplusplus
 extern "C" {
 #endif
-
-typedef struct area{
-    int i;
-    int j;
-} area;
 typedef struct terrain_cell {
   unsigned i;
   unsigned j;
@@ -27,7 +22,7 @@ typedef struct proper_private {
   int area_j;
   int time_to_gather;
   int areas_to_gather;
-  area *areas;
+  terrain_cell *areas;
   int state;
 } proper_private;
 typedef struct {
@@ -67,7 +62,7 @@ typedef struct {
 typedef struct terrain {
   unsigned num_rows;
   unsigned num_cols;
-  terrain_cell **cells;
+  terrain_cell *cells;
   unsigned num_proper_privates;
   proper_private *proper_privates;
 } terrain;

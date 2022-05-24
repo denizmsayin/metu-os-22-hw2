@@ -25,7 +25,9 @@ void input_parser(terrain *t) {
   // Initialize the terrain
   cin >> t->num_rows >> t->num_cols;
   // Initialize the cells
+  t->cells = *new terrain_cell *[t->num_rows];
   for (int i = 0; i < t->num_rows; i++) {
+    t->cells[i] = *new terrain_cell[t->num_cols];
     for (int j = 0; j < t->num_cols; j++) {
       cin >> t->cells[i][j].cig_count;
     }
@@ -54,10 +56,6 @@ void hw2_wait_for_notification(void) {
 
 int main(int argc, char *argv[]) {
   terrain *terrain = NULL;
-  terrain = new struct terrain;
-  // Initialize the terrain
-    input_parser(terrain);
-    // Initialize the notifier
   hw2_init_notifier();
   hw2_wait_for_notification();
   return 0;

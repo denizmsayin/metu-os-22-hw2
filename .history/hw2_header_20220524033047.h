@@ -67,7 +67,7 @@ typedef struct {
 typedef struct terrain {
   unsigned num_rows;
   unsigned num_cols;
-  terrain_cell **cells;
+  terrain_cell *cells;
   unsigned num_proper_privates;
   proper_private *proper_privates;
 } terrain;

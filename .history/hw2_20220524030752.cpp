@@ -21,28 +21,26 @@
 // #define NUM_CLEARINGS 2
 // #define NUM_EXITS 2
 using namespace std;
+
 void input_parser(terrain *t) {
-  // Initialize the terrain
-  cin >> t->num_rows >> t->num_cols;
-  // Initialize the cells
-  for (int i = 0; i < t->num_rows; i++) {
-    for (int j = 0; j < t->num_cols; j++) {
-      cin >> t->cells[i][j].cig_count;
-    }
-  }
-  // Initialize the proper privates
-  cin >> t->num_proper_privates;
-  t->proper_privates = *new proper_private *[t->num_proper_privates];
-  for (int i = 0; i < t->num_proper_privates; i++) {
-    t->proper_privates[i] = *new proper_private;
-    cin >> t->proper_privates[i].id >> t->proper_privates[i].area_i >>
-        t->proper_privates[i].area_j >> t->proper_privates[i].time_to_gather >>
-        t->proper_privates[i].areas_to_gather;
-    for (int j = 0; j < t->proper_privates[i].areas_to_gather; j++) {
-      cin >> t->proper_privates[i].areas[j].i >>
-          t->proper_privates[i].areas[j].j;
-    }
-  }
+    // Initialize the terrain
+    cin >> t->num_rows >> t->num_cols;
+
+    
+
+void semaphore(int num_threads, int num_iterations, int num_elements,
+               int array_size) {
+  int i, j;
+  int *array = (int *)malloc(sizeof(int) * array_size);
+  int *array_copy = (int *)malloc(sizeof(int) * array_size);
+  int *array_copy2 = (int *)malloc(sizeof(int) * array_size);
+  int *array_copy3 = (int *)malloc(sizeof(int) * array_size);
+  int *array_copy4 = (int *)malloc(sizeof(int) * array_size);
+  int *array_copy5 = (int *)malloc(sizeof(int) * array_size);
+  int *array_copy6 = (int *)malloc(sizeof(int) * array_size);
+  int *array_copy7 = (int *)malloc(sizeof(int) * array_size);
+  int *array_copy8 = (int *)malloc(sizeof(int) * array_size);
+  int *array_copy9 = (int *)malloc(sizeof(int) * array_size);
 }
 void hw2_wait_for_notification(void) {
   struct timeval end_time;
@@ -54,10 +52,6 @@ void hw2_wait_for_notification(void) {
 
 int main(int argc, char *argv[]) {
   terrain *terrain = NULL;
-  terrain = new struct terrain;
-  // Initialize the terrain
-    input_parser(terrain);
-    // Initialize the notifier
   hw2_init_notifier();
   hw2_wait_for_notification();
   return 0;

@@ -56,9 +56,8 @@ int main(int argc, char *argv[]) {
   terrain *terrain = NULL;
   terrain = new struct terrain;
   // Initialize the terrain
-  input_parser(terrain);
-  // Initialize the notifier
-
+    input_parser(terrain);
+    // Initialize the notifier
   hw2_init_notifier();
   hw2_wait_for_notification();
   return 0;

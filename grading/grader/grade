@@ -1,0 +1,249 @@
+#! /bin/bash
+
+if $(hostname | grep inek &> /dev/null); then
+  PYTHON=python3
+else
+  PYTHON=python
+fi
+
+OVERRIDE_OUT= # set to 1 to print output to stdout and sidestep buffering issues for debugging
+LC_NUMERIC="en_US.UTF-8"
+CONS_CHECKER=check_consistency.py
+PART_MAX_GRADES=( 0 25 35 40 )
+COMPRESS_KB_LIMIT=256 # output files larger than this many KB will be xz-compressed
+
+if [ "$#" -lt 3 -o "$#" -gt 5 ]; then
+cat<<EOF
+usage: $0 test-case-dir submission-dir output-dir [part] [case-prefix]
+
+    test-case-dir  As provided. Should contain a folder for each test case under inputs/,
+                   along with hw2_output_p.c, hw2_output_p.h, hw2_output_g.c and 
+                   hw2_output_g.h to use in grading.
+
+    submission-dir Submission directory containing all your code. hw2_output.c and .h
+                   will be copied into it and "make" will be called. An executable named
+                   hw2 should then be produced and will be used in testing.
+
+    output-dir     Directory that will contain all the results of grading. Overwritten
+                   in case it exists.
+
+    [part]         Optionally, a part to grade (1, 2 or 3).
+  
+    [case-prefix]  Optionally, a specific case name to grade. Should be under the given
+                   [part]'s folder. Any prefix of the case name works.
+EOF
+  exit 1
+fi
+
+casedir="$1"
+subdir="$2"
+outdir="$3"
+target_part="$4"
+target_case_name="$5"
+
+floatop() {
+  echo "scale=20; $1" | bc
+}
+
+floatmin () {
+  if (( $(echo "scale=20; $1 < $2" | bc) )); then
+    echo "$1"
+  else
+    echo "$2"
+  fi
+}
+
+die () { # perl style
+  printf 'ERROR! %s\n' "$1"
+  exit 1
+}
+
+# get_line file n
+get_line () {
+  tail -n+"$2" "$1" | head -1
+}
+
+[ -d "$casedir" ] || die "$casedir directory does not exist!"
+[ -d "$subdir" ] || die "$subdir directory does not exist!"
+
+# prepare output dir and log
+mkdir -p "$outdir"
+
+exec > >(tee -i "$outdir/grader_log.txt")
+exec 2>&1
+
+
+
+# compilation phase
+echo "Attempting to compile with latest (PROPER_PRIVATE_*) hw2_output.{c,h}..."
+cp "$casedir/hw2_output_p.c" "$subdir/hw2_output.c"
+cp "$casedir/hw2_output_p.h" "$subdir/hw2_output.h"
+rm -f "$subdir/hw2"
+if (cd "$subdir" && make all) &> "$outdir/make_p_log.txt"; then
+  echo "Looks like it worked!"
+else
+  echo "Failed. Attempting with original (GATHERER_*) hw2_output.{c,h}..."
+  cp "$casedir/hw2_output_g.c" "$subdir/hw2_output.c"
+  cp "$casedir/hw2_output_g.h" "$subdir/hw2_output.h"
+  if (cd "$subdir" && make all) &> "$outdir/make_g_log.txt"; then
+    echo "Looks like it worked!"
+  else
+    echo "That failed too? Hmm..."
+  fi
+fi
+
+[ -e "$subdir/hw2" ] || die "Couldn't create the hw2 executable, grading failed."
+
+
+
+# time to get going and run the tests!
+hw2="$subdir/hw2"
+
+if [ -n "$target_part" ]; then
+  [ "$target_part" == 1 -o "$target_part" == 2 -o "$target_part" == 3 ]\
+    || die "the [part] argument should be 1/2/3."
+  parts=( "$target_part" )
+else
+  parts=( 1 2 3 )
+fi
+
+for part in ${parts[@]}; do
+  echo
+  echo "##### Grading part$part #####"
+  partinpdir="$casedir/inputs/part$part"
+  
+  if [ -n "$target_case_name" ]; then
+    if [ -d "$partinpdir/$target_case_name"* ]; then
+      cases="$partinpdir/$target_case_name"*
+    else
+      die "Case \"$target_case_name\" does not exist under part$part!"
+    fi
+  else
+    cases=$(find "$partinpdir" -mindepth 1 -maxdepth 1 -type d | sort)
+  fi
+  
+  
+  for case_path in $cases; do
+    case_name=$(basename "$case_path")
+    opt_file="$case_path/opts.txt"
+    inp_file="$case_path/input.txt"
+    [ -e "$opt_file" ] || die "Missing opts.txt in case $case_name."
+    [ -e "$inp_file" ] || die "Missing input.txt in case $case_name."
+    
+    # parse the options
+    case_points=$(get_line "$opt_file" 1)
+    case_nruns=$(get_line "$opt_file" 2)
+    case_timeout=$(get_line "$opt_file" 3)
+    case_checker_args=$(get_line "$opt_file" 4)
+
+    # generate a header with the options
+    echo "Case: $case_name"
+    echo "  - Points out of 100: $case_points"
+    echo "  - Number of runs to do: $case_nruns"
+    echo "  - Times out if not complete in: $case_timeout seconds"
+    if [ -n "$case_checker_args" ]; then
+      echo "  - Extra consistency checker args: $case_checker_args"
+    else
+      echo "  - No extra consistency checker args."
+    fi
+
+    # and... do it!
+#     case_outdir="$outdir/outputs/part$part/$case_name"
+#     mkdir -p "$case_outdir"
+
+    # run the code and consistency check it N times. Grade is min. of all runs.
+    caseoutdir="$outdir/outputs/part$part/$case_name"
+    casemult=1
+    case_grade=0
+    grade_file="$caseoutdir/grade.txt"
+    for i in $(seq "$case_nruns"); do
+      rundir="$caseoutdir/run$i"
+      mkdir -p "$rundir"
+      out_file="$rundir/output.txt"
+      err_file="$rundir/error.txt"
+      checker_file="$rundir/consistency_check.txt"
+      
+      echo -n "* Run $i: "
+
+      if [[ $OVERRIDE_OUT == 1 ]]; then
+        out_file=$(tty)
+        err_file=$out_file
+      fi
+
+      timeout -k $(($case_timeout+5)) $case_timeout "$hw2" <"$inp_file" >"$out_file" 2>"$err_file"
+      ret=$?
+      multiplier=0
+      if [[ $ret == 137 || $ret == 124 ]]; then
+        echo "Timed out! Probably deadlocked. "
+      else
+        if [[ $ret != 0 ]]; then
+          echo -n "Exe failed, still checking: "
+        else
+          echo -n "Done. Checking output: "
+        fi
+        if "$PYTHON" "$CONS_CHECKER" "$inp_file" "$out_file" $case_checker_args &> "$checker_file"; then
+          multiplier=$(tail -1 "$checker_file")
+          printf "Success ✓ Consistency multiplier is %.2f.\n" "$multiplier"
+        else
+          echo "Consistency check failed!"
+        fi
+      fi
+
+      if [ -e "$out_file" ]; then
+        out_file_size=$(du -s "$out_file" | awk '{ print $1; }')
+        if (( $(echo "$out_file_size > $COMPRESS_KB_LIMIT" | bc) )); then
+          rm -f "$out_file".xz
+          xz "$out_file"
+          comp_size=$(du -s "$out_file".xz | awk '{ print $1; }')
+          echo "Output ${out_file_size}KB > ${COMPRESS_KB_LIMIT}KB, xz'd to ${comp_size}KB. unxz to decompress."
+        fi
+      fi
+
+      casemult=$(floatmin "$casemult" "$multiplier")
+      if (( $(echo "$casemult == 0" | bc) )); then
+        echo "✗ Stopping runs early since last run got zero."
+        break
+      fi
+    done
+
+    printf "> Case multiplier (min of runs) is %.2f\n" "$casemult"
+
+    case_grade=$(floatop "$case_points * $casemult")
+    printf "> Case grade is %d x %.2f\n" "$case_points" "$casemult"
+    printf "= %.2f\n" "$case_grade"
+    printf "%.2f" "$case_grade" > "$grade_file"
+    echo
+
+  done
+  echo "#############################"
+  echo
+done
+
+
+# finally, do a tally of the results. good to keep this separate to make regrading easy.
+echo "TALLY HO!"
+echo "--------------------------------------------------------------"
+total_grade=0
+echo "Summing up grades:"
+for part in 1 2 3; do
+  echo "< Part $part:"
+  partinpdir="$casedir/inputs/part$part"
+  partoutdir="$outdir/outputs/part$part"
+  mkdir -p "$partoutdir"
+  part_grade=0
+  for case_path in $(find "$partinpdir" -mindepth 1 -maxdepth 1 -type d | sort); do
+    case_name=$(basename "$case_path")
+    caseoutdir="$partoutdir/$case_name"
+    case_grade=$(cat "$caseoutdir/grade.txt" 2>/dev/null || echo 0)
+    case_max_grade=$(head -1 "$case_path/opts.txt")
+    printf "  > %s = %.2f/%.2f\n" "$case_name" "$case_grade" "$case_max_grade"
+    part_grade=$(floatop "$part_grade + $case_grade")
+  done
+  printf "> Part %d grade = %.2f/%.2f\n" "$part" "$part_grade" "${PART_MAX_GRADES[$part]}"
+  printf "%.2f" "$part_grade" > "$partoutdir/grade.txt"
+  total_grade=$(floatop "$total_grade + $part_grade")
+done
+printf "Total grade = %.2f/100.00\n" "$total_grade"
+printf "%.2f" "$total_grade" > "$outdir/grade.txt"
+echo "--------------------------------------------------------------"
+

@@ -141,6 +141,8 @@ the test case when they happen. A percentage penalty is applied to the test case
 1. Sending the next order before everyone has reacted, causing confusion. This can still result
     in a fatal logic error down the line: 15%.
 1. A proper private/sneaky smoker seems to be waiting on an area when it should not be because it is not blocked. Remember this from `complex_scenarios.pdf`, this is for Part 3 only: 50%.
+1. Too much waiting betweeen two flickings: 20%.
+1. Too little waiting between two flickings: 40%. A bit harsher than gatherings since this is Part 3.
 
 All these have tolerance parameters that change depending on the test case and
 are mostly pretty generous.
@@ -175,8 +177,9 @@ unlike my homework solution.
 * **1_one_private_six_areas (4):** Self-explanatory. One private gathering from 6
       areas in sequence.
 * **2_indeps (4):** A bunch of privates gathering from non-intersecting areas.
-* **4_five_on_one (3):** Five privates trying to gather from one cell. First
-      real synchronization.
+* **3_simple_intersect (4):** Two privates intersecting. First real synchronization.
+* **4_five_on_one (3):** Five privates trying to gather from one cell. A bit more
+    fun with the synchronization.
 * **5_some_action (3):** A bunch of privates, a bunch of areas. See how it goes.
 * **6_chaos (2):** A large input. Things get problematic!
 

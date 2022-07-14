@@ -719,11 +719,11 @@ class SS:
     def _tid_check(self, notif):
         warn, fatal, _ = wfp_closures(notif, f'SS{self.aid}')
         if self.tid != notif.tid:
-            if notif.action == Action.PPSTOP:
+            if notif.action == Action.SSSTOP:
                 warn(f'Another thread with tid={notif.tid} sent SS{self.aid} stop. Not ideal.')
-            elif notif.action == Action.PPEXIT:
+            elif notif.action == Action.SSEXIT:
                 warn(f'Another thread with tid={notif.tid} sent SS{self.aid} exit. Not ideal.')
-            elif self.last_action == Action.PPCREATE:
+            elif self.last_action == Action.SSCREATE:
                 warn(f'SS created by tid={self.tid}, but got first notif from '
                      f'tid={notif.tid}. Updating to use {notif.tid}. Not ideal.')
                 self.tid = notif.tid

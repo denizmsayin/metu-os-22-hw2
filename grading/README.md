@@ -2,6 +2,8 @@
 
 ![](histogram.png)
 
+Average among submissions: 47.44
+
 # Grading Guide 
 
 I tried to not make grading harsh in general:

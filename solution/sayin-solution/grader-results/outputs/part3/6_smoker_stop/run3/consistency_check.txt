@@ -1,0 +1,579 @@
++ OK: SS0 created with tid=140476033775360.
++ OK: SS0 arrived at cell (4, 6).
++ OK: SS11 created with tid=140475991811840.
++ OK: SS11 arrived at cell (4, 1).
++ OK: SS2 created with tid=140476025382656.
++ OK: SS15 created with tid=140475983419136.
++ OK: SS19 created with tid=140475898001152.
++ OK: SS15 arrived at cell (5, 7).
++ OK: SS18 created with tid=140475975026432.
++ OK: SS18 arrived at cell (8, 2).
++ OK: SS9 created with tid=140476008597248.
++ OK: SS4 created with tid=140476016989952.
++ OK: SS10 created with tid=140476000204544.
++ OK: SS10 arrived at cell (4, 3).
++ OK: SS9 arrived at cell (2, 5).
++ OK: SS2 arrived at cell (4, 5).
++ OK: SS24 created with tid=140475872823040.
++ OK: SS24 arrived at cell (3, 7).
++ OK: SS21 created with tid=140475889608448.
++ OK: SS25 created with tid=140475864430336.
++ OK: SS22 created with tid=140475881215744.
++ OK: SS21 arrived at cell (8, 4).
++ OK: SS36 created with tid=140475847644928.
++ OK: SS36 arrived at cell (3, 1).
++ OK: SS26 created with tid=140475763783424.
++ OK: SS26 arrived at cell (1, 7).
++ OK: SS22 arrived at cell (6, 7).
++ OK: SS41 created with tid=140475755390720.
++ OK: SS31 created with tid=140475856037632.
++ OK: SS31 arrived at cell (6, 1).
++ OK: SS41 arrived at cell (6, 5).
++ OK: SS46 created with tid=140475746998016.
++ OK: SS54 created with tid=140475730212608.
++ OK: SS54 arrived at cell (5, 2).
++ OK: SS55 created with tid=140475721819904.
++ OK: SS55 arrived at cell (5, 1).
++ OK: SS56 created with tid=140475713427200.
++ OK: SS49 created with tid=140475738605312.
++ OK: SS56 arrived at cell (1, 6).
++ OK: SS54 flicked towards (4, 1), now 5 cigbutts are in the cell.
++ OK: SS55 flicked towards (4, 0), now 6 cigbutts are in the cell.
++ OK: SS55 left last cell, which was (5, 1).
++ OK: SS55 arrived at cell (6, 3).
++ OK: SS26 flicked towards (0, 6), now 5 cigbutts are in the cell.
++ OK: SS56 flicked towards (0, 5), now 5 cigbutts are in the cell.
++ OK: SS9 flicked towards (1, 4), now 8 cigbutts are in the cell.
++ OK: SS2 flicked towards (3, 4), now 6 cigbutts are in the cell.
++ OK: SS11 flicked towards (3, 0), now 7 cigbutts are in the cell.
++ OK: SS36 flicked towards (2, 0), now 5 cigbutts are in the cell.
++ OK: SS18 flicked towards (7, 1), now 6 cigbutts are in the cell.
++ OK: SS15 flicked towards (4, 6), now 7 cigbutts are in the cell.
++ OK: SS21 flicked towards (7, 3), now 5 cigbutts are in the cell.
++ OK: SS24 flicked towards (2, 6), now 9 cigbutts are in the cell.
++ OK: SS31 flicked towards (5, 0), now 8 cigbutts are in the cell.
++ OK: SS31 left last cell, which was (6, 1).
++ OK: SS31 exited properly.
++ OK: SS41 flicked towards (5, 4), now 7 cigbutts are in the cell.
++ OK: SS0 flicked towards (3, 5), now 4 cigbutts are in the cell.
++ OK: SS0 left last cell, which was (4, 6).
++ OK: SS10 flicked towards (3, 2), now 7 cigbutts are in the cell.
++ OK: SS22 flicked towards (5, 6), now 4 cigbutts are in the cell.
++ OK: SS54 flicked towards (4, 2), now 5 cigbutts are in the cell.
++ OK: SS55 flicked towards (5, 2), now 4 cigbutts are in the cell.
++ OK: SS26 flicked towards (0, 7), now 5 cigbutts are in the cell.
++ OK: SS56 flicked towards (0, 6), now 6 cigbutts are in the cell.
++ OK: SS9 flicked towards (1, 5), now 7 cigbutts are in the cell.
++ OK: SS2 flicked towards (3, 5), now 5 cigbutts are in the cell.
++ OK: SS11 flicked towards (3, 1), now 5 cigbutts are in the cell.
++ OK: SS36 flicked towards (2, 1), now 8 cigbutts are in the cell.
++ OK: SS18 flicked towards (7, 2), now 4 cigbutts are in the cell.
++ OK: SS15 flicked towards (4, 7), now 4 cigbutts are in the cell.
++ OK: SS21 flicked towards (7, 4), now 4 cigbutts are in the cell.
++ OK: SS24 flicked towards (2, 7), now 9 cigbutts are in the cell.
++ OK: SS41 flicked towards (5, 5), now 8 cigbutts are in the cell.
++ OK: SS10 flicked towards (3, 3), now 8 cigbutts are in the cell.
++ OK: SS22 flicked towards (5, 7), now 7 cigbutts are in the cell.
++ OK: SS54 flicked towards (4, 3), now 6 cigbutts are in the cell.
++ OK: SS54 left last cell, which was (5, 2).
++ OK: SS54 arrived at cell (5, 2).
++ OK: SS55 flicked towards (5, 3), now 9 cigbutts are in the cell.
++ OK: SS26 flicked towards (0, 8), now 9 cigbutts are in the cell.
++ OK: SS56 flicked towards (0, 7), now 6 cigbutts are in the cell.
++ OK: SS2 flicked towards (3, 6), now 5 cigbutts are in the cell.
++ OK: SS9 flicked towards (1, 6), now 4 cigbutts are in the cell.
++ OK: SS11 flicked towards (3, 2), now 8 cigbutts are in the cell.
++ OK: SS18 flicked towards (7, 3), now 6 cigbutts are in the cell.
++ OK: SS36 flicked towards (2, 2), now 8 cigbutts are in the cell.
++ OK: SS24 flicked towards (2, 8), now 9 cigbutts are in the cell.
++ OK: SS24 left last cell, which was (3, 7).
++ OK: SS21 flicked towards (7, 5), now 7 cigbutts are in the cell.
++ OK: SS15 flicked towards (4, 8), now 6 cigbutts are in the cell.
++ OK: SS24 arrived at cell (5, 8).
++ OK: SS25 arrived at cell (3, 7).
++ OK: SS41 flicked towards (5, 6), now 5 cigbutts are in the cell.
++ OK: SS22 flicked towards (5, 8), now 4 cigbutts are in the cell.
++ OK: SS10 flicked towards (3, 4), now 7 cigbutts are in the cell.
++ OK: SS54 flicked towards (4, 1), now 6 cigbutts are in the cell.
++ OK: SS55 flicked towards (5, 4), now 8 cigbutts are in the cell.
++ OK: SS56 flicked towards (1, 7), now 4 cigbutts are in the cell.
++ OK: SS26 flicked towards (1, 8), now 4 cigbutts are in the cell.
++ OK: SS9 flicked towards (2, 6), now 10 cigbutts are in the cell.
++ OK: SS2 flicked towards (4, 6), now 8 cigbutts are in the cell.
++ OK: SS11 flicked towards (4, 2), now 6 cigbutts are in the cell.
++ OK: SS11 left last cell, which was (4, 1).
++ OK: SS11 arrived at cell (2, 2).
++ OK: SS0 arrived at cell (4, 1).
++ OK: SS25 flicked towards (2, 6), now 11 cigbutts are in the cell.
++ OK: SS18 flicked towards (8, 3), now 5 cigbutts are in the cell.
++ OK: SS18 left last cell, which was (8, 2).
++ OK: SS36 flicked towards (3, 2), now 9 cigbutts are in the cell.
++ OK: SS18 arrived at cell (4, 2).
++ OK: SS4 arrived at cell (8, 2).
++ OK: SS24 flicked towards (4, 7), now 5 cigbutts are in the cell.
++ OK: SS15 flicked towards (5, 8), now 5 cigbutts are in the cell.
++ OK: SS15 left last cell, which was (5, 7).
++ OK: SS21 flicked towards (8, 5), now 6 cigbutts are in the cell.
++ OK: SS41 flicked towards (6, 6), now 9 cigbutts are in the cell.
++ OK: SS41 left last cell, which was (6, 5).
++ OK: SS41 arrived at cell (6, 4).
++ OK: SS49 arrived at cell (6, 5).
++ OK: SS10 flicked towards (4, 4), now 4 cigbutts are in the cell.
++ OK: SS22 flicked towards (6, 8), now 4 cigbutts are in the cell.
++ OK: SS54 flicked towards (4, 2), now 7 cigbutts are in the cell.
++ OK: SS54 left last cell, which was (5, 2).
++ OK: SS54 arrived at cell (3, 5).
++ OK: SS55 flicked towards (6, 4), now 8 cigbutts are in the cell.
++ OK: SS56 flicked towards (2, 7), now 10 cigbutts are in the cell.
++ OK: SS26 flicked towards (2, 8), now 10 cigbutts are in the cell.
++ OK: SS26 left last cell, which was (1, 7).
++ OK: SS26 arrived at cell (8, 5).
++ OK: SS2 flicked towards (5, 6), now 6 cigbutts are in the cell.
++ OK: SS9 flicked towards (3, 6), now 6 cigbutts are in the cell.
++ OK: SS11 flicked towards (1, 1), now 9 cigbutts are in the cell.
++ OK: SS25 flicked towards (2, 7), now 11 cigbutts are in the cell.
++ OK: SS0 flicked towards (3, 0), now 8 cigbutts are in the cell.
++ OK: SS4 flicked towards (7, 1), now 7 cigbutts are in the cell.
++ OK: SS4 left last cell, which was (8, 2).
++ OK: SS4 arrived at cell (2, 3).
++ OK: SS36 flicked towards (4, 2), now 8 cigbutts are in the cell.
++ OK: SS18 flicked towards (3, 1), now 6 cigbutts are in the cell.
++ OK: SS49 flicked towards (5, 4), now 9 cigbutts are in the cell.
++ OK: SS24 flicked towards (4, 8), now 7 cigbutts are in the cell.
++ OK: SS21 flicked towards (9, 5), now 5 cigbutts are in the cell.
++ OK: SS41 flicked towards (5, 3), now 10 cigbutts are in the cell.
++ OK: SS54 flicked towards (2, 4), now 8 cigbutts are in the cell.
++ OK: SS10 flicked towards (5, 4), now 10 cigbutts are in the cell.
++ OK: SS22 flicked towards (7, 8), now 9 cigbutts are in the cell.
++ OK: SS55 flicked towards (7, 4), now 5 cigbutts are in the cell.
++ OK: SS55 left last cell, which was (6, 3).
++ OK: SS55 arrived at cell (3, 8).
++ OK: SS26 flicked towards (7, 4), now 6 cigbutts are in the cell.
++ OK: SS56 flicked towards (2, 6), now 12 cigbutts are in the cell.
++ OK: SS2 flicked towards (5, 5), now 9 cigbutts are in the cell.
++ OK: SS9 flicked towards (3, 5), now 6 cigbutts are in the cell.
++ OK: SS25 flicked towards (2, 8), now 11 cigbutts are in the cell.
++ OK: SS11 flicked towards (1, 2), now 8 cigbutts are in the cell.
++ OK: SS4 flicked towards (1, 2), now 9 cigbutts are in the cell.
++ OK: SS49 flicked towards (5, 5), now 10 cigbutts are in the cell.
++ OK: SS0 flicked towards (3, 1), now 7 cigbutts are in the cell.
++ OK: SS18 flicked towards (3, 2), now 10 cigbutts are in the cell.
++ OK: SS36 flicked towards (4, 1), now 7 cigbutts are in the cell.
++ OK: SS54 flicked towards (2, 5), now 5 cigbutts are in the cell.
++ OK: SS24 flicked towards (4, 9), now 6 cigbutts are in the cell.
++ OK: SS21 flicked towards (9, 4), now 9 cigbutts are in the cell.
++ OK: SS55 flicked towards (2, 7), now 12 cigbutts are in the cell.
++ OK: SS41 flicked towards (5, 4), now 11 cigbutts are in the cell.
++ OK: SS26 flicked towards (7, 5), now 8 cigbutts are in the cell.
++ OK: SS56 flicked towards (2, 5), now 6 cigbutts are in the cell.
++ OK: SS10 flicked towards (5, 3), now 11 cigbutts are in the cell.
++ OK: SS10 left last cell, which was (4, 3).
++ OK: SS22 flicked towards (7, 7), now 7 cigbutts are in the cell.
++ OK: SS25 flicked towards (3, 8), now 7 cigbutts are in the cell.
++ OK: SS2 flicked towards (5, 4), now 12 cigbutts are in the cell.
++ OK: SS9 flicked towards (3, 4), now 8 cigbutts are in the cell.
++ OK: SS9 left last cell, which was (2, 5).
++ OK: SS4 flicked towards (1, 3), now 4 cigbutts are in the cell.
++ OK: SS11 flicked towards (1, 3), now 5 cigbutts are in the cell.
++ OK: SS49 flicked towards (5, 6), now 7 cigbutts are in the cell.
++ OK: SS49 left last cell, which was (6, 5).
++ OK: SS54 flicked towards (2, 6), now 13 cigbutts are in the cell.
++ OK: SS18 flicked towards (3, 3), now 9 cigbutts are in the cell.
++ OK: SS36 flicked towards (4, 0), now 7 cigbutts are in the cell.
++ OK: SS0 flicked towards (3, 2), now 11 cigbutts are in the cell.
++ OK: SS55 flicked towards (2, 8), now 12 cigbutts are in the cell.
++ OK: SS24 flicked towards (5, 9), now 8 cigbutts are in the cell.
++ OK: SS24 left last cell, which was (5, 8).
++ OK: SS24 arrived at cell (2, 8).
++ OK: SS21 flicked towards (9, 3), now 8 cigbutts are in the cell.
++ OK: SS26 flicked towards (7, 6), now 6 cigbutts are in the cell.
++ OK: SS56 flicked towards (1, 5), now 8 cigbutts are in the cell.
++ OK: SS41 flicked towards (5, 5), now 11 cigbutts are in the cell.
++ OK: SS22 flicked towards (7, 6), now 7 cigbutts are in the cell.
++ OK: SS22 left last cell, which was (6, 7).
++ OK: SS22 arrived at cell (8, 1).
++ OK: SS25 flicked towards (4, 8), now 8 cigbutts are in the cell.
++ OK: SS2 flicked towards (4, 4), now 5 cigbutts are in the cell.
++ OK: SS4 flicked towards (1, 4), now 9 cigbutts are in the cell.
++ OK: SS4 left last cell, which was (2, 3).
++ OK: SS4 arrived at cell (7, 2).
++ OK: SS11 flicked towards (2, 3), now 4 cigbutts are in the cell.
++ OK: SS54 flicked towards (3, 6), now 7 cigbutts are in the cell.
++ OK: SS55 flicked towards (2, 9), now 8 cigbutts are in the cell.
++ OK: SS18 flicked towards (4, 3), now 7 cigbutts are in the cell.
++ OK: SS36 flicked towards (3, 0), now 9 cigbutts are in the cell.
++ OK: SS0 flicked towards (4, 2), now 9 cigbutts are in the cell.
++ OK: SS56 flicked towards (0, 5), now 6 cigbutts are in the cell.
++ OK: SS26 flicked towards (8, 6), now 9 cigbutts are in the cell.
++ OK: SS24 flicked towards (1, 7), now 5 cigbutts are in the cell.
++ OK: SS21 flicked towards (8, 3), now 6 cigbutts are in the cell.
++ OK: SS21 left last cell, which was (8, 4).
++ OK: SS21 arrived at cell (7, 4).
++ OK: SS41 flicked towards (6, 5), now 5 cigbutts are in the cell.
++ OK: SS25 flicked towards (4, 7), now 6 cigbutts are in the cell.
++ OK: SS22 flicked towards (7, 0), now 5 cigbutts are in the cell.
++ OK: SS2 flicked towards (3, 4), now 9 cigbutts are in the cell.
++ OK: SS4 flicked towards (6, 1), now 9 cigbutts are in the cell.
++ OK: SS11 flicked towards (3, 3), now 10 cigbutts are in the cell.
++ OK: SS54 flicked towards (4, 6), now 9 cigbutts are in the cell.
++ OK: SS54 left last cell, which was (3, 5).
++ OK: SS54 arrived at cell (4, 6).
++ OK: SS55 flicked towards (3, 9), now 6 cigbutts are in the cell.
++ OK: SS18 flicked towards (5, 3), now 12 cigbutts are in the cell.
++ OK: SS36 flicked towards (2, 0), now 6 cigbutts are in the cell.
++ OK: SS36 left last cell, which was (3, 1).
++ OK: SS36 arrived at cell (2, 3).
++ OK: SS10 arrived at cell (3, 1).
++ OK: SS56 flicked towards (0, 6), now 7 cigbutts are in the cell.
++ OK: SS56 left last cell, which was (1, 6).
++ OK: SS26 flicked towards (9, 6), now 5 cigbutts are in the cell.
++ OK: SS0 flicked towards (5, 2), now 5 cigbutts are in the cell.
++ OK: SS24 flicked towards (1, 8), now 5 cigbutts are in the cell.
++ OK: SS21 flicked towards (6, 3), now 6 cigbutts are in the cell.
++ OK: SS25 flicked towards (4, 6), now 10 cigbutts are in the cell.
++ OK: SS41 flicked towards (7, 5), now 9 cigbutts are in the cell.
++ OK: SS41 left last cell, which was (6, 4).
++ OK: SS41 arrived at cell (7, 3).
++ OK: SS2 flicked towards (3, 5), now 7 cigbutts are in the cell.
++ OK: SS2 left last cell, which was (4, 5).
++ OK: SS2 arrived at cell (7, 7).
++ OK: SS19 arrived at cell (4, 5).
++ OK: SS4 flicked towards (6, 2), now 8 cigbutts are in the cell.
++ OK: SS22 flicked towards (7, 1), now 8 cigbutts are in the cell.
++ OK: SS22 left last cell, which was (8, 1).
++ OK: SS22 arrived at cell (1, 7).
++ OK: SS54 flicked towards (3, 5), now 8 cigbutts are in the cell.
++ OK: SS11 flicked towards (3, 2), now 12 cigbutts are in the cell.
++ OK: SS55 flicked towards (4, 9), now 7 cigbutts are in the cell.
++ OK: SS26 flicked towards (9, 5), now 6 cigbutts are in the cell.
++ OK: SS36 flicked towards (1, 2), now 10 cigbutts are in the cell.
++ OK: SS18 flicked towards (5, 2), now 6 cigbutts are in the cell.
++ OK: SS18 left last cell, which was (4, 2).
++ OK: SS18 arrived at cell (1, 4).
++ OK: SS10 flicked towards (2, 0), now 7 cigbutts are in the cell.
++ OK: SS25 flicked towards (3, 6), now 8 cigbutts are in the cell.
++ OK: SS25 left last cell, which was (3, 7).
++ OK: SS25 arrived at cell (8, 4).
++ OK: SS56 arrived at cell (3, 7).
++ OK: SS21 flicked towards (6, 4), now 9 cigbutts are in the cell.
++ OK: SS21 left last cell, which was (7, 4).
++ OK: SS21 exited properly.
++ OK: SS24 flicked towards (1, 9), now 5 cigbutts are in the cell.
++ OK: SS0 flicked towards (5, 1), now 6 cigbutts are in the cell.
++ OK: SS0 left last cell, which was (4, 1).
++ OK: SS0 arrived at cell (7, 5).
++ OK: SS4 flicked towards (6, 3), now 7 cigbutts are in the cell.
++ OK: SS2 flicked towards (6, 6), now 10 cigbutts are in the cell.
++ OK: SS41 flicked towards (6, 2), now 9 cigbutts are in the cell.
++ OK: SS54 flicked towards (3, 6), now 9 cigbutts are in the cell.
++ OK: SS19 flicked towards (3, 4), now 10 cigbutts are in the cell.
++ OK: SS22 flicked towards (0, 6), now 8 cigbutts are in the cell.
++ OK: SS11 flicked towards (3, 1), now 8 cigbutts are in the cell.
++ OK: SS55 flicked towards (4, 8), now 9 cigbutts are in the cell.
++ OK: SS26 flicked towards (9, 4), now 10 cigbutts are in the cell.
++ OK: SS26 left last cell, which was (8, 5).
++ OK: SS26 arrived at cell (8, 3).
++ OK: SS49 arrived at cell (8, 5).
++ OK: SS36 flicked towards (1, 3), now 6 cigbutts are in the cell.
++ OK: SS36 left last cell, which was (2, 3).
++ OK: SS36 arrived at cell (2, 4).
++ OK: SS18 flicked towards (0, 3), now 9 cigbutts are in the cell.
++ OK: SS25 flicked towards (7, 3), now 7 cigbutts are in the cell.
++ OK: SS56 flicked towards (2, 6), now 14 cigbutts are in the cell.
++ OK: SS10 flicked towards (2, 1), now 9 cigbutts are in the cell.
++ OK: SS24 flicked towards (2, 9), now 9 cigbutts are in the cell.
++ OK: SS4 flicked towards (7, 3), now 8 cigbutts are in the cell.
++ OK: SS0 flicked towards (6, 4), now 10 cigbutts are in the cell.
++ OK: SS54 flicked towards (3, 7), now 9 cigbutts are in the cell.
++ OK: SS2 flicked towards (6, 7), now 4 cigbutts are in the cell.
++ OK: SS19 flicked towards (3, 5), now 9 cigbutts are in the cell.
++ OK: SS41 flicked towards (6, 3), now 8 cigbutts are in the cell.
++ OK: SS55 flicked towards (4, 7), now 7 cigbutts are in the cell.
++ OK: SS11 flicked towards (2, 1), now 10 cigbutts are in the cell.
++ OK: SS11 left last cell, which was (2, 2).
++ OK: SS11 arrived at cell (2, 3).
++ OK: SS22 flicked towards (0, 7), now 7 cigbutts are in the cell.
++ OK: SS49 flicked towards (7, 4), now 7 cigbutts are in the cell.
++ OK: SS26 flicked towards (7, 2), now 5 cigbutts are in the cell.
++ OK: SS25 flicked towards (7, 4), now 8 cigbutts are in the cell.
++ OK: SS56 flicked towards (2, 7), now 13 cigbutts are in the cell.
++ OK: SS36 flicked towards (1, 3), now 7 cigbutts are in the cell.
++ OK: SS18 flicked towards (0, 4), now 6 cigbutts are in the cell.
++ OK: SS54 flicked towards (4, 7), now 8 cigbutts are in the cell.
++ OK: SS54 left last cell, which was (4, 6).
++ OK: SS54 arrived at cell (5, 8).
++ OK: SS4 flicked towards (8, 3), now 7 cigbutts are in the cell.
++ OK: SS10 flicked towards (2, 2), now 9 cigbutts are in the cell.
++ OK: SS24 flicked towards (3, 9), now 7 cigbutts are in the cell.
++ OK: SS2 flicked towards (6, 8), now 5 cigbutts are in the cell.
++ OK: SS0 flicked towards (6, 5), now 6 cigbutts are in the cell.
++ OK: SS0 left last cell, which was (7, 5).
++ OK: SS0 arrived at cell (4, 6).
++ OK: SS19 flicked towards (3, 6), now 10 cigbutts are in the cell.
++ OK: SS55 flicked towards (3, 7), now 10 cigbutts are in the cell.
++ OK: SS41 flicked towards (6, 4), now 11 cigbutts are in the cell.
++ OK: SS11 flicked towards (1, 2), now 11 cigbutts are in the cell.
++ OK: SS49 flicked towards (7, 5), now 10 cigbutts are in the cell.
++ OK: SS26 flicked towards (7, 3), now 9 cigbutts are in the cell.
++ OK: SS22 flicked towards (0, 8), now 10 cigbutts are in the cell.
++ OK: SS25 flicked towards (7, 5), now 11 cigbutts are in the cell.
++ OK: SS56 flicked towards (2, 8), now 13 cigbutts are in the cell.
++ OK: SS56 left last cell, which was (3, 7).
++ OK: SS56 arrived at cell (1, 5).
++ OK: SS54 flicked towards (4, 7), now 9 cigbutts are in the cell.
++ OK: SS36 flicked towards (1, 4), now 10 cigbutts are in the cell.
++ OK: SS18 flicked towards (0, 5), now 7 cigbutts are in the cell.
++ OK: SS4 flicked towards (8, 2), now 6 cigbutts are in the cell.
++ OK: SS2 flicked towards (7, 8), now 10 cigbutts are in the cell.
++ OK: SS10 flicked towards (3, 2), now 13 cigbutts are in the cell.
++ OK: SS24 flicked towards (3, 8), now 8 cigbutts are in the cell.
++ OK: SS19 flicked towards (4, 6), now 11 cigbutts are in the cell.
++ OK: SS55 flicked towards (2, 7), now 14 cigbutts are in the cell.
++ OK: SS55 left last cell, which was (3, 8).
++ OK: SS55 arrived at cell (7, 1).
++ OK: SS9 arrived at cell (3, 8).
++ OK: SS0 flicked towards (3, 5), now 10 cigbutts are in the cell.
++ OK: SS11 flicked towards (1, 3), now 8 cigbutts are in the cell.
++ OK: SS41 flicked towards (7, 4), now 9 cigbutts are in the cell.
++ OK: SS49 flicked towards (7, 6), now 8 cigbutts are in the cell.
++ OK: SS26 flicked towards (7, 4), now 10 cigbutts are in the cell.
++ OK: SS25 flicked towards (8, 5), now 7 cigbutts are in the cell.
++ OK: SS22 flicked towards (1, 8), now 6 cigbutts are in the cell.
++ OK: SS56 flicked towards (0, 4), now 7 cigbutts are in the cell.
++ OK: SS54 flicked towards (4, 8), now 10 cigbutts are in the cell.
++ OK: SS4 flicked towards (8, 1), now 6 cigbutts are in the cell.
++ OK: SS4 left last cell, which was (7, 2).
++ OK: SS4 arrived at cell (7, 8).
++ OK: SS36 flicked towards (1, 5), now 9 cigbutts are in the cell.
++ OK: SS18 flicked towards (1, 5), now 10 cigbutts are in the cell.
++ OK: SS2 flicked towards (8, 8), now 9 cigbutts are in the cell.
++ OK: SS55 flicked towards (6, 0), now 6 cigbutts are in the cell.
++ OK: SS9 flicked towards (2, 7), now 15 cigbutts are in the cell.
++ OK: SS9 left last cell, which was (3, 8).
++ OK: SS9 arrived at cell (5, 3).
++ OK: SS19 flicked towards (5, 6), now 8 cigbutts are in the cell.
++ OK: SS24 flicked towards (3, 7), now 11 cigbutts are in the cell.
++ OK: SS10 flicked towards (4, 2), now 10 cigbutts are in the cell.
++ OK: SS49 flicked towards (8, 6), now 10 cigbutts are in the cell.
++ OK: SS0 flicked towards (3, 6), now 11 cigbutts are in the cell.
++ OK: SS11 flicked towards (1, 4), now 11 cigbutts are in the cell.
++ OK: SS11 left last cell, which was (2, 3).
++ OK: SS11 exited properly.
++ OK: SS26 flicked towards (8, 4), now 9 cigbutts are in the cell.
++ OK: SS26 left last cell, which was (8, 3).
++ OK: SS26 arrived at cell (5, 4).
++ OK: SS41 flicked towards (8, 4), now 10 cigbutts are in the cell.
++ OK: SS41 left last cell, which was (7, 3).
++ OK: SS41 arrived at cell (8, 6).
++ OK: SS25 flicked towards (9, 5), now 7 cigbutts are in the cell.
++ OK: SS56 flicked towards (0, 5), now 8 cigbutts are in the cell.
++ OK: SS54 flicked towards (4, 9), now 8 cigbutts are in the cell.
++ OK: SS22 flicked towards (2, 8), now 14 cigbutts are in the cell.
++ OK: SS4 flicked towards (6, 7), now 5 cigbutts are in the cell.
++ OK: SS18 flicked towards (2, 5), now 7 cigbutts are in the cell.
++ OK: SS36 flicked towards (2, 5), now 8 cigbutts are in the cell.
++ OK: SS55 flicked towards (6, 1), now 10 cigbutts are in the cell.
++ OK: SS55 left last cell, which was (7, 1).
++ OK: SS55 exited properly.
++ OK: SS2 flicked towards (8, 7), now 9 cigbutts are in the cell.
++ OK: SS2 left last cell, which was (7, 7).
++ OK: SS2 exited properly.
++ OK: SS9 flicked towards (4, 2), now 11 cigbutts are in the cell.
++ OK: SS19 flicked towards (5, 5), now 12 cigbutts are in the cell.
++ OK: SS24 flicked towards (2, 7), now 16 cigbutts are in the cell.
++ OK: SS49 flicked towards (9, 6), now 6 cigbutts are in the cell.
++ OK: SS10 flicked towards (4, 1), now 8 cigbutts are in the cell.
++ OK: SS26 flicked towards (4, 3), now 8 cigbutts are in the cell.
++ OK: SS26 left last cell, which was (5, 4).
++ OK: SS26 exited properly.
++ OK: SS25 flicked towards (9, 4), now 11 cigbutts are in the cell.
++ OK: SS0 flicked towards (3, 7), now 12 cigbutts are in the cell.
++ OK: SS56 flicked towards (0, 6), now 9 cigbutts are in the cell.
++ OK: SS41 flicked towards (7, 5), now 12 cigbutts are in the cell.
++ OK: SS54 flicked towards (5, 9), now 9 cigbutts are in the cell.
++ OK: SS4 flicked towards (6, 8), now 6 cigbutts are in the cell.
++ OK: SS22 flicked towards (2, 7), now 17 cigbutts are in the cell.
++ OK: SS22 left last cell, which was (1, 7).
++ OK: SS18 flicked towards (2, 4), now 9 cigbutts are in the cell.
++ OK: SS36 flicked towards (3, 5), now 11 cigbutts are in the cell.
++ OK: SS9 flicked towards (4, 3), now 9 cigbutts are in the cell.
++ OK: SS19 flicked towards (5, 4), now 13 cigbutts are in the cell.
++ OK: SS49 flicked towards (9, 5), now 8 cigbutts are in the cell.
++ OK: SS24 flicked towards (1, 7), now 6 cigbutts are in the cell.
++ OK: SS24 left last cell, which was (2, 8).
++ OK: SS24 arrived at cell (2, 1).
++ OK: SS25 flicked towards (9, 3), now 9 cigbutts are in the cell.
++ OK: SS25 left last cell, which was (8, 4).
++ OK: SS25 exited properly.
++ OK: SS10 flicked towards (4, 0), now 8 cigbutts are in the cell.
++ OK: SS54 flicked towards (6, 9), now 9 cigbutts are in the cell.
++ OK: SS54 left last cell, which was (5, 8).
++ OK: SS54 exited properly.
++ OK: SS56 flicked towards (1, 6), now 5 cigbutts are in the cell.
++ OK: SS0 flicked towards (4, 7), now 10 cigbutts are in the cell.
++ OK: SS0 left last cell, which was (4, 6).
++ OK: SS0 arrived at cell (8, 7).
++ OK: SS41 flicked towards (7, 6), now 9 cigbutts are in the cell.
++ OK: SS41 left last cell, which was (8, 6).
++ OK: SS41 arrived at cell (1, 8).
++ OK: SS4 flicked towards (6, 9), now 10 cigbutts are in the cell.
++ OK: SS36 flicked towards (3, 4), now 11 cigbutts are in the cell.
++ OK: SS18 flicked towards (2, 3), now 5 cigbutts are in the cell.
++ OK: SS49 flicked towards (9, 4), now 12 cigbutts are in the cell.
++ OK: SS9 flicked towards (4, 4), now 6 cigbutts are in the cell.
++ OK: SS19 flicked towards (4, 4), now 7 cigbutts are in the cell.
++ OK: SS19 left last cell, which was (4, 5).
++ OK: SS19 exited properly.
++ OK: SS15 arrived at cell (4, 5).
++ OK: SS24 flicked towards (1, 0), now 9 cigbutts are in the cell.
++ OK: SS56 flicked towards (2, 6), now 15 cigbutts are in the cell.
++ OK: SS10 flicked towards (3, 0), now 10 cigbutts are in the cell.
++ OK: SS4 flicked towards (7, 9), now 6 cigbutts are in the cell.
++ OK: SS0 flicked towards (7, 6), now 10 cigbutts are in the cell.
++ OK: SS41 flicked towards (0, 7), now 8 cigbutts are in the cell.
++ OK: SS49 flicked towards (8, 4), now 11 cigbutts are in the cell.
++ OK: SS9 flicked towards (5, 4), now 14 cigbutts are in the cell.
++ OK: SS36 flicked towards (3, 3), now 11 cigbutts are in the cell.
++ OK: SS36 left last cell, which was (2, 4).
++ OK: SS18 flicked towards (1, 3), now 9 cigbutts are in the cell.
++ OK: SS36 arrived at cell (2, 4).
++ OK: SS15 flicked towards (3, 4), now 12 cigbutts are in the cell.
++ OK: SS56 flicked towards (2, 5), now 9 cigbutts are in the cell.
++ OK: SS56 left last cell, which was (1, 5).
++ OK: SS56 arrived at cell (1, 6).
++ OK: SS24 flicked towards (1, 1), now 10 cigbutts are in the cell.
++ OK: SS4 flicked towards (8, 9), now 4 cigbutts are in the cell.
++ OK: SS10 flicked towards (2, 0), now 8 cigbutts are in the cell.
++ OK: SS0 flicked towards (7, 7), now 8 cigbutts are in the cell.
++ OK: SS41 flicked towards (0, 8), now 11 cigbutts are in the cell.
++ OK: SS49 flicked towards (7, 4), now 11 cigbutts are in the cell.
++ OK: SS9 flicked towards (6, 4), now 12 cigbutts are in the cell.
++ OK: SS36 flicked towards (1, 3), now 10 cigbutts are in the cell.
++ OK: SS18 flicked towards (0, 3), now 10 cigbutts are in the cell.
++ OK: Order BREAK delivered at 1000 ms, expected at 1000 ms. On time!
++ OK: SS15 flicked towards (3, 5), now 12 cigbutts are in the cell.
++ OK: SS56 flicked towards (0, 5), now 9 cigbutts are in the cell.
++ OK: SS24 flicked towards (1, 2), now 12 cigbutts are in the cell.
++ OK: SS4 flicked towards (8, 8), now 10 cigbutts are in the cell.
++ OK: SS10 flicked towards (2, 1), now 11 cigbutts are in the cell.
++ OK: SS10 left last cell, which was (3, 1).
++ OK: SS10 arrived at cell (6, 8).
++ OK: SS0 flicked towards (7, 8), now 11 cigbutts are in the cell.
++ OK: SS49 flicked towards (7, 5), now 13 cigbutts are in the cell.
++ OK: SS49 left last cell, which was (8, 5).
++ OK: SS49 exited properly.
++ OK: SS41 flicked towards (0, 9), now 4 cigbutts are in the cell.
++ OK: SS9 flicked towards (6, 3), now 9 cigbutts are in the cell.
++ OK: SS36 flicked towards (1, 4), now 12 cigbutts are in the cell.
++ OK: SS18 flicked towards (0, 4), now 8 cigbutts are in the cell.
++ OK: SS18 left last cell, which was (1, 4).
++ OK: SS18 arrived at cell (4, 1).
++ OK: SS56 flicked towards (0, 6), now 10 cigbutts are in the cell.
++ OK: SS15 flicked towards (3, 6), now 12 cigbutts are in the cell.
++ OK: SS4 flicked towards (8, 7), now 10 cigbutts are in the cell.
++ OK: SS24 flicked towards (2, 2), now 10 cigbutts are in the cell.
++ OK: SS10 flicked towards (5, 7), now 8 cigbutts are in the cell.
++ OK: SS10 left last cell, which was (6, 8).
++ OK: SS10 exited properly.
++ OK: SS0 flicked towards (8, 8), now 11 cigbutts are in the cell.
++ OK: SS41 flicked towards (1, 9), now 6 cigbutts are in the cell.
++ OK: SS9 flicked towards (6, 2), now 10 cigbutts are in the cell.
++ OK: SS56 flicked towards (0, 7), now 9 cigbutts are in the cell.
++ OK: SS36 flicked towards (1, 5), now 11 cigbutts are in the cell.
++ OK: SS18 flicked towards (3, 0), now 11 cigbutts are in the cell.
++ OK: SS15 flicked towards (4, 6), now 12 cigbutts are in the cell.
++ OK: SS4 flicked towards (7, 7), now 9 cigbutts are in the cell.
++ OK: SS24 flicked towards (3, 2), now 14 cigbutts are in the cell.
++ OK: SS9 flicked towards (5, 2), now 7 cigbutts are in the cell.
++ OK: SS41 flicked towards (2, 9), now 10 cigbutts are in the cell.
++ OK: SS0 flicked towards (9, 8), now 7 cigbutts are in the cell.
++ OK: SS56 flicked towards (1, 7), now 7 cigbutts are in the cell.
++ OK: SS56 left last cell, which was (1, 6).
++ OK: SS56 arrived at cell (4, 2).
++ OK: SS18 flicked towards (3, 1), now 9 cigbutts are in the cell.
++ OK: SS18 left last cell, which was (4, 1).
++ OK: SS18 arrived at cell (1, 4).
++ OK: SS36 flicked towards (2, 5), now 10 cigbutts are in the cell.
++ OK: SS4 flicked towards (6, 7), now 6 cigbutts are in the cell.
++ OK: SS4 left last cell, which was (7, 8).
++ OK: SS4 arrived at cell (5, 1).
++ OK: SS15 flicked towards (5, 6), now 9 cigbutts are in the cell.
++ OK: SS24 flicked towards (3, 1), now 10 cigbutts are in the cell.
++ OK: SS9 flicked towards (4, 2), now 12 cigbutts are in the cell.
++ OK: SS9 left last cell, which was (5, 3).
++ OK: SS9 exited properly.
++ OK: SS56 flicked towards (3, 1), now 11 cigbutts are in the cell.
++ OK: SS41 flicked towards (2, 8), now 15 cigbutts are in the cell.
++ OK: SS0 flicked towards (9, 7), now 7 cigbutts are in the cell.
++ OK: SS18 flicked towards (0, 3), now 11 cigbutts are in the cell.
++ OK: SS36 flicked towards (3, 5), now 13 cigbutts are in the cell.
++ OK: SS4 flicked towards (4, 0), now 9 cigbutts are in the cell.
++ OK: SS15 flicked towards (5, 5), now 13 cigbutts are in the cell.
++ OK: SS24 flicked towards (3, 0), now 12 cigbutts are in the cell.
++ OK: SS56 flicked towards (3, 2), now 15 cigbutts are in the cell.
++ OK: SS41 flicked towards (2, 7), now 18 cigbutts are in the cell.
++ OK: SS4 flicked towards (4, 1), now 9 cigbutts are in the cell.
++ OK: SS4 left last cell, which was (5, 1).
++ OK: SS4 exited properly.
++ OK: SS0 flicked towards (9, 6), now 7 cigbutts are in the cell.
++ OK: SS18 flicked towards (0, 4), now 9 cigbutts are in the cell.
++ OK: SS18 left last cell, which was (1, 4).
++ OK: SS18 exited properly.
++ OK: SS36 flicked towards (3, 4), now 13 cigbutts are in the cell.
++ OK: SS15 flicked towards (5, 4), now 15 cigbutts are in the cell.
++ OK: SS15 left last cell, which was (4, 5).
++ OK: SS15 exited properly.
++ OK: SS46 arrived at cell (4, 5).
++ OK: SS24 flicked towards (2, 0), now 9 cigbutts are in the cell.
++ OK: SS56 flicked towards (3, 3), now 12 cigbutts are in the cell.
++ OK: SS41 flicked towards (1, 7), now 8 cigbutts are in the cell.
++ OK: SS0 flicked towards (8, 6), now 11 cigbutts are in the cell.
++ OK: SS0 left last cell, which was (8, 7).
++ OK: SS0 exited properly.
++ OK: SS36 flicked towards (3, 3), now 13 cigbutts are in the cell.
++ OK: SS46 flicked towards (3, 4), now 14 cigbutts are in the cell.
++ OK: SS24 flicked towards (1, 0), now 10 cigbutts are in the cell.
++ OK: SS24 left last cell, which was (2, 1).
++ OK: SS24 exited properly.
++ OK: SS56 flicked towards (4, 3), now 10 cigbutts are in the cell.
++ OK: SS41 flicked towards (0, 7), now 10 cigbutts are in the cell.
++ OK: SS36 flicked towards (2, 3), now 6 cigbutts are in the cell.
++ OK: SS46 flicked towards (3, 5), now 14 cigbutts are in the cell.
++ OK: SS56 flicked towards (5, 3), now 13 cigbutts are in the cell.
++ OK: SS46 flicked towards (3, 6), now 13 cigbutts are in the cell.
++ OK: SS46 left last cell, which was (4, 5).
++ OK: SS46 exited properly.
++ OK: SS36 flicked towards (1, 3), now 11 cigbutts are in the cell.
++ OK: SS41 flicked towards (0, 8), now 12 cigbutts are in the cell.
++ OK: SS41 left last cell, which was (1, 8).
++ OK: SS41 exited properly.
++ OK: SS56 flicked towards (5, 2), now 8 cigbutts are in the cell.
++ OK: SS56 left last cell, which was (4, 2).
++ OK: SS56 exited properly.
++ OK: SS36 flicked towards (1, 4), now 13 cigbutts are in the cell.
++ OK: SS36 left last cell, which was (2, 4).
++ OK: SS36 arrived at cell (1, 2).
++ OK: SS22 arrived at cell (2, 4).
++ OK: Order CONTINUE delivered at 1500 ms, expected at 1500 ms. On time!
++ OK: SS36 flicked towards (0, 1), now 4 cigbutts are in the cell.
++ OK: SS22 flicked towards (1, 3), now 12 cigbutts are in the cell.
++ OK: SS36 flicked towards (0, 2), now 4 cigbutts are in the cell.
++ OK: SS22 flicked towards (1, 4), now 14 cigbutts are in the cell.
++ OK: SS36 flicked towards (0, 3), now 12 cigbutts are in the cell.
++ OK: SS22 flicked towards (1, 5), now 12 cigbutts are in the cell.
++ OK: SS36 flicked towards (1, 3), now 13 cigbutts are in the cell.
++ OK: SS22 flicked towards (2, 5), now 11 cigbutts are in the cell.
++ OK: SS22 left last cell, which was (2, 4).
++ OK: SS22 exited properly.
++ OK: SS36 flicked towards (2, 3), now 7 cigbutts are in the cell.
++ OK: SS36 flicked towards (2, 2), now 11 cigbutts are in the cell.
++ OK: SS36 flicked towards (2, 1), now 12 cigbutts are in the cell.
++ OK: SS36 left last cell, which was (1, 2).
++ OK: SS36 exited properly.
++ OK: Order STOP delivered at 2000 ms, expected at 2000 ms. On time!
++ OK: End of notification stream reached. Everyone has exited cleanly and all orders were delivered. Nice!
+--------------------------------------------------------------------------------
+Looks like no fatal inconsistencies occurred! Good job.
+
+Consistency multiplier:
+1.00

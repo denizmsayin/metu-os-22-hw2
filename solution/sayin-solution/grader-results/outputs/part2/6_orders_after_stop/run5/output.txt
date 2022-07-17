@@ -1,0 +1,428 @@
+t:       168 | (T140102562092800) G0 created.
+t:       194 | (T140102562092800) G0 arrived at area (36, 7).
+t:       208 | (T140102553700096) G1 created.
+t:       222 | (T140102553700096) G1 arrived at area (90, 2).
+t:       226 | (T140102545307392) G2 created.
+t:       228 | (T140102545307392) G2 arrived at area (14, 7).
+t:       257 | (T140102536914688) G3 created.
+t:       258 | (T140102536914688) G3 arrived at area (53, 7).
+t:       279 | (T140102528521984) G4 created.
+t:       281 | (T140102528521984) G4 arrived at area (49, 3).
+t:       303 | (T140102520129280) G5 created.
+t:       305 | (T140102520129280) G5 arrived at area (43, 8).
+t:       332 | (T140102437172992) G6 created.
+t:       333 | (T140102437172992) G6 arrived at area (19, 7).
+t:       349 | (T140102428780288) G7 created.
+t:       350 | (T140102428780288) G7 arrived at area (58, 5).
+t:       360 | (T140102420387584) G8 created.
+t:       383 | (T140102411994880) G9 created.
+t:       395 | (T140102420387584) G8 arrived at area (5, 5).
+t:       408 | (T140102403602176) G10 created.
+t:       409 | (T140102403602176) G10 arrived at area (67, 7).
+t:       416 | (T140102260991744) G11 created.
+t:       416 | (T140102260991744) G11 arrived at area (9, 7).
+t:       442 | (T140102411994880) G9 arrived at area (63, 0).
+t:       449 | (T140102395209472) G12 created.
+t:       451 | (T140102395209472) G12 arrived at area (42, 8).
+t:       453 | (T140102386816768) G13 created.
+t:       455 | (T140102386816768) G13 arrived at area (79, 1).
+t:       474 | (T140102286169856) G16 created.
+t:       475 | (T140102286169856) G16 arrived at area (31, 8).
+t:       477 | (T140102294562560) G15 created.
+t:       477 | (T140102294562560) G15 arrived at area (41, 0).
+t:       480 | (T140102302955264) G14 created.
+t:       482 | (T140102277777152) G17 created.
+t:       511 | (T140102302955264) G14 arrived at area (12, 1).
+t:       536 | (T140102252599040) G19 created.
+t:       537 | (T140102252599040) G19 arrived at area (59, 4).
+t:       562 | (T140102168737536) G20 created.
+t:       563 | (T140102168737536) G20 arrived at area (75, 4).
+t:       566 | (T140102277777152) G17 arrived at area (78, 6).
+t:       571 | (T140102269384448) G18 created.
+t:       573 | (T140102269384448) G18 arrived at area (29, 7).
+t:       576 | (T140102160344832) G21 created.
+t:       577 | (T140102160344832) G21 arrived at area (25, 6).
+t:       626 | (T140102151952128) G22 created.
+t:       628 | (T140102126774016) G25 created.
+t:       630 | (T140102126774016) G25 arrived at area (80, 1).
+t:       651 | (T140102151952128) G22 arrived at area (73, 4).
+t:       654 | (T140102143559424) G23 created.
+t:       656 | (T140102118381312) G26 created.
+t:       657 | (T140102118381312) G26 arrived at area (74, 5).
+t:       658 | (T140102143559424) G23 arrived at area (35, 0).
+t:       660 | (T140102135166720) G24 created.
+t:       662 | (T140102135166720) G24 arrived at area (77, 5).
+t:       678 | (T140102101595904) G28 created.
+t:       679 | (T140102101595904) G28 arrived at area (67, 8).
+t:       698 | (T140102093203200) G29 created.
+t:       699 | (T140102109988608) G27 created.
+t:       703 | (T140102109988608) G27 arrived at area (95, 6).
+t:       704 | (T140102093203200) G29 arrived at area (95, 5).
+t:       709 | (T140102084810496) G30 created.
+t:       710 | (T140102084810496) G30 arrived at area (86, 6).
+t:       734 | (T140102068025088) G32 created.
+t:       734 | (T140102068025088) G32 arrived at area (74, 6).
+t:       744 | (T140102059632384) G33 created.
+t:       751 | (T140102076417792) G31 created.
+t:       760 | (T140102051239680) G34 created.
+t:       761 | (T140102051239680) G34 arrived at area (81, 7).
+t:       761 | (T140102059632384) G33 arrived at area (60, 0).
+t:       763 | (T140102076417792) G31 arrived at area (33, 8).
+t:       771 | (T140101967410944) G35 created.
+t:       772 | (T140101967410944) G35 arrived at area (5, 0).
+t:       780 | (T140101959018240) G36 created.
+t:       781 | (T140101959018240) G36 arrived at area (68, 2).
+t:       793 | (T140101950625536) G37 created.
+t:       794 | (T140101950625536) G37 arrived at area (75, 2).
+t:       802 | (T140101942232832) G38 created.
+t:       802 | (T140101942232832) G38 arrived at area (36, 0).
+t:       811 | (T140101933840128) G39 created.
+t:       812 | (T140101933840128) G39 arrived at area (30, 5).
+t:       822 | (T140101925447424) G40 created.
+t:       823 | (T140101925447424) G40 arrived at area (35, 3).
+t:       841 | (T140101908662016) G42 created.
+t:       841 | (T140101908662016) G42 arrived at area (72, 3).
+t:       850 | (T140101900269312) G43 created.
+t:       851 | (T140101900269312) G43 arrived at area (99, 2).
+t:       860 | (T140101917054720) G41 created.
+t:       861 | (T140101917054720) G41 arrived at area (82, 9).
+t:       863 | (T140101891876608) G44 created.
+t:       864 | (T140101891876608) G44 arrived at area (69, 4).
+t:       875 | (T140101883483904) G45 created.
+t:       875 | (T140101883483904) G45 arrived at area (45, 3).
+t:       884 | (T140101875091200) G46 created.
+t:       885 | (T140101875091200) G46 arrived at area (6, 2).
+t:       898 | (T140101866698496) G47 created.
+t:       899 | (T140101866698496) G47 arrived at area (57, 5).
+t:       908 | (T140101858305792) G48 created.
+t:       909 | (T140101858305792) G48 arrived at area (78, 0).
+t:       919 | (T140101849913088) G49 created.
+t:       919 | (T140101849913088) G49 arrived at area (7, 7).
+t:     95570 | (T140102553700096) G1 gathered a cigbutt from (90, 2).
+t:     95608 | (T140102294562560) G15 gathered a cigbutt from (41, 0).
+t:     95943 | (T140101925447424) G40 gathered a cigbutt from (35, 3).
+t:     96351 | (T140102545307392) G2 gathered a cigbutt from (14, 7).
+t:     96894 | (T140101967410944) G35 gathered a cigbutt from (5, 0).
+t:     96904 | (T140101959018240) G36 gathered a cigbutt from (68, 2).
+t:     97692 | (T140102277777152) G17 gathered a cigbutt from (78, 6).
+t:     97748 | (T140102084810496) G30 gathered a cigbutt from (86, 6).
+t:     98518 | (T140102420387584) G8 gathered a cigbutt from (5, 5).
+t:     98909 | (T140102302955264) G14 gathered a cigbutt from (12, 1).
+t:     98935 | (T140101891876608) G44 gathered a cigbutt from (69, 4).
+t:     98954 | (T140101875091200) G46 gathered a cigbutt from (6, 2).
+t:     98993 | (T140101866698496) G47 gathered a cigbutt from (57, 5).
+t:     99027 | (T140101900269312) G43 gathered a cigbutt from (99, 2).
+t:     99103 | (T140101908662016) G42 gathered a cigbutt from (72, 3).
+t:     99173 | (T140101883483904) G45 gathered a cigbutt from (45, 3).
+t:     99393 | (T140102520129280) G5 gathered a cigbutt from (43, 8).
+t:     99417 | (T140102536914688) G3 gathered a cigbutt from (53, 7).
+t:     99456 | (T140102437172992) G6 gathered a cigbutt from (19, 7).
+t:     99604 | (T140102252599040) G19 gathered a cigbutt from (59, 4).
+t:     99728 | (T140102135166720) G24 gathered a cigbutt from (77, 5).
+t:     99822 | (T140102109988608) G27 gathered a cigbutt from (95, 6).
+t:    100477 | (T140102428780288) G7 gathered a cigbutt from (58, 5).
+t:    101693 | (T140102411994880) G9 gathered a cigbutt from (63, 0).
+t:    101739 | (T140102286169856) G16 gathered a cigbutt from (31, 8).
+t:    101792 | (T140102151952128) G22 gathered a cigbutt from (73, 4).
+t:    101835 | (T140102076417792) G31 gathered a cigbutt from (33, 8).
+t:    102537 | (T140102403602176) G10 gathered a cigbutt from (67, 7).
+t:    102711 | (T140102160344832) G21 gathered a cigbutt from (25, 6).
+t:    102721 | (T140102168737536) G20 gathered a cigbutt from (75, 4).
+t:    102763 | (T140102118381312) G26 gathered a cigbutt from (74, 5).
+t:    102807 | (T140102093203200) G29 gathered a cigbutt from (95, 5).
+t:    102878 | (T140101933840128) G39 gathered a cigbutt from (30, 5).
+t:    103322 | (T140102562092800) G0 gathered a cigbutt from (36, 7).
+t:    103421 | (T140102528521984) G4 gathered a cigbutt from (49, 3).
+t:    103583 | (T140102386816768) G13 gathered a cigbutt from (79, 1).
+t:    103747 | (T140102101595904) G28 gathered a cigbutt from (67, 8).
+t:    104106 | (T140101858305792) G48 gathered a cigbutt from (78, 0).
+t:    104790 | (T140102269384448) G18 gathered a cigbutt from (29, 7).
+t:    104929 | (T140101942232832) G38 gathered a cigbutt from (36, 0).
+t:    105546 | (T140102260991744) G11 gathered a cigbutt from (9, 7).
+t:    105588 | (T140102395209472) G12 gathered a cigbutt from (42, 8).
+t:    105727 | (T140102126774016) G25 gathered a cigbutt from (80, 1).
+t:    105808 | (T140102143559424) G23 gathered a cigbutt from (35, 0).
+t:    105825 | (T140102068025088) G32 gathered a cigbutt from (74, 6).
+t:    105848 | (T140102051239680) G34 gathered a cigbutt from (81, 7).
+t:    105886 | (T140102059632384) G33 gathered a cigbutt from (60, 0).
+t:    105910 | (T140101950625536) G37 gathered a cigbutt from (75, 2).
+t:    105928 | (T140101917054720) G41 gathered a cigbutt from (82, 9).
+t:    105988 | (T140101849913088) G49 gathered a cigbutt from (7, 7).
+t:    190899 | (T140102553700096) G1 gathered a cigbutt from (90, 2).
+t:    190928 | (T140102294562560) G15 gathered a cigbutt from (41, 0).
+t:    191076 | (T140101925447424) G40 gathered a cigbutt from (35, 3).
+t:    192622 | (T140102545307392) G2 gathered a cigbutt from (14, 7).
+t:    193120 | (T140101959018240) G36 gathered a cigbutt from (68, 2).
+t:    193147 | (T140101967410944) G35 gathered a cigbutt from (5, 0).
+t:    194835 | (T140102277777152) G17 gathered a cigbutt from (78, 6).
+t:    194878 | (T140102084810496) G30 gathered a cigbutt from (86, 6).
+t:    194987 | (T140102302955264) G14 gathered a cigbutt from (12, 1).
+t:    195088 | (T140101866698496) G47 gathered a cigbutt from (57, 5).
+t:    196197 | (T140101891876608) G44 gathered a cigbutt from (69, 4).
+t:    196227 | (T140101875091200) G46 gathered a cigbutt from (6, 2).
+t:    196314 | (T140101883483904) G45 gathered a cigbutt from (45, 3).
+t:    196725 | (T140102420387584) G8 gathered a cigbutt from (5, 5).
+t:    197256 | (T140101900269312) G43 gathered a cigbutt from (99, 2).
+t:    197286 | (T140101908662016) G42 gathered a cigbutt from (72, 3).
+t:    198537 | (T140102520129280) G5 gathered a cigbutt from (43, 8).
+t:    198558 | (T140102536914688) G3 gathered a cigbutt from (53, 7).
+t:    198595 | (T140102437172992) G6 gathered a cigbutt from (19, 7).
+t:    198676 | (T140102252599040) G19 gathered a cigbutt from (59, 4).
+t:    198797 | (T140102135166720) G24 gathered a cigbutt from (77, 5).
+t:    198976 | (T140102109988608) G27 gathered a cigbutt from (95, 6).
+t:    200762 | (T140102428780288) G7 gathered a cigbutt from (58, 5).
+t:    202890 | (T140102286169856) G16 gathered a cigbutt from (31, 8).
+t:    202919 | (T140102411994880) G9 gathered a cigbutt from (63, 0).
+t:    202937 | (T140102151952128) G22 gathered a cigbutt from (73, 4).
+t:    202977 | (T140102076417792) G31 gathered a cigbutt from (33, 8).
+t:    204822 | (T140102403602176) G10 gathered a cigbutt from (67, 7).
+t:    204850 | (T140102160344832) G21 gathered a cigbutt from (25, 6).
+t:    204877 | (T140102168737536) G20 gathered a cigbutt from (75, 4).
+t:    204890 | (T140102118381312) G26 gathered a cigbutt from (74, 5).
+t:    204899 | (T140102093203200) G29 gathered a cigbutt from (95, 5).
+t:    204948 | (T140101933840128) G39 gathered a cigbutt from (30, 5).
+t:    206460 | (T140102562092800) G0 gathered a cigbutt from (36, 7).
+t:    206552 | (T140102528521984) G4 gathered a cigbutt from (49, 3).
+t:    206717 | (T140102386816768) G13 gathered a cigbutt from (79, 1).
+t:    206819 | (T140102101595904) G28 gathered a cigbutt from (67, 8).
+t:    207324 | (T140101858305792) G48 gathered a cigbutt from (78, 0).
+t:    209147 | (T140101942232832) G38 gathered a cigbutt from (36, 0).
+t:    209175 | (T140102269384448) G18 gathered a cigbutt from (29, 7).
+t:    210681 | (T140102260991744) G11 gathered a cigbutt from (9, 7).
+t:    210730 | (T140102395209472) G12 gathered a cigbutt from (42, 8).
+t:    210800 | (T140102126774016) G25 gathered a cigbutt from (80, 1).
+t:    210920 | (T140102051239680) G34 gathered a cigbutt from (81, 7).
+t:    210955 | (T140102143559424) G23 gathered a cigbutt from (35, 0).
+t:    210967 | (T140102068025088) G32 gathered a cigbutt from (74, 6).
+t:    210997 | (T140101917054720) G41 gathered a cigbutt from (82, 9).
+t:    211016 | (T140102059632384) G33 gathered a cigbutt from (60, 0).
+t:    211048 | (T140101950625536) G37 gathered a cigbutt from (75, 2).
+t:    211062 | (T140101849913088) G49 gathered a cigbutt from (7, 7).
+t:    286239 | (T140102553700096) G1 gathered a cigbutt from (90, 2).
+t:    286269 | (T140102294562560) G15 gathered a cigbutt from (41, 0).
+t:    286309 | (T140101925447424) G40 gathered a cigbutt from (35, 3).
+t:    288934 | (T140102545307392) G2 gathered a cigbutt from (14, 7).
+t:    289273 | (T140101959018240) G36 gathered a cigbutt from (68, 2).
+t:    289306 | (T140101967410944) G35 gathered a cigbutt from (5, 0).
+t:    291117 | (T140102302955264) G14 gathered a cigbutt from (12, 1).
+t:    291215 | (T140101866698496) G47 gathered a cigbutt from (57, 5).
+t:    291976 | (T140102277777152) G17 gathered a cigbutt from (78, 6).
+t:    292015 | (T140102084810496) G30 gathered a cigbutt from (86, 6).
+t:    293494 | (T140101883483904) G45 gathered a cigbutt from (45, 3).
+t:    293523 | (T140101891876608) G44 gathered a cigbutt from (69, 4).
+t:    293597 | (T140101875091200) G46 gathered a cigbutt from (6, 2).
+t:    294864 | (T140102420387584) G8 gathered a cigbutt from (5, 5).
+t:    295499 | (T140101908662016) G42 gathered a cigbutt from (72, 3).
+t:    295533 | (T140101900269312) G43 gathered a cigbutt from (99, 2).
+t:    297864 | (T140102536914688) G3 gathered a cigbutt from (53, 7).
+t:    297897 | (T140102437172992) G6 gathered a cigbutt from (19, 7).
+t:    297912 | (T140102135166720) G24 gathered a cigbutt from (77, 5).
+t:    297968 | (T140102520129280) G5 gathered a cigbutt from (43, 8).
+t:    298042 | (T140102252599040) G19 gathered a cigbutt from (59, 4).
+t:    298098 | (T140102109988608) G27 gathered a cigbutt from (95, 6).
+t:    301073 | (T140102428780288) G7 gathered a cigbutt from (58, 5).
+t:    304223 | (T140102151952128) G22 gathered a cigbutt from (73, 4).
+t:    304250 | (T140102076417792) G31 gathered a cigbutt from (33, 8).
+t:    304331 | (T140102286169856) G16 gathered a cigbutt from (31, 8).
+t:    304364 | (T140102411994880) G9 gathered a cigbutt from (63, 0).
+t:    307092 | (T140102118381312) G26 gathered a cigbutt from (74, 5).
+t:    307108 | (T140102403602176) G10 gathered a cigbutt from (67, 7).
+t:    307127 | (T140102168737536) G20 gathered a cigbutt from (75, 4).
+t:    307137 | (T140102093203200) G29 gathered a cigbutt from (95, 5).
+t:    307150 | (T140101933840128) G39 gathered a cigbutt from (30, 5).
+t:    307161 | (T140102160344832) G21 gathered a cigbutt from (25, 6).
+t:    309792 | (T140102562092800) G0 gathered a cigbutt from (36, 7).
+t:    309808 | (T140102386816768) G13 gathered a cigbutt from (79, 1).
+t:    309826 | (T140102528521984) G4 gathered a cigbutt from (49, 3).
+t:    309893 | (T140102101595904) G28 gathered a cigbutt from (67, 8).
+t:    310466 | (T140101858305792) G48 gathered a cigbutt from (78, 0).
+t:    313476 | (T140101942232832) G38 gathered a cigbutt from (36, 0).
+t:    313505 | (T140102269384448) G18 gathered a cigbutt from (29, 7).
+t:    315990 | (T140102395209472) G12 gathered a cigbutt from (42, 8).
+t:    316006 | (T140102260991744) G11 gathered a cigbutt from (9, 7).
+t:    316030 | (T140102126774016) G25 gathered a cigbutt from (80, 1).
+t:    316039 | (T140102051239680) G34 gathered a cigbutt from (81, 7).
+t:    316070 | (T140101917054720) G41 gathered a cigbutt from (82, 9).
+t:    316089 | (T140102143559424) G23 gathered a cigbutt from (35, 0).
+t:    316098 | (T140102059632384) G33 gathered a cigbutt from (60, 0).
+t:    316131 | (T140101950625536) G37 gathered a cigbutt from (75, 2).
+t:    316147 | (T140101849913088) G49 gathered a cigbutt from (7, 7).
+t:    316155 | (T140102068025088) G32 gathered a cigbutt from (74, 6).
+t:    381585 | (T140101925447424) G40 gathered a cigbutt from (35, 3).
+t:    381615 | (T140102294562560) G15 gathered a cigbutt from (41, 0).
+t:    381643 | (T140102553700096) G1 gathered a cigbutt from (90, 2).
+t:    385243 | (T140102545307392) G2 gathered a cigbutt from (14, 7).
+t:    385409 | (T140101959018240) G36 gathered a cigbutt from (68, 2).
+t:    385482 | (T140101967410944) G35 gathered a cigbutt from (5, 0).
+t:    387404 | (T140102302955264) G14 gathered a cigbutt from (12, 1).
+t:    387433 | (T140101866698496) G47 gathered a cigbutt from (57, 5).
+t:    389272 | (T140102084810496) G30 gathered a cigbutt from (86, 6).
+t:    389299 | (T140102277777152) G17 gathered a cigbutt from (78, 6).
+t:    390652 | (T140101883483904) G45 gathered a cigbutt from (45, 3).
+t:    390670 | (T140101891876608) G44 gathered a cigbutt from (69, 4).
+t:    390738 | (T140101875091200) G46 gathered a cigbutt from (6, 2).
+t:    393167 | (T140102420387584) G8 gathered a cigbutt from (5, 5).
+t:    393657 | (T140101908662016) G42 gathered a cigbutt from (72, 3).
+t:    393678 | (T140101900269312) G43 gathered a cigbutt from (99, 2).
+t:    397198 | (T140102135166720) G24 gathered a cigbutt from (77, 5).
+t:    397227 | (T140102109988608) G27 gathered a cigbutt from (95, 6).
+t:    397299 | (T140102437172992) G6 gathered a cigbutt from (19, 7).
+t:    397366 | (T140102536914688) G3 gathered a cigbutt from (53, 7).
+t:    397400 | (T140102520129280) G5 gathered a cigbutt from (43, 8).
+t:    397475 | (T140102252599040) G19 gathered a cigbutt from (59, 4).
+t:    401383 | (T140102428780288) G7 gathered a cigbutt from (58, 5).
+t:    405558 | (T140102151952128) G22 gathered a cigbutt from (73, 4).
+t:    405592 | (T140102076417792) G31 gathered a cigbutt from (33, 8).
+t:    405621 | (T140102411994880) G9 gathered a cigbutt from (63, 0).
+t:    405649 | (T140102286169856) G16 gathered a cigbutt from (31, 8).
+t:    409436 | (T140102168737536) G20 gathered a cigbutt from (75, 4).
+t:    409464 | (T140102118381312) G26 gathered a cigbutt from (74, 5).
+t:    409540 | (T140101933840128) G39 gathered a cigbutt from (30, 5).
+t:    409614 | (T140102403602176) G10 gathered a cigbutt from (67, 7).
+t:    409690 | (T140102160344832) G21 gathered a cigbutt from (25, 6).
+t:    409769 | (T140102093203200) G29 gathered a cigbutt from (95, 5).
+t:    413128 | (T140102386816768) G13 gathered a cigbutt from (79, 1).
+t:    413160 | (T140102101595904) G28 gathered a cigbutt from (67, 8).
+t:    413226 | (T140102562092800) G0 gathered a cigbutt from (36, 7).
+t:    413305 | (T140102528521984) G4 gathered a cigbutt from (49, 3).
+t:    413603 | (T140101858305792) G48 gathered a cigbutt from (78, 0).
+t:    417821 | (T140102269384448) G18 gathered a cigbutt from (29, 7).
+t:    417857 | (T140101942232832) G38 gathered a cigbutt from (36, 0).
+t:    421332 | (T140102395209472) G12 gathered a cigbutt from (42, 8).
+t:    421346 | (T140101950625536) G37 gathered a cigbutt from (75, 2).
+t:    421379 | (T140102051239680) G34 gathered a cigbutt from (81, 7).
+t:    421411 | (T140102126774016) G25 gathered a cigbutt from (80, 1).
+t:    421484 | (T140102143559424) G23 gathered a cigbutt from (35, 0).
+t:    421521 | (T140101849913088) G49 gathered a cigbutt from (7, 7).
+t:    421593 | (T140101917054720) G41 gathered a cigbutt from (82, 9).
+t:    421629 | (T140102260991744) G11 gathered a cigbutt from (9, 7).
+t:    421701 | (T140102068025088) G32 gathered a cigbutt from (74, 6).
+t:    421737 | (T140102059632384) G33 gathered a cigbutt from (60, 0).
+t:    476923 | (T140101925447424) G40 gathered a cigbutt from (35, 3).
+t:    476949 | (T140102294562560) G15 gathered a cigbutt from (41, 0).
+t:    476985 | (T140102553700096) G1 gathered a cigbutt from (90, 2).
+t:    481552 | (T140102545307392) G2 gathered a cigbutt from (14, 7).
+t:    481603 | (T140101959018240) G36 gathered a cigbutt from (68, 2).
+t:    481625 | (T140101967410944) G35 gathered a cigbutt from (5, 0).
+t:    483724 | (T140102302955264) G14 gathered a cigbutt from (12, 1).
+t:    483750 | (T140101866698496) G47 gathered a cigbutt from (57, 5).
+t:    486437 | (T140102084810496) G30 gathered a cigbutt from (86, 6).
+t:    486469 | (T140102277777152) G17 gathered a cigbutt from (78, 6).
+t:    487940 | (T140101891876608) G44 gathered a cigbutt from (69, 4).
+t:    487973 | (T140101883483904) G45 gathered a cigbutt from (45, 3).
+t:    488052 | (T140101875091200) G46 gathered a cigbutt from (6, 2).
+t:    491442 | (T140102420387584) G8 gathered a cigbutt from (5, 5).
+t:    491882 | (T140101908662016) G42 gathered a cigbutt from (72, 3).
+t:    491914 | (T140101900269312) G43 gathered a cigbutt from (99, 2).
+t:    496534 | (T140102109988608) G27 gathered a cigbutt from (95, 6).
+t:    496552 | (T140102520129280) G5 gathered a cigbutt from (43, 8).
+t:    496566 | (T140102437172992) G6 gathered a cigbutt from (19, 7).
+t:    496595 | (T140102135166720) G24 gathered a cigbutt from (77, 5).
+t:    496613 | (T140102252599040) G19 gathered a cigbutt from (59, 4).
+t:    496658 | (T140102536914688) G3 gathered a cigbutt from (53, 7).
+t:    501695 | (T140102428780288) G7 gathered a cigbutt from (58, 5).
+t:    506718 | (T140102151952128) G22 gathered a cigbutt from (73, 4).
+t:    506748 | (T140102076417792) G31 gathered a cigbutt from (33, 8).
+t:    506777 | (T140102411994880) G9 gathered a cigbutt from (63, 0).
+t:    506804 | (T140102286169856) G16 gathered a cigbutt from (31, 8).
+t:    511752 | (T140102118381312) G26 gathered a cigbutt from (74, 5).
+t:    511767 | (T140102403602176) G10 gathered a cigbutt from (67, 7).
+t:    511785 | (T140102168737536) G20 gathered a cigbutt from (75, 4).
+t:    511808 | (T140101933840128) G39 gathered a cigbutt from (30, 5).
+t:    511840 | (T140102160344832) G21 gathered a cigbutt from (25, 6).
+t:    511908 | (T140102093203200) G29 gathered a cigbutt from (95, 5).
+t:    516463 | (T140102101595904) G28 gathered a cigbutt from (67, 8).
+t:    516515 | (T140102528521984) G4 gathered a cigbutt from (49, 3).
+t:    516584 | (T140102386816768) G13 gathered a cigbutt from (79, 1).
+t:    516654 | (T140102562092800) G0 gathered a cigbutt from (36, 7).
+t:    516740 | (T140101858305792) G48 gathered a cigbutt from (78, 0).
+t:    521985 | (T140102269384448) G18 gathered a cigbutt from (29, 7).
+t:    522013 | (T140101942232832) G38 gathered a cigbutt from (36, 0).
+t:    526498 | (T140102395209472) G12 gathered a cigbutt from (42, 8).
+t:    526524 | (T140102126774016) G25 gathered a cigbutt from (80, 1).
+t:    526556 | (T140102051239680) G34 gathered a cigbutt from (81, 7).
+t:    526585 | (T140101950625536) G37 gathered a cigbutt from (75, 2).
+t:    526629 | (T140101849913088) G49 gathered a cigbutt from (7, 7).
+t:    526662 | (T140102143559424) G23 gathered a cigbutt from (35, 0).
+t:    526748 | (T140101917054720) G41 gathered a cigbutt from (82, 9).
+t:    526777 | (T140102260991744) G11 gathered a cigbutt from (9, 7).
+t:    526880 | (T140102059632384) G33 gathered a cigbutt from (60, 0).
+t:    526907 | (T140102068025088) G32 gathered a cigbutt from (74, 6).
+t:    572260 | (T140102553700096) G1 gathered a cigbutt from (90, 2).
+t:    572289 | (T140102294562560) G15 gathered a cigbutt from (41, 0).
+t:    572313 | (T140101925447424) G40 gathered a cigbutt from (35, 3).
+t:    577883 | (T140101967410944) G35 gathered a cigbutt from (5, 0).
+t:    577916 | (T140102545307392) G2 gathered a cigbutt from (14, 7).
+t:    577988 | (T140101959018240) G36 gathered a cigbutt from (68, 2).
+t:    580038 | (T140101866698496) G47 gathered a cigbutt from (57, 5).
+t:    580068 | (T140102302955264) G14 gathered a cigbutt from (12, 1).
+t:    583744 | (T140102084810496) G30 gathered a cigbutt from (86, 6).
+t:    583774 | (T140102277777152) G17 gathered a cigbutt from (78, 6).
+t:    585237 | (T140101891876608) G44 gathered a cigbutt from (69, 4).
+t:    585263 | (T140101883483904) G45 gathered a cigbutt from (45, 3).
+t:    585341 | (T140101875091200) G46 gathered a cigbutt from (6, 2).
+t:    589771 | (T140102420387584) G8 gathered a cigbutt from (5, 5).
+t:    590116 | (T140101908662016) G42 gathered a cigbutt from (72, 3).
+t:    590150 | (T140101900269312) G43 gathered a cigbutt from (99, 2).
+t:    595859 | (T140102520129280) G5 gathered a cigbutt from (43, 8).
+t:    595891 | (T140102252599040) G19 gathered a cigbutt from (59, 4).
+t:    595967 | (T140102437172992) G6 gathered a cigbutt from (19, 7).
+t:    596041 | (T140102135166720) G24 gathered a cigbutt from (77, 5).
+t:    596115 | (T140102536914688) G3 gathered a cigbutt from (53, 7).
+t:    596231 | (T140102109988608) G27 gathered a cigbutt from (95, 6).
+t:    600608 | (T140102562096960) STOP!
+t:    600652 | (T140102428780288) G7 stopped as ordered.
+t:    600670 | (T140101933840128) G39 stopped as ordered.
+t:    600832 | (T140102286169856) G16 stopped as ordered.
+t:    601000 | (T140102403602176) G10 stopped as ordered.
+t:    601114 | (T140102151952128) G22 stopped as ordered.
+t:    601299 | (T140102168737536) G20 stopped as ordered.
+t:    601393 | (T140102101595904) G28 stopped as ordered.
+t:    601424 | (T140102562092800) G0 stopped as ordered.
+t:    601449 | (T140101858305792) G48 stopped as ordered.
+t:    601504 | (T140102411994880) G9 stopped as ordered.
+t:    601531 | (T140101942232832) G38 stopped as ordered.
+t:    601553 | (T140102269384448) G18 stopped as ordered.
+t:    601596 | (T140102395209472) G12 stopped as ordered.
+t:    601623 | (T140102126774016) G25 stopped as ordered.
+t:    601686 | (T140102386816768) G13 stopped as ordered.
+t:    601702 | (T140102051239680) G34 stopped as ordered.
+t:    601742 | (T140101950625536) G37 stopped as ordered.
+t:    601762 | (T140101849913088) G49 stopped as ordered.
+t:    601785 | (T140102143559424) G23 stopped as ordered.
+t:    601815 | (T140101917054720) G41 stopped as ordered.
+t:    601850 | (T140102260991744) G11 stopped as ordered.
+t:    601857 | (T140102068025088) G32 stopped as ordered.
+t:    601880 | (T140102294562560) G15 stopped as ordered.
+t:    601897 | (T140101967410944) G35 stopped as ordered.
+t:    601912 | (T140102553700096) G1 stopped as ordered.
+t:    601930 | (T140101959018240) G36 stopped as ordered.
+t:    601944 | (T140102545307392) G2 stopped as ordered.
+t:    601952 | (T140102084810496) G30 stopped as ordered.
+t:    601977 | (T140101866698496) G47 stopped as ordered.
+t:    601989 | (T140101883483904) G45 stopped as ordered.
+t:    602000 | (T140102252599040) G19 stopped as ordered.
+t:    602007 | (T140102420387584) G8 stopped as ordered.
+t:    602022 | (T140102135166720) G24 stopped as ordered.
+t:    602031 | (T140101900269312) G43 stopped as ordered.
+t:    602069 | (T140102520129280) G5 stopped as ordered.
+t:    602079 | (T140102302955264) G14 stopped as ordered.
+t:    602117 | (T140101891876608) G44 stopped as ordered.
+t:    602163 | (T140102277777152) G17 stopped as ordered.
+t:    602221 | (T140102118381312) G26 stopped as ordered.
+t:    602279 | (T140102059632384) G33 stopped as ordered.
+t:    602337 | (T140101925447424) G40 stopped as ordered.
+t:    602411 | (T140101908662016) G42 stopped as ordered.
+t:    602462 | (T140102109988608) G27 stopped as ordered.
+t:    602550 | (T140101875091200) G46 stopped as ordered.
+t:    602614 | (T140102536914688) G3 stopped as ordered.
+t:    602673 | (T140102160344832) G21 stopped as ordered.
+t:    602821 | (T140102076417792) G31 stopped as ordered.
+t:    602980 | (T140102093203200) G29 stopped as ordered.
+t:    603044 | (T140102437172992) G6 stopped as ordered.
+t:    603183 | (T140102528521984) G4 stopped as ordered.
+t:   1000302 | (T140102562096960) BREAK!
+t:   1200304 | (T140102562096960) CONTINUE!
+t:   1400301 | (T140102562096960) STOP!
+t:   1600302 | (T140102562096960) BREAK!
+t:   1800303 | (T140102562096960) BREAK!

@@ -1,0 +1,32 @@
++ OK: PP0 created with tid=140686483187456.
++ OK: PP0 arrived at area (0, 0).
++ OK: PP0 gathered from (0, 0), leaving 16 cigbutts in the cell.
++ OK: PP0 gathered from (0, 0), leaving 15 cigbutts in the cell.
++ OK: PP0 gathered from (0, 0), leaving 14 cigbutts in the cell.
++ OK: PP0 gathered from (0, 0), leaving 13 cigbutts in the cell.
++ OK: PP0 gathered from (0, 0), leaving 12 cigbutts in the cell.
++ OK: PP0 gathered from (0, 0), leaving 11 cigbutts in the cell.
++ OK: PP0 gathered from (0, 0), leaving 10 cigbutts in the cell.
++ OK: PP0 gathered from (0, 0), leaving 9 cigbutts in the cell.
++ OK: PP0 gathered from (0, 0), leaving 8 cigbutts in the cell.
++ OK: Order BREAK delivered at 1000 ms, expected at 1000 ms. On time!
++ OK: PP0 took a break.
++ OK: Order CONTINUE delivered at 2000 ms, expected at 2000 ms. On time!
++ OK: PP0 continued after a break.
++ OK: PP0 arrived at area (0, 0).
++ OK: PP0 gathered from (0, 0), leaving 7 cigbutts in the cell.
++ OK: PP0 gathered from (0, 0), leaving 6 cigbutts in the cell.
++ OK: PP0 gathered from (0, 0), leaving 5 cigbutts in the cell.
++ OK: PP0 gathered from (0, 0), leaving 4 cigbutts in the cell.
++ OK: PP0 gathered from (0, 0), leaving 3 cigbutts in the cell.
++ OK: PP0 gathered from (0, 0), leaving 2 cigbutts in the cell.
++ OK: PP0 gathered from (0, 0), leaving 1 cigbutts in the cell.
++ OK: PP0 gathered from (0, 0), leaving 0 cigbutts in the cell.
++ OK: PP0 left last area, which was (0, 0).
++ OK: PP0 exited properly.
++ OK: End of notification stream reached. Everyone has exited cleanly and all orders were delivered. Nice!
+--------------------------------------------------------------------------------
+Looks like no fatal inconsistencies occurred! Good job.
+
+Consistency multiplier:
+1.00

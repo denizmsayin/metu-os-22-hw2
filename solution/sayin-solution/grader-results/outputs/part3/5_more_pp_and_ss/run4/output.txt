@@ -1,0 +1,637 @@
+t:       100 | (T140533587011328) G0 created.
+t:       141 | (T140533587011328) G0 arrived at area (0, 5).
+t:       189 | (T140533578618624) G1 created.
+t:       193 | (T140533578618624) G1 arrived at area (6, 7).
+t:       194 | (T140533570225920) G6 created.
+t:       204 | (T140533553440512) G12 created.
+t:       205 | (T140533553440512) G12 arrived at area (5, 1).
+t:       226 | (T140533477406464) G17 created.
+t:       261 | (T140533460621056) G27 created.
+t:       262 | (T140533561833216) G7 created.
+t:       281 | (T140533469013760) G22 created.
+t:       283 | (T140533469013760) G22 arrived at area (2, 5).
+t:       327 | (T140533452228352) G30 created.
+t:       342 | (T140533443835648) G31 created.
+t:       346 | (T140533427050240) S2 created.
+t:       348 | (T140533427050240) S2 arrived at cell (1, 2).
+t:       357 | (T140533435442944) S0 created.
+t:       381 | (T140533418657536) S5 created.
+t:       392 | (T140533410264832) S9 created.
+t:       393 | (T140533410264832) S9 arrived at cell (2, 2).
+t:       403 | (T140533385086720) S18 created.
+t:       411 | (T140533376694016) S23 created.
+t:       415 | (T140533401872128) S13 created.
+t:       422 | (T140533393479424) S14 created.
+t:       426 | (T140533393479424) S14 arrived at cell (4, 8).
+t:       451 | (T140533368301312) S27 created.
+t:       485 | (T140533359908608) S30 created.
+t:     45446 | (T140533587011328) G0 gathered a cigbutt from (0, 5).
+t:     48492 | (T140533578618624) G1 gathered a cigbutt from (6, 7).
+t:     48520 | (T140533393479424) S14 flicked a cigbutt towards (3, 7).
+t:     51676 | (T140533410264832) S9 flicked a cigbutt towards (1, 1).
+t:     53503 | (T140533553440512) G12 gathered a cigbutt from (5, 1).
+t:     54482 | (T140533427050240) S2 flicked a cigbutt towards (0, 1).
+t:     54485 | (T140533427050240) S2 had enough of the current area and left.
+t:     55522 | (T140533469013760) G22 gathered a cigbutt from (2, 5).
+t:     90761 | (T140533587011328) G0 gathered a cigbutt from (0, 5).
+t:     96813 | (T140533578618624) G1 gathered a cigbutt from (6, 7).
+t:     96848 | (T140533393479424) S14 flicked a cigbutt towards (3, 8).
+t:    102987 | (T140533410264832) S9 flicked a cigbutt towards (1, 2).
+t:    106817 | (T140533553440512) G12 gathered a cigbutt from (5, 1).
+t:    110837 | (T140533469013760) G22 gathered a cigbutt from (2, 5).
+t:    136080 | (T140533587011328) G0 gathered a cigbutt from (0, 5).
+t:    145142 | (T140533578618624) G1 gathered a cigbutt from (6, 7).
+t:    145175 | (T140533393479424) S14 flicked a cigbutt towards (3, 9).
+t:    145186 | (T140533393479424) S14 had enough of the current area and left.
+t:    154305 | (T140533410264832) S9 flicked a cigbutt towards (1, 3).
+t:    160135 | (T140533553440512) G12 gathered a cigbutt from (5, 1).
+t:    166152 | (T140533469013760) G22 gathered a cigbutt from (2, 5).
+t:    181399 | (T140533587011328) G0 gathered a cigbutt from (0, 5).
+t:    193464 | (T140533578618624) G1 gathered a cigbutt from (6, 8).
+t:    205637 | (T140533410264832) S9 flicked a cigbutt towards (2, 3).
+t:    213454 | (T140533553440512) G12 gathered a cigbutt from (5, 1).
+t:    221469 | (T140533469013760) G22 gathered a cigbutt from (2, 5).
+t:    226716 | (T140533587011328) G0 gathered a cigbutt from (0, 6).
+t:    241780 | (T140533578618624) G1 gathered a cigbutt from (6, 8).
+t:    256953 | (T140533410264832) S9 flicked a cigbutt towards (3, 3).
+t:    266772 | (T140533553440512) G12 gathered a cigbutt from (5, 1).
+t:    272031 | (T140533587011328) G0 gathered a cigbutt from (0, 6).
+t:    276787 | (T140533469013760) G22 gathered a cigbutt from (2, 6).
+t:    290093 | (T140533578618624) G1 gathered a cigbutt from (6, 8).
+t:    308268 | (T140533410264832) S9 flicked a cigbutt towards (3, 2).
+t:    317341 | (T140533587011328) G0 gathered a cigbutt from (0, 6).
+t:    320094 | (T140533553440512) G12 gathered a cigbutt from (5, 2).
+t:    332160 | (T140533469013760) G22 gathered a cigbutt from (2, 6).
+t:    338243 | (T140533578618624) G1 gathered a cigbutt from (6, 9).
+t:    359585 | (T140533410264832) S9 flicked a cigbutt towards (3, 1).
+t:    359597 | (T140533410264832) S9 had enough of the current area and left.
+t:    362660 | (T140533587011328) G0 gathered a cigbutt from (0, 6).
+t:    373412 | (T140533553440512) G12 gathered a cigbutt from (5, 2).
+t:    386557 | (T140533578618624) G1 gathered a cigbutt from (6, 9).
+t:    387402 | (T140533469013760) G22 gathered a cigbutt from (2, 6).
+t:    407978 | (T140533587011328) G0 gathered a cigbutt from (0, 7).
+t:    426730 | (T140533553440512) G12 gathered a cigbutt from (5, 2).
+t:    434879 | (T140533578618624) G1 gathered a cigbutt from (6, 9).
+t:    442721 | (T140533469013760) G22 gathered a cigbutt from (2, 6).
+t:    453292 | (T140533587011328) G0 gathered a cigbutt from (0, 7).
+t:    480048 | (T140533553440512) G12 gathered a cigbutt from (5, 3).
+t:    483194 | (T140533578618624) G1 gathered a cigbutt from (6, 9).
+t:    498038 | (T140533469013760) G22 gathered a cigbutt from (2, 6).
+t:    498514 | (T140533587011328) G0 gathered a cigbutt from (0, 7).
+t:    531509 | (T140533578618624) G1 gathered a cigbutt from (6, 9).
+t:    533340 | (T140533553440512) G12 gathered a cigbutt from (5, 3).
+t:    543832 | (T140533587011328) G0 gathered a cigbutt from (0, 7).
+t:    553356 | (T140533469013760) G22 gathered a cigbutt from (2, 6).
+t:    579804 | (T140533578618624) G1 gathered a cigbutt from (6, 9).
+t:    586657 | (T140533553440512) G12 gathered a cigbutt from (5, 3).
+t:    589145 | (T140533587011328) G0 gathered a cigbutt from (1, 5).
+t:    608678 | (T140533469013760) G22 gathered a cigbutt from (2, 6).
+t:    628120 | (T140533578618624) G1 gathered a cigbutt from (6, 9).
+t:    634369 | (T140533587011328) G0 gathered a cigbutt from (1, 5).
+t:    639976 | (T140533553440512) G12 gathered a cigbutt from (5, 3).
+t:    663994 | (T140533469013760) G22 gathered a cigbutt from (2, 6).
+t:    676434 | (T140533578618624) G1 gathered a cigbutt from (6, 9).
+t:    679687 | (T140533587011328) G0 gathered a cigbutt from (1, 5).
+t:    693264 | (T140533553440512) G12 gathered a cigbutt from (5, 3).
+t:    719312 | (T140533469013760) G22 gathered a cigbutt from (2, 7).
+t:    724750 | (T140533578618624) G1 gathered a cigbutt from (7, 7).
+t:    724844 | (T140533587011328) G0 gathered a cigbutt from (1, 5).
+t:    746582 | (T140533553440512) G12 gathered a cigbutt from (5, 3).
+t:    770157 | (T140533587011328) G0 gathered a cigbutt from (1, 5).
+t:    773064 | (T140533578618624) G1 gathered a cigbutt from (7, 7).
+t:    774599 | (T140533469013760) G22 gathered a cigbutt from (2, 7).
+t:    799904 | (T140533553440512) G12 gathered a cigbutt from (5, 3).
+t:    815472 | (T140533587011328) G0 gathered a cigbutt from (1, 5).
+t:    821381 | (T140533578618624) G1 gathered a cigbutt from (7, 7).
+t:    829916 | (T140533469013760) G22 gathered a cigbutt from (2, 7).
+t:    853220 | (T140533553440512) G12 gathered a cigbutt from (5, 3).
+t:    860786 | (T140533587011328) G0 gathered a cigbutt from (1, 6).
+t:    869700 | (T140533578618624) G1 gathered a cigbutt from (7, 7).
+t:    885242 | (T140533469013760) G22 gathered a cigbutt from (2, 7).
+t:    906102 | (T140533587011328) G0 gathered a cigbutt from (1, 6).
+t:    906431 | (T140533553440512) G12 gathered a cigbutt from (6, 1).
+t:    918017 | (T140533578618624) G1 gathered a cigbutt from (7, 7).
+t:    940561 | (T140533469013760) G22 gathered a cigbutt from (2, 7).
+t:    951420 | (T140533587011328) G0 gathered a cigbutt from (1, 6).
+t:    959747 | (T140533553440512) G12 gathered a cigbutt from (6, 1).
+t:    966334 | (T140533578618624) G1 gathered a cigbutt from (7, 7).
+t:    995878 | (T140533469013760) G22 gathered a cigbutt from (2, 7).
+t:    996657 | (T140533587011328) G0 gathered a cigbutt from (1, 7).
+t:   1013067 | (T140533553440512) G12 gathered a cigbutt from (6, 1).
+t:   1014611 | (T140533578618624) G1 gathered a cigbutt from (7, 8).
+t:   1041978 | (T140533587011328) G0 gathered a cigbutt from (1, 7).
+t:   1051143 | (T140533469013760) G22 gathered a cigbutt from (2, 7).
+t:   1062925 | (T140533578618624) G1 gathered a cigbutt from (7, 8).
+t:   1066383 | (T140533553440512) G12 gathered a cigbutt from (6, 1).
+t:   1087295 | (T140533587011328) G0 gathered a cigbutt from (1, 7).
+t:   1087307 | (T140533587011328) G0 cleared the current area and left.
+t:   1087339 | (T140533587011328) G0 arrived at area (6, 4).
+t:   1106466 | (T140533469013760) G22 gathered a cigbutt from (2, 7).
+t:   1106478 | (T140533469013760) G22 cleared the current area and left.
+t:   1106587 | (T140533469013760) G22 arrived at area (2, 0).
+t:   1106645 | (T140533570225920) G6 arrived at area (1, 4).
+t:   1111203 | (T140533578618624) G1 gathered a cigbutt from (7, 8).
+t:   1119768 | (T140533553440512) G12 gathered a cigbutt from (6, 1).
+t:   1132648 | (T140533587011328) G0 gathered a cigbutt from (6, 4).
+t:   1156958 | (T140533570225920) G6 gathered a cigbutt from (1, 4).
+t:   1159513 | (T140533578618624) G1 gathered a cigbutt from (7, 8).
+t:   1161891 | (T140533469013760) G22 gathered a cigbutt from (2, 0).
+t:   1173091 | (T140533553440512) G12 gathered a cigbutt from (6, 1).
+t:   1177851 | (T140533587011328) G0 gathered a cigbutt from (6, 4).
+t:   1207231 | (T140533570225920) G6 gathered a cigbutt from (1, 4).
+t:   1207732 | (T140533578618624) G1 gathered a cigbutt from (7, 8).
+t:   1217207 | (T140533469013760) G22 gathered a cigbutt from (2, 0).
+t:   1223170 | (T140533587011328) G0 gathered a cigbutt from (6, 4).
+t:   1226409 | (T140533553440512) G12 gathered a cigbutt from (6, 1).
+t:   1256046 | (T140533578618624) G1 gathered a cigbutt from (7, 8).
+t:   1257506 | (T140533570225920) G6 gathered a cigbutt from (1, 4).
+t:   1268486 | (T140533587011328) G0 gathered a cigbutt from (6, 4).
+t:   1272524 | (T140533469013760) G22 gathered a cigbutt from (2, 0).
+t:   1279725 | (T140533553440512) G12 gathered a cigbutt from (6, 1).
+t:   1304362 | (T140533578618624) G1 gathered a cigbutt from (7, 8).
+t:   1307818 | (T140533570225920) G6 gathered a cigbutt from (1, 4).
+t:   1313802 | (T140533587011328) G0 gathered a cigbutt from (6, 4).
+t:   1327844 | (T140533469013760) G22 gathered a cigbutt from (2, 0).
+t:   1333043 | (T140533553440512) G12 gathered a cigbutt from (6, 2).
+t:   1352677 | (T140533578618624) G1 gathered a cigbutt from (7, 8).
+t:   1358134 | (T140533570225920) G6 gathered a cigbutt from (1, 4).
+t:   1359054 | (T140533587011328) G0 gathered a cigbutt from (6, 4).
+t:   1383161 | (T140533469013760) G22 gathered a cigbutt from (2, 1).
+t:   1386360 | (T140533553440512) G12 gathered a cigbutt from (6, 2).
+t:   1400993 | (T140533578618624) G1 gathered a cigbutt from (7, 9).
+t:   1404365 | (T140533587011328) G0 gathered a cigbutt from (6, 4).
+t:   1408452 | (T140533570225920) G6 gathered a cigbutt from (1, 4).
+t:   1438479 | (T140533469013760) G22 gathered a cigbutt from (2, 1).
+t:   1439615 | (T140533553440512) G12 gathered a cigbutt from (6, 2).
+t:   1449307 | (T140533578618624) G1 gathered a cigbutt from (7, 9).
+t:   1449527 | (T140533587011328) G0 gathered a cigbutt from (6, 5).
+t:   1458770 | (T140533570225920) G6 gathered a cigbutt from (1, 4).
+t:   1492925 | (T140533553440512) G12 gathered a cigbutt from (6, 2).
+t:   1493740 | (T140533469013760) G22 gathered a cigbutt from (2, 1).
+t:   1494778 | (T140533587011328) G0 gathered a cigbutt from (6, 5).
+t:   1497638 | (T140533578618624) G1 gathered a cigbutt from (7, 9).
+t:   1509084 | (T140533570225920) G6 gathered a cigbutt from (2, 4).
+t:   1540096 | (T140533587011328) G0 gathered a cigbutt from (6, 5).
+t:   1545957 | (T140533578618624) G1 gathered a cigbutt from (7, 9).
+t:   1546076 | (T140533553440512) G12 gathered a cigbutt from (6, 2).
+t:   1549053 | (T140533469013760) G22 gathered a cigbutt from (2, 1).
+t:   1559400 | (T140533570225920) G6 gathered a cigbutt from (2, 4).
+t:   1585408 | (T140533587011328) G0 gathered a cigbutt from (6, 5).
+t:   1594273 | (T140533578618624) G1 gathered a cigbutt from (7, 9).
+t:   1594284 | (T140533578618624) G1 cleared the current area and left.
+t:   1594455 | (T140533359908608) S30 arrived at cell (7, 8).
+t:   1594474 | (T140533435442944) S0 arrived at cell (8, 8).
+t:   1599349 | (T140533553440512) G12 gathered a cigbutt from (6, 2).
+t:   1604373 | (T140533469013760) G22 gathered a cigbutt from (2, 1).
+t:   1609730 | (T140533570225920) G6 gathered a cigbutt from (2, 4).
+t:   1630721 | (T140533587011328) G0 gathered a cigbutt from (6, 6).
+t:   1645790 | (T140533435442944) S0 flicked a cigbutt towards (7, 7).
+t:   1646698 | (T140533359908608) S30 flicked a cigbutt towards (6, 7).
+t:   1652668 | (T140533553440512) G12 gathered a cigbutt from (6, 2).
+t:   1659667 | (T140533469013760) G22 gathered a cigbutt from (2, 1).
+t:   1659894 | (T140533570225920) G6 gathered a cigbutt from (2, 4).
+t:   1676033 | (T140533587011328) G0 gathered a cigbutt from (6, 6).
+t:   1697096 | (T140533435442944) S0 flicked a cigbutt towards (7, 8).
+t:   1697108 | (T140533435442944) S0 had enough of the current area and left.
+t:   1698996 | (T140533359908608) S30 flicked a cigbutt towards (6, 8).
+t:   1705987 | (T140533553440512) G12 gathered a cigbutt from (6, 3).
+t:   1710211 | (T140533570225920) G6 gathered a cigbutt from (2, 4).
+t:   1714983 | (T140533469013760) G22 gathered a cigbutt from (2, 1).
+t:   1721349 | (T140533587011328) G0 gathered a cigbutt from (6, 6).
+t:   1751315 | (T140533359908608) S30 flicked a cigbutt towards (6, 9).
+t:   1751327 | (T140533359908608) S30 had enough of the current area and left.
+t:   1759303 | (T140533553440512) G12 gathered a cigbutt from (6, 3).
+t:   1760472 | (T140533570225920) G6 gathered a cigbutt from (2, 4).
+t:   1766667 | (T140533587011328) G0 gathered a cigbutt from (6, 6).
+t:   1770300 | (T140533469013760) G22 gathered a cigbutt from (2, 2).
+t:   1810790 | (T140533570225920) G6 gathered a cigbutt from (2, 4).
+t:   1811923 | (T140533587011328) G0 gathered a cigbutt from (6, 6).
+t:   1812533 | (T140533553440512) G12 gathered a cigbutt from (6, 3).
+t:   1825637 | (T140533469013760) G22 gathered a cigbutt from (2, 2).
+t:   1857240 | (T140533587011328) G0 gathered a cigbutt from (6, 6).
+t:   1861110 | (T140533570225920) G6 gathered a cigbutt from (3, 4).
+t:   1865851 | (T140533553440512) G12 gathered a cigbutt from (6, 3).
+t:   1880955 | (T140533469013760) G22 gathered a cigbutt from (2, 2).
+t:   1902560 | (T140533587011328) G0 gathered a cigbutt from (6, 6).
+t:   1911390 | (T140533570225920) G6 gathered a cigbutt from (3, 4).
+t:   1919168 | (T140533553440512) G12 gathered a cigbutt from (6, 3).
+t:   1936276 | (T140533469013760) G22 gathered a cigbutt from (2, 2).
+t:   1947863 | (T140533587011328) G0 gathered a cigbutt from (6, 6).
+t:   1961705 | (T140533570225920) G6 gathered a cigbutt from (3, 4).
+t:   1972487 | (T140533553440512) G12 gathered a cigbutt from (7, 1).
+t:   1991594 | (T140533469013760) G22 gathered a cigbutt from (2, 2).
+t:   1993144 | (T140533587011328) G0 gathered a cigbutt from (7, 4).
+t:   2012020 | (T140533570225920) G6 gathered a cigbutt from (3, 4).
+t:   2025803 | (T140533553440512) G12 gathered a cigbutt from (7, 1).
+t:   2038462 | (T140533587011328) G0 gathered a cigbutt from (7, 4).
+t:   2046913 | (T140533469013760) G22 gathered a cigbutt from (2, 2).
+t:   2062336 | (T140533570225920) G6 gathered a cigbutt from (3, 4).
+t:   2079124 | (T140533553440512) G12 gathered a cigbutt from (7, 1).
+t:   2083604 | (T140533587011328) G0 gathered a cigbutt from (7, 4).
+t:   2102154 | (T140533469013760) G22 gathered a cigbutt from (2, 2).
+t:   2102166 | (T140533469013760) G22 cleared the current area and left.
+t:   2102173 | (T140533469013760) G22 finished cleaning and exited.
+t:   2112648 | (T140533570225920) G6 gathered a cigbutt from (3, 5).
+t:   2128922 | (T140533587011328) G0 gathered a cigbutt from (7, 5).
+t:   2132442 | (T140533553440512) G12 gathered a cigbutt from (7, 1).
+t:   2162969 | (T140533570225920) G6 gathered a cigbutt from (3, 5).
+t:   2174238 | (T140533587011328) G0 gathered a cigbutt from (7, 5).
+t:   2185759 | (T140533553440512) G12 gathered a cigbutt from (7, 1).
+t:   2213284 | (T140533570225920) G6 gathered a cigbutt from (3, 5).
+t:   2219555 | (T140533587011328) G0 gathered a cigbutt from (7, 5).
+t:   2239077 | (T140533553440512) G12 gathered a cigbutt from (7, 2).
+t:   2263599 | (T140533570225920) G6 gathered a cigbutt from (3, 6).
+t:   2264812 | (T140533587011328) G0 gathered a cigbutt from (7, 5).
+t:   2292395 | (T140533553440512) G12 gathered a cigbutt from (7, 2).
+t:   2310128 | (T140533587011328) G0 gathered a cigbutt from (7, 5).
+t:   2313966 | (T140533570225920) G6 gathered a cigbutt from (3, 6).
+t:   2345710 | (T140533553440512) G12 gathered a cigbutt from (7, 2).
+t:   2355443 | (T140533587011328) G0 gathered a cigbutt from (7, 5).
+t:   2364281 | (T140533570225920) G6 gathered a cigbutt from (3, 6).
+t:   2399027 | (T140533553440512) G12 gathered a cigbutt from (7, 3).
+t:   2400734 | (T140533587011328) G0 gathered a cigbutt from (7, 6).
+t:   2414597 | (T140533570225920) G6 gathered a cigbutt from (3, 6).
+t:   2446050 | (T140533587011328) G0 gathered a cigbutt from (7, 6).
+t:   2452350 | (T140533553440512) G12 gathered a cigbutt from (7, 3).
+t:   2464912 | (T140533570225920) G6 gathered a cigbutt from (3, 7).
+t:   2491367 | (T140533587011328) G0 gathered a cigbutt from (7, 6).
+t:   2505667 | (T140533553440512) G12 gathered a cigbutt from (7, 3).
+t:   2515229 | (T140533570225920) G6 gathered a cigbutt from (3, 7).
+t:   2536685 | (T140533587011328) G0 gathered a cigbutt from (7, 6).
+t:   2558985 | (T140533553440512) G12 gathered a cigbutt from (7, 3).
+t:   2565547 | (T140533570225920) G6 gathered a cigbutt from (3, 7).
+t:   2582001 | (T140533587011328) G0 gathered a cigbutt from (7, 6).
+t:   2582013 | (T140533587011328) G0 cleared the current area and left.
+t:   2582057 | (T140533587011328) G0 finished cleaning and exited.
+t:   2582127 | (T140533410264832) S9 arrived at cell (6, 7).
+t:   2612303 | (T140533553440512) G12 gathered a cigbutt from (8, 1).
+t:   2615861 | (T140533570225920) G6 gathered a cigbutt from (3, 7).
+t:   2633443 | (T140533410264832) S9 flicked a cigbutt towards (5, 6).
+t:   2665662 | (T140533553440512) G12 gathered a cigbutt from (8, 1).
+t:   2666074 | (T140533570225920) G6 gathered a cigbutt from (3, 7).
+t:   2684756 | (T140533410264832) S9 flicked a cigbutt towards (5, 7).
+t:   2716382 | (T140533570225920) G6 gathered a cigbutt from (3, 7).
+t:   2718813 | (T140533553440512) G12 gathered a cigbutt from (8, 1).
+t:   2736072 | (T140533410264832) S9 flicked a cigbutt towards (5, 8).
+t:   2766698 | (T140533570225920) G6 gathered a cigbutt from (3, 7).
+t:   2772131 | (T140533553440512) G12 gathered a cigbutt from (8, 1).
+t:   2787388 | (T140533410264832) S9 flicked a cigbutt towards (6, 8).
+t:   2817006 | (T140533570225920) G6 gathered a cigbutt from (3, 7).
+t:   2825439 | (T140533553440512) G12 gathered a cigbutt from (8, 1).
+t:   2838702 | (T140533410264832) S9 flicked a cigbutt towards (7, 8).
+t:   2867325 | (T140533570225920) G6 gathered a cigbutt from (3, 7).
+t:   2878757 | (T140533553440512) G12 gathered a cigbutt from (8, 2).
+t:   2890017 | (T140533410264832) S9 flicked a cigbutt towards (7, 7).
+t:   2917644 | (T140533570225920) G6 gathered a cigbutt from (4, 4).
+t:   2932074 | (T140533553440512) G12 gathered a cigbutt from (8, 2).
+t:   2941336 | (T140533410264832) S9 flicked a cigbutt towards (7, 6).
+t:   2941347 | (T140533410264832) S9 had enough of the current area and left.
+t:   2941363 | (T140533410264832) S9 finished smoking and exited.
+t:   2941439 | (T140533460621056) G27 arrived at area (5, 6).
+t:   2967960 | (T140533570225920) G6 gathered a cigbutt from (4, 4).
+t:   2985392 | (T140533553440512) G12 gathered a cigbutt from (8, 2).
+t:   2986703 | (T140533460621056) G27 gathered a cigbutt from (5, 6).
+t:   3018277 | (T140533570225920) G6 gathered a cigbutt from (4, 4).
+t:   3032020 | (T140533460621056) G27 gathered a cigbutt from (5, 6).
+t:   3038708 | (T140533553440512) G12 gathered a cigbutt from (8, 2).
+t:   3068579 | (T140533570225920) G6 gathered a cigbutt from (4, 5).
+t:   3077167 | (T140533460621056) G27 gathered a cigbutt from (5, 6).
+t:   3092019 | (T140533553440512) G12 gathered a cigbutt from (8, 2).
+t:   3118895 | (T140533570225920) G6 gathered a cigbutt from (4, 5).
+t:   3122298 | (T140533460621056) G27 gathered a cigbutt from (5, 6).
+t:   3145334 | (T140533553440512) G12 gathered a cigbutt from (8, 3).
+t:   3167613 | (T140533460621056) G27 gathered a cigbutt from (5, 7).
+t:   3169171 | (T140533570225920) G6 gathered a cigbutt from (4, 5).
+t:   3198649 | (T140533553440512) G12 gathered a cigbutt from (8, 3).
+t:   3212929 | (T140533460621056) G27 gathered a cigbutt from (5, 7).
+t:   3219488 | (T140533570225920) G6 gathered a cigbutt from (4, 6).
+t:   3251968 | (T140533553440512) G12 gathered a cigbutt from (8, 3).
+t:   3258143 | (T140533460621056) G27 gathered a cigbutt from (5, 7).
+t:   3269806 | (T140533570225920) G6 gathered a cigbutt from (4, 6).
+t:   3303460 | (T140533460621056) G27 gathered a cigbutt from (5, 7).
+t:   3305261 | (T140533553440512) G12 gathered a cigbutt from (8, 3).
+t:   3305272 | (T140533553440512) G12 cleared the current area and left.
+t:   3305361 | (T140533553440512) G12 finished cleaning and exited.
+t:   3305379 | (T140533477406464) G17 arrived at area (6, 2).
+t:   3305416 | (T140533427050240) S2 arrived at cell (4, 2).
+t:   3320115 | (T140533570225920) G6 gathered a cigbutt from (4, 6).
+t:   3348778 | (T140533460621056) G27 gathered a cigbutt from (5, 7).
+t:   3351694 | (T140533477406464) G17 gathered a cigbutt from (8, 4).
+t:   3359730 | (T140533427050240) S2 flicked a cigbutt towards (3, 1).
+t:   3359741 | (T140533427050240) S2 had enough of the current area and left.
+t:   3359748 | (T140533427050240) S2 finished smoking and exited.
+t:   3370340 | (T140533570225920) G6 gathered a cigbutt from (4, 6).
+t:   3394098 | (T140533460621056) G27 gathered a cigbutt from (5, 7).
+t:   3398012 | (T140533477406464) G17 gathered a cigbutt from (8, 4).
+t:   3420654 | (T140533570225920) G6 gathered a cigbutt from (4, 6).
+t:   3439417 | (T140533460621056) G27 gathered a cigbutt from (5, 7).
+t:   3444329 | (T140533477406464) G17 gathered a cigbutt from (8, 4).
+t:   3470974 | (T140533570225920) G6 gathered a cigbutt from (4, 6).
+t:   3484731 | (T140533460621056) G27 gathered a cigbutt from (5, 8).
+t:   3490647 | (T140533477406464) G17 gathered a cigbutt from (8, 4).
+t:   3521289 | (T140533570225920) G6 gathered a cigbutt from (4, 7).
+t:   3530047 | (T140533460621056) G27 gathered a cigbutt from (5, 8).
+t:   3536968 | (T140533477406464) G17 gathered a cigbutt from (8, 4).
+t:   3571606 | (T140533570225920) G6 gathered a cigbutt from (4, 7).
+t:   3575325 | (T140533460621056) G27 gathered a cigbutt from (5, 8).
+t:   3583118 | (T140533477406464) G17 gathered a cigbutt from (8, 4).
+t:   3620642 | (T140533460621056) G27 gathered a cigbutt from (5, 8).
+t:   3621678 | (T140533570225920) G6 gathered a cigbutt from (4, 7).
+t:   3621686 | (T140533570225920) G6 cleared the current area and left.
+t:   3621788 | (T140533452228352) G30 arrived at area (1, 7).
+t:   3621798 | (T140533452228352) G30 cleared the current area and left.
+t:   3621821 | (T140533435442944) S0 arrived at cell (4, 4).
+t:   3621849 | (T140533452228352) G30 finished cleaning and exited.
+t:   3621867 | (T140533376694016) S23 arrived at cell (4, 3).
+t:   3621878 | (T140533401872128) S13 arrived at cell (1, 7).
+t:   3629430 | (T140533477406464) G17 gathered a cigbutt from (8, 4).
+t:   3665959 | (T140533460621056) G27 gathered a cigbutt from (5, 9).
+t:   3667142 | (T140533376694016) S23 flicked a cigbutt towards (3, 2).
+t:   3667175 | (T140533401872128) S13 flicked a cigbutt towards (0, 6).
+t:   3673145 | (T140533435442944) S0 flicked a cigbutt towards (3, 3).
+t:   3675738 | (T140533477406464) G17 gathered a cigbutt from (8, 4).
+t:   3675749 | (T140533477406464) G17 cleared the current area and left.
+t:   3675824 | (T140533477406464) G17 arrived at area (7, 0).
+t:   3675884 | (T140533561833216) G7 arrived at area (6, 1).
+t:   3675894 | (T140533561833216) G7 cleared the current area and left.
+t:   3711278 | (T140533460621056) G27 gathered a cigbutt from (5, 9).
+t:   3712424 | (T140533376694016) S23 flicked a cigbutt towards (3, 3).
+t:   3712457 | (T140533401872128) S13 flicked a cigbutt towards (0, 7).
+t:   3722137 | (T140533477406464) G17 gathered a cigbutt from (7, 0).
+t:   3724457 | (T140533435442944) S0 flicked a cigbutt towards (3, 4).
+t:   3724514 | (T140533435442944) S0 had enough of the current area and left.
+t:   3756595 | (T140533460621056) G27 gathered a cigbutt from (5, 9).
+t:   3757708 | (T140533376694016) S23 flicked a cigbutt towards (3, 4).
+t:   3757740 | (T140533401872128) S13 flicked a cigbutt towards (0, 8).
+t:   3768457 | (T140533477406464) G17 gathered a cigbutt from (7, 0).
+t:   3801914 | (T140533460621056) G27 gathered a cigbutt from (5, 9).
+t:   3802985 | (T140533376694016) S23 flicked a cigbutt towards (4, 4).
+t:   3803018 | (T140533401872128) S13 flicked a cigbutt towards (1, 8).
+t:   3814775 | (T140533477406464) G17 gathered a cigbutt from (7, 0).
+t:   3847231 | (T140533460621056) G27 gathered a cigbutt from (5, 9).
+t:   3848253 | (T140533401872128) S13 flicked a cigbutt towards (2, 8).
+t:   3848282 | (T140533376694016) S23 flicked a cigbutt towards (5, 4).
+t:   3861094 | (T140533477406464) G17 gathered a cigbutt from (7, 0).
+t:   3892547 | (T140533460621056) G27 gathered a cigbutt from (5, 9).
+t:   3893522 | (T140533401872128) S13 flicked a cigbutt towards (2, 7).
+t:   3893543 | (T140533401872128) S13 had enough of the current area and left.
+t:   3893553 | (T140533376694016) S23 flicked a cigbutt towards (5, 3).
+t:   3893581 | (T140533401872128) S13 finished smoking and exited.
+t:   3907375 | (T140533477406464) G17 gathered a cigbutt from (8, 0).
+t:   3937867 | (T140533460621056) G27 gathered a cigbutt from (5, 9).
+t:   3938805 | (T140533376694016) S23 flicked a cigbutt towards (5, 2).
+t:   3938817 | (T140533376694016) S23 had enough of the current area and left.
+t:   3938843 | (T140533376694016) S23 finished smoking and exited.
+t:   3938904 | (T140533570225920) G6 arrived at area (3, 0).
+t:   3938935 | (T140533578618624) G1 arrived at area (2, 4).
+t:   3953720 | (T140533477406464) G17 gathered a cigbutt from (8, 0).
+t:   3983183 | (T140533460621056) G27 gathered a cigbutt from (6, 7).
+t:   3987210 | (T140533578618624) G1 gathered a cigbutt from (3, 4).
+t:   3989204 | (T140533570225920) G6 gathered a cigbutt from (3, 0).
+t:   4000025 | (T140533477406464) G17 gathered a cigbutt from (8, 0).
+t:   4028499 | (T140533460621056) G27 gathered a cigbutt from (6, 8).
+t:   4035529 | (T140533578618624) G1 gathered a cigbutt from (3, 4).
+t:   4035540 | (T140533578618624) G1 cleared the current area and left.
+t:   4039521 | (T140533570225920) G6 gathered a cigbutt from (3, 0).
+t:   4046347 | (T140533477406464) G17 gathered a cigbutt from (8, 0).
+t:   4073821 | (T140533460621056) G27 gathered a cigbutt from (6, 8).
+t:   4089842 | (T140533570225920) G6 gathered a cigbutt from (3, 0).
+t:   4092662 | (T140533477406464) G17 gathered a cigbutt from (9, 0).
+t:   4119137 | (T140533460621056) G27 gathered a cigbutt from (6, 9).
+t:   4138979 | (T140533477406464) G17 gathered a cigbutt from (9, 0).
+t:   4140107 | (T140533570225920) G6 gathered a cigbutt from (3, 0).
+t:   4164460 | (T140533460621056) G27 gathered a cigbutt from (7, 6).
+t:   4185297 | (T140533477406464) G17 gathered a cigbutt from (9, 0).
+t:   4190423 | (T140533570225920) G6 gathered a cigbutt from (3, 0).
+t:   4209778 | (T140533460621056) G27 gathered a cigbutt from (7, 7).
+t:   4231616 | (T140533477406464) G17 gathered a cigbutt from (9, 0).
+t:   4240738 | (T140533570225920) G6 gathered a cigbutt from (3, 0).
+t:   4255095 | (T140533460621056) G27 gathered a cigbutt from (7, 7).
+t:   4277933 | (T140533477406464) G17 gathered a cigbutt from (9, 0).
+t:   4291056 | (T140533570225920) G6 gathered a cigbutt from (3, 1).
+t:   4300411 | (T140533460621056) G27 gathered a cigbutt from (7, 8).
+t:   4324249 | (T140533477406464) G17 gathered a cigbutt from (9, 0).
+t:   4341373 | (T140533570225920) G6 gathered a cigbutt from (3, 1).
+t:   4345745 | (T140533460621056) G27 gathered a cigbutt from (7, 8).
+t:   4345757 | (T140533460621056) G27 cleared the current area and left.
+t:   4345790 | (T140533460621056) G27 finished cleaning and exited.
+t:   4345863 | (T140533359908608) S30 arrived at cell (4, 5).
+t:   4345890 | (T140533561833216) G7 arrived at area (6, 6).
+t:   4345897 | (T140533561833216) G7 cleared the current area and left.
+t:   4345912 | (T140533561833216) G7 finished cleaning and exited.
+t:   4345926 | (T140533418657536) S5 arrived at cell (5, 8).
+t:   4370482 | (T140533477406464) G17 gathered a cigbutt from (9, 0).
+t:   4391691 | (T140533570225920) G6 gathered a cigbutt from (3, 1).
+t:   4392135 | (T140533418657536) S5 flicked a cigbutt towards (4, 7).
+t:   4398179 | (T140533359908608) S30 flicked a cigbutt towards (3, 4).
+t:   4416803 | (T140533477406464) G17 gathered a cigbutt from (9, 1).
+t:   4438451 | (T140533418657536) S5 flicked a cigbutt towards (4, 8).
+t:   4442008 | (T140533570225920) G6 gathered a cigbutt from (3, 1).
+t:   4450497 | (T140533359908608) S30 flicked a cigbutt towards (3, 5).
+t:   4463124 | (T140533477406464) G17 gathered a cigbutt from (9, 1).
+t:   4484771 | (T140533418657536) S5 flicked a cigbutt towards (4, 9).
+t:   4492329 | (T140533570225920) G6 gathered a cigbutt from (3, 1).
+t:   4502820 | (T140533359908608) S30 flicked a cigbutt towards (3, 6).
+t:   4509438 | (T140533477406464) G17 gathered a cigbutt from (9, 1).
+t:   4531089 | (T140533418657536) S5 flicked a cigbutt towards (5, 9).
+t:   4531101 | (T140533418657536) S5 had enough of the current area and left.
+t:   4531111 | (T140533418657536) S5 arrived at cell (3, 8).
+t:   4542649 | (T140533570225920) G6 gathered a cigbutt from (3, 1).
+t:   4555138 | (T140533359908608) S30 flicked a cigbutt towards (4, 6).
+t:   4555150 | (T140533359908608) S30 had enough of the current area and left.
+t:   4555168 | (T140533359908608) S30 arrived at cell (1, 1).
+t:   4555658 | (T140533477406464) G17 gathered a cigbutt from (9, 1).
+t:   4577381 | (T140533418657536) S5 flicked a cigbutt towards (2, 7).
+t:   4592966 | (T140533570225920) G6 gathered a cigbutt from (3, 2).
+t:   4601855 | (T140533477406464) G17 gathered a cigbutt from (9, 1).
+t:   4607476 | (T140533359908608) S30 flicked a cigbutt towards (0, 0).
+t:   4623697 | (T140533418657536) S5 flicked a cigbutt towards (2, 8).
+t:   4643264 | (T140533570225920) G6 gathered a cigbutt from (3, 2).
+t:   4648175 | (T140533477406464) G17 gathered a cigbutt from (9, 1).
+t:   4659796 | (T140533359908608) S30 flicked a cigbutt towards (0, 1).
+t:   4670016 | (T140533418657536) S5 flicked a cigbutt towards (2, 9).
+t:   4693580 | (T140533570225920) G6 gathered a cigbutt from (3, 2).
+t:   4694418 | (T140533477406464) G17 gathered a cigbutt from (9, 1).
+t:   4712117 | (T140533359908608) S30 flicked a cigbutt towards (0, 2).
+t:   4716331 | (T140533418657536) S5 flicked a cigbutt towards (3, 9).
+t:   4716342 | (T140533418657536) S5 had enough of the current area and left.
+t:   4716348 | (T140533418657536) S5 finished smoking and exited.
+t:   4740734 | (T140533477406464) G17 gathered a cigbutt from (9, 1).
+t:   4743927 | (T140533570225920) G6 gathered a cigbutt from (3, 2).
+t:   4764434 | (T140533359908608) S30 flicked a cigbutt towards (1, 2).
+t:   4787051 | (T140533477406464) G17 gathered a cigbutt from (9, 2).
+t:   4794140 | (T140533570225920) G6 gathered a cigbutt from (3, 2).
+t:   4816752 | (T140533359908608) S30 flicked a cigbutt towards (2, 2).
+t:   4833368 | (T140533477406464) G17 gathered a cigbutt from (9, 2).
+t:   4844458 | (T140533570225920) G6 gathered a cigbutt from (3, 2).
+t:   4869073 | (T140533359908608) S30 flicked a cigbutt towards (2, 1).
+t:   4869085 | (T140533359908608) S30 had enough of the current area and left.
+t:   4869091 | (T140533359908608) S30 finished smoking and exited.
+t:   4879671 | (T140533477406464) G17 gathered a cigbutt from (9, 2).
+t:   4894779 | (T140533570225920) G6 gathered a cigbutt from (3, 2).
+t:   4925988 | (T140533477406464) G17 gathered a cigbutt from (9, 2).
+t:   4925999 | (T140533477406464) G17 cleared the current area and left.
+t:   4926080 | (T140533443835648) G31 arrived at area (8, 2).
+t:   4945095 | (T140533570225920) G6 gathered a cigbutt from (3, 2).
+t:   4981392 | (T140533443835648) G31 gathered a cigbutt from (9, 3).
+t:   4995412 | (T140533570225920) G6 gathered a cigbutt from (3, 3).
+t:   5036711 | (T140533443835648) G31 gathered a cigbutt from (9, 3).
+t:   5045734 | (T140533570225920) G6 gathered a cigbutt from (3, 3).
+t:   5092078 | (T140533443835648) G31 gathered a cigbutt from (9, 3).
+t:   5096052 | (T140533570225920) G6 gathered a cigbutt from (3, 3).
+t:   5146223 | (T140533570225920) G6 gathered a cigbutt from (3, 3).
+t:   5147334 | (T140533443835648) G31 gathered a cigbutt from (9, 3).
+t:   5196541 | (T140533570225920) G6 gathered a cigbutt from (3, 3).
+t:   5202569 | (T140533443835648) G31 gathered a cigbutt from (9, 3).
+t:   5246691 | (T140533570225920) G6 gathered a cigbutt from (3, 3).
+t:   5257885 | (T140533443835648) G31 gathered a cigbutt from (9, 3).
+t:   5297010 | (T140533570225920) G6 gathered a cigbutt from (3, 3).
+t:   5313203 | (T140533443835648) G31 gathered a cigbutt from (9, 3).
+t:   5313215 | (T140533443835648) G31 cleared the current area and left.
+t:   5313250 | (T140533443835648) G31 arrived at area (4, 8).
+t:   5313325 | (T140533385086720) S18 arrived at cell (8, 2).
+t:   5347326 | (T140533570225920) G6 gathered a cigbutt from (3, 3).
+t:   5361637 | (T140533385086720) S18 flicked a cigbutt towards (7, 1).
+t:   5361649 | (T140533385086720) S18 had enough of the current area and left.
+t:   5361657 | (T140533385086720) S18 finished smoking and exited.
+t:   5368556 | (T140533443835648) G31 gathered a cigbutt from (4, 8).
+t:   5397645 | (T140533570225920) G6 gathered a cigbutt from (3, 3).
+t:   5423874 | (T140533443835648) G31 gathered a cigbutt from (4, 8).
+t:   5447966 | (T140533570225920) G6 gathered a cigbutt from (3, 3).
+t:   5479191 | (T140533443835648) G31 gathered a cigbutt from (4, 8).
+t:   5498283 | (T140533570225920) G6 gathered a cigbutt from (4, 0).
+t:   5534423 | (T140533443835648) G31 gathered a cigbutt from (4, 8).
+t:   5548605 | (T140533570225920) G6 gathered a cigbutt from (4, 0).
+t:   5589740 | (T140533443835648) G31 gathered a cigbutt from (4, 8).
+t:   5598924 | (T140533570225920) G6 gathered a cigbutt from (4, 0).
+t:   5645060 | (T140533443835648) G31 gathered a cigbutt from (4, 8).
+t:   5649240 | (T140533570225920) G6 gathered a cigbutt from (4, 0).
+t:   5699556 | (T140533570225920) G6 gathered a cigbutt from (4, 0).
+t:   5700297 | (T140533443835648) G31 gathered a cigbutt from (4, 9).
+t:   5749876 | (T140533570225920) G6 gathered a cigbutt from (4, 1).
+t:   5755586 | (T140533443835648) G31 gathered a cigbutt from (4, 9).
+t:   5800193 | (T140533570225920) G6 gathered a cigbutt from (4, 1).
+t:   5810903 | (T140533443835648) G31 gathered a cigbutt from (4, 9).
+t:   5850509 | (T140533570225920) G6 gathered a cigbutt from (4, 1).
+t:   5866222 | (T140533443835648) G31 gathered a cigbutt from (4, 9).
+t:   5900829 | (T140533570225920) G6 gathered a cigbutt from (4, 1).
+t:   5921539 | (T140533443835648) G31 gathered a cigbutt from (4, 9).
+t:   5951144 | (T140533570225920) G6 gathered a cigbutt from (4, 2).
+t:   5976858 | (T140533443835648) G31 gathered a cigbutt from (4, 9).
+t:   6001462 | (T140533570225920) G6 gathered a cigbutt from (4, 2).
+t:   6032176 | (T140533443835648) G31 gathered a cigbutt from (5, 9).
+t:   6032187 | (T140533443835648) G31 cleared the current area and left.
+t:   6051778 | (T140533570225920) G6 gathered a cigbutt from (4, 2).
+t:   6102095 | (T140533570225920) G6 gathered a cigbutt from (4, 2).
+t:   6152411 | (T140533570225920) G6 gathered a cigbutt from (4, 3).
+t:   6202728 | (T140533570225920) G6 gathered a cigbutt from (4, 3).
+t:   6253041 | (T140533570225920) G6 gathered a cigbutt from (4, 3).
+t:   6303360 | (T140533570225920) G6 gathered a cigbutt from (4, 3).
+t:   6353678 | (T140533570225920) G6 gathered a cigbutt from (4, 3).
+t:   6403988 | (T140533570225920) G6 gathered a cigbutt from (5, 0).
+t:   6454307 | (T140533570225920) G6 gathered a cigbutt from (5, 0).
+t:   6504620 | (T140533570225920) G6 gathered a cigbutt from (5, 0).
+t:   6554936 | (T140533570225920) G6 gathered a cigbutt from (5, 0).
+t:   6605244 | (T140533570225920) G6 gathered a cigbutt from (5, 0).
+t:   6655552 | (T140533570225920) G6 gathered a cigbutt from (5, 0).
+t:   6705869 | (T140533570225920) G6 gathered a cigbutt from (5, 0).
+t:   6756187 | (T140533570225920) G6 gathered a cigbutt from (5, 2).
+t:   6806411 | (T140533570225920) G6 gathered a cigbutt from (5, 3).
+t:   6856728 | (T140533570225920) G6 gathered a cigbutt from (6, 0).
+t:   6907052 | (T140533570225920) G6 gathered a cigbutt from (6, 0).
+t:   6957378 | (T140533570225920) G6 gathered a cigbutt from (6, 0).
+t:   7007696 | (T140533570225920) G6 gathered a cigbutt from (6, 0).
+t:   7058016 | (T140533570225920) G6 gathered a cigbutt from (6, 0).
+t:   7058028 | (T140533570225920) G6 cleared the current area and left.
+t:   7058086 | (T140533570225920) G6 finished cleaning and exited.
+t:   7058133 | (T140533477406464) G17 arrived at area (4, 2).
+t:   7058169 | (T140533578618624) G1 arrived at area (2, 3).
+t:   7104464 | (T140533477406464) G17 gathered a cigbutt from (4, 4).
+t:   7106470 | (T140533578618624) G1 gathered a cigbutt from (2, 3).
+t:   7150787 | (T140533477406464) G17 gathered a cigbutt from (5, 4).
+t:   7154789 | (T140533578618624) G1 gathered a cigbutt from (2, 3).
+t:   7197095 | (T140533477406464) G17 gathered a cigbutt from (5, 4).
+t:   7203102 | (T140533578618624) G1 gathered a cigbutt from (2, 3).
+t:   7243412 | (T140533477406464) G17 gathered a cigbutt from (5, 4).
+t:   7251415 | (T140533578618624) G1 gathered a cigbutt from (2, 3).
+t:   7289741 | (T140533477406464) G17 gathered a cigbutt from (5, 4).
+t:   7299732 | (T140533578618624) G1 gathered a cigbutt from (3, 4).
+t:   7336053 | (T140533477406464) G17 gathered a cigbutt from (5, 4).
+t:   7348049 | (T140533578618624) G1 gathered a cigbutt from (3, 5).
+t:   7348060 | (T140533578618624) G1 cleared the current area and left.
+t:   7348066 | (T140533578618624) G1 arrived at area (8, 4).
+t:   7382376 | (T140533477406464) G17 gathered a cigbutt from (5, 4).
+t:   7396371 | (T140533578618624) G1 gathered a cigbutt from (8, 5).
+t:   7428695 | (T140533477406464) G17 gathered a cigbutt from (5, 4).
+t:   7428707 | (T140533477406464) G17 cleared the current area and left.
+t:   7428758 | (T140533477406464) G17 finished cleaning and exited.
+t:   7428775 | (T140533443835648) G31 arrived at area (6, 3).
+t:   7428781 | (T140533443835648) G31 cleared the current area and left.
+t:   7428827 | (T140533435442944) S0 arrived at cell (6, 1).
+t:   7428857 | (T140533368301312) S27 arrived at cell (7, 1).
+t:   7444686 | (T140533578618624) G1 gathered a cigbutt from (8, 5).
+t:   7480156 | (T140533435442944) S0 flicked a cigbutt towards (5, 0).
+t:   7481104 | (T140533368301312) S27 flicked a cigbutt towards (6, 0).
+t:   7493004 | (T140533578618624) G1 gathered a cigbutt from (8, 5).
+t:   7531474 | (T140533435442944) S0 flicked a cigbutt towards (5, 1).
+t:   7533402 | (T140533368301312) S27 flicked a cigbutt towards (6, 1).
+t:   7541321 | (T140533578618624) G1 gathered a cigbutt from (8, 5).
+t:   7582797 | (T140533435442944) S0 flicked a cigbutt towards (5, 2).
+t:   7585718 | (T140533368301312) S27 flicked a cigbutt towards (6, 2).
+t:   7585729 | (T140533368301312) S27 had enough of the current area and left.
+t:   7585739 | (T140533368301312) S27 arrived at cell (7, 1).
+t:   7589636 | (T140533578618624) G1 gathered a cigbutt from (8, 5).
+t:   7634117 | (T140533435442944) S0 flicked a cigbutt towards (6, 2).
+t:   7637959 | (T140533578618624) G1 gathered a cigbutt from (8, 6).
+t:   7637984 | (T140533368301312) S27 flicked a cigbutt towards (6, 0).
+t:   7685431 | (T140533435442944) S0 flicked a cigbutt towards (7, 2).
+t:   7686186 | (T140533578618624) G1 gathered a cigbutt from (8, 6).
+t:   7690196 | (T140533368301312) S27 flicked a cigbutt towards (6, 1).
+t:   7734503 | (T140533578618624) G1 gathered a cigbutt from (8, 6).
+t:   7736742 | (T140533435442944) S0 flicked a cigbutt towards (7, 1).
+t:   7742515 | (T140533368301312) S27 flicked a cigbutt towards (6, 2).
+t:   7782821 | (T140533578618624) G1 gathered a cigbutt from (8, 6).
+t:   7788066 | (T140533435442944) S0 flicked a cigbutt towards (7, 0).
+t:   7794835 | (T140533368301312) S27 flicked a cigbutt towards (7, 2).
+t:   7831140 | (T140533578618624) G1 gathered a cigbutt from (8, 6).
+t:   7839383 | (T140533435442944) S0 flicked a cigbutt towards (6, 0).
+t:   7847149 | (T140533368301312) S27 flicked a cigbutt towards (8, 2).
+t:   7879461 | (T140533578618624) G1 gathered a cigbutt from (8, 6).
+t:   7890747 | (T140533435442944) S0 flicked a cigbutt towards (5, 0).
+t:   7890759 | (T140533435442944) S0 had enough of the current area and left.
+t:   7890765 | (T140533435442944) S0 finished smoking and exited.
+t:   7899434 | (T140533368301312) S27 flicked a cigbutt towards (8, 1).
+t:   7927779 | (T140533578618624) G1 gathered a cigbutt from (8, 6).
+t:   7951749 | (T140533368301312) S27 flicked a cigbutt towards (8, 0).
+t:   7951761 | (T140533368301312) S27 had enough of the current area and left.
+t:   7951767 | (T140533368301312) S27 finished smoking and exited.
+t:   7976094 | (T140533578618624) G1 gathered a cigbutt from (8, 6).
+t:   8024413 | (T140533578618624) G1 gathered a cigbutt from (9, 4).
+t:   8072727 | (T140533578618624) G1 gathered a cigbutt from (9, 4).
+t:   8121048 | (T140533578618624) G1 gathered a cigbutt from (9, 4).
+t:   8169363 | (T140533578618624) G1 gathered a cigbutt from (9, 4).
+t:   8217679 | (T140533578618624) G1 gathered a cigbutt from (9, 4).
+t:   8265997 | (T140533578618624) G1 gathered a cigbutt from (9, 4).
+t:   8314313 | (T140533578618624) G1 gathered a cigbutt from (9, 4).
+t:   8362627 | (T140533578618624) G1 gathered a cigbutt from (9, 4).
+t:   8410943 | (T140533578618624) G1 gathered a cigbutt from (9, 5).
+t:   8459260 | (T140533578618624) G1 gathered a cigbutt from (9, 5).
+t:   8507551 | (T140533578618624) G1 gathered a cigbutt from (9, 5).
+t:   8555866 | (T140533578618624) G1 gathered a cigbutt from (9, 5).
+t:   8604181 | (T140533578618624) G1 gathered a cigbutt from (9, 6).
+t:   8652499 | (T140533578618624) G1 gathered a cigbutt from (9, 6).
+t:   8700815 | (T140533578618624) G1 gathered a cigbutt from (9, 6).
+t:   8749133 | (T140533578618624) G1 gathered a cigbutt from (9, 6).
+t:   8749144 | (T140533578618624) G1 cleared the current area and left.
+t:   8749168 | (T140533578618624) G1 finished cleaning and exited.
+t:   8749237 | (T140533443835648) G31 arrived at area (8, 3).
+t:   8749246 | (T140533443835648) G31 cleared the current area and left.
+t:   8749265 | (T140533443835648) G31 finished cleaning and exited.
+t:   8749278 | (T140533393479424) S14 arrived at cell (7, 3).
+t:   8797649 | (T140533393479424) S14 flicked a cigbutt towards (6, 2).
+t:   8845963 | (T140533393479424) S14 flicked a cigbutt towards (6, 3).
+t:   8894279 | (T140533393479424) S14 flicked a cigbutt towards (6, 4).
+t:   8942596 | (T140533393479424) S14 flicked a cigbutt towards (7, 4).
+t:   8990914 | (T140533393479424) S14 flicked a cigbutt towards (8, 4).
+t:   8990926 | (T140533393479424) S14 had enough of the current area and left.
+t:   8990933 | (T140533393479424) S14 finished smoking and exited.

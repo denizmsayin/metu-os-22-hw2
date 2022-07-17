@@ -1,0 +1,5 @@
+--------------------------------------------------------------------------------
+Looks like no fatal inconsistencies occurred! Good job.
+
+Consistency multiplier:
+1.00

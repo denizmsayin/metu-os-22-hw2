@@ -1,0 +1,87 @@
++ OK: SS0 created with tid=140546451293952.
++ OK: SS0 arrived at cell (1, 1).
++ OK: SS2 created with tid=140546434508544.
++ OK: SS2 arrived at cell (1, 3).
++ OK: SS1 created with tid=140546442901248.
++ OK: SS7 created with tid=140546400937728.
++ OK: SS7 arrived at cell (3, 2).
++ OK: SS4 created with tid=140546417723136.
++ OK: SS8 created with tid=140546392545024.
++ OK: SS8 arrived at cell (3, 3).
++ OK: SS4 arrived at cell (2, 2).
++ OK: SS3 created with tid=140546426115840.
++ OK: SS3 arrived at cell (2, 1).
++ OK: SS6 created with tid=140546409330432.
++ OK: SS6 arrived at cell (3, 1).
++ OK: SS1 arrived at cell (1, 2).
++ OK: SS5 created with tid=140546275112704.
++ OK: SS5 arrived at cell (2, 3).
++ OK: SS0 flicked towards (0, 0), now 1 cigbutts are in the cell.
++ OK: SS4 flicked towards (1, 1), now 4 cigbutts are in the cell.
++ OK: SS7 flicked towards (2, 1), now 2 cigbutts are in the cell.
++ OK: SS6 flicked towards (2, 0), now 1 cigbutts are in the cell.
++ OK: SS1 flicked towards (0, 1), now 2 cigbutts are in the cell.
++ OK: SS5 flicked towards (1, 2), now 3 cigbutts are in the cell.
++ OK: SS2 flicked towards (0, 2), now 3 cigbutts are in the cell.
++ OK: SS3 flicked towards (1, 0), now 5 cigbutts are in the cell.
++ OK: SS8 flicked towards (2, 2), now 3 cigbutts are in the cell.
++ OK: SS7 flicked towards (2, 2), now 4 cigbutts are in the cell.
++ OK: SS2 flicked towards (0, 3), now 4 cigbutts are in the cell.
++ OK: SS4 flicked towards (1, 2), now 4 cigbutts are in the cell.
++ OK: SS0 flicked towards (0, 1), now 3 cigbutts are in the cell.
++ OK: SS1 flicked towards (0, 2), now 4 cigbutts are in the cell.
++ OK: SS3 flicked towards (1, 1), now 5 cigbutts are in the cell.
++ OK: SS8 flicked towards (2, 3), now 4 cigbutts are in the cell.
++ OK: SS5 flicked towards (1, 3), now 2 cigbutts are in the cell.
++ OK: SS6 flicked towards (2, 1), now 3 cigbutts are in the cell.
++ OK: SS7 flicked towards (2, 3), now 5 cigbutts are in the cell.
++ OK: SS8 flicked towards (2, 4), now 5 cigbutts are in the cell.
++ OK: SS6 flicked towards (2, 2), now 5 cigbutts are in the cell.
++ OK: SS4 flicked towards (1, 3), now 3 cigbutts are in the cell.
++ OK: SS0 flicked towards (0, 2), now 5 cigbutts are in the cell.
++ OK: SS1 flicked towards (0, 3), now 5 cigbutts are in the cell.
++ OK: SS3 flicked towards (1, 2), now 5 cigbutts are in the cell.
++ OK: SS2 flicked towards (0, 4), now 5 cigbutts are in the cell.
++ OK: SS5 flicked towards (1, 4), now 1 cigbutts are in the cell.
++ OK: SS0 flicked towards (1, 2), now 6 cigbutts are in the cell.
++ OK: SS1 flicked towards (1, 3), now 4 cigbutts are in the cell.
++ OK: SS3 flicked towards (2, 2), now 6 cigbutts are in the cell.
++ OK: SS8 flicked towards (3, 4), now 1 cigbutts are in the cell.
++ OK: SS4 flicked towards (2, 3), now 6 cigbutts are in the cell.
++ OK: SS5 flicked towards (2, 4), now 6 cigbutts are in the cell.
++ OK: SS6 flicked towards (3, 2), now 3 cigbutts are in the cell.
++ OK: SS7 flicked towards (3, 3), now 2 cigbutts are in the cell.
++ OK: SS2 flicked towards (1, 4), now 2 cigbutts are in the cell.
++ OK: SS4 flicked towards (3, 3), now 3 cigbutts are in the cell.
++ OK: SS4 left last cell, which was (2, 2).
++ OK: SS5 flicked towards (3, 4), now 2 cigbutts are in the cell.
++ OK: SS5 left last cell, which was (2, 3).
++ OK: SS1 flicked towards (2, 3), now 7 cigbutts are in the cell.
++ OK: SS1 left last cell, which was (1, 2).
++ OK: SS8 flicked towards (4, 4), now 5 cigbutts are in the cell.
++ OK: SS4 exited properly.
++ OK: SS8 left last cell, which was (3, 3).
++ OK: SS3 flicked towards (3, 2), now 4 cigbutts are in the cell.
++ OK: SS8 exited properly.
++ OK: SS3 left last cell, which was (2, 1).
++ OK: SS3 exited properly.
++ OK: SS0 flicked towards (2, 2), now 7 cigbutts are in the cell.
++ OK: SS0 left last cell, which was (1, 1).
++ OK: SS0 exited properly.
++ OK: SS2 flicked towards (2, 4), now 7 cigbutts are in the cell.
++ OK: SS2 left last cell, which was (1, 3).
++ OK: SS5 exited properly.
++ OK: SS1 exited properly.
++ OK: SS2 exited properly.
++ OK: SS6 flicked towards (4, 2), now 3 cigbutts are in the cell.
++ OK: SS6 left last cell, which was (3, 1).
++ OK: SS7 flicked towards (4, 3), now 4 cigbutts are in the cell.
++ OK: SS7 left last cell, which was (3, 2).
++ OK: SS6 exited properly.
++ OK: SS7 exited properly.
++ OK: End of notification stream reached. Everyone has exited cleanly and all orders were delivered. Nice!
+--------------------------------------------------------------------------------
+Looks like no fatal inconsistencies occurred! Good job.
+
+Consistency multiplier:
+1.00

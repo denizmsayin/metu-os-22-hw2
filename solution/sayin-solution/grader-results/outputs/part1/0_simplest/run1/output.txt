@@ -1,0 +1,8 @@
+t:        94 | (T140078702683904) G0 created.
+t:       114 | (T140078702683904) G0 arrived at area (0, 0).
+t:    100414 | (T140078702683904) G0 gathered a cigbutt from (0, 0).
+t:    200731 | (T140078702683904) G0 gathered a cigbutt from (0, 0).
+t:    301055 | (T140078702683904) G0 gathered a cigbutt from (0, 0).
+t:    401332 | (T140078702683904) G0 gathered a cigbutt from (0, 0).
+t:    401343 | (T140078702683904) G0 cleared the current area and left.
+t:    401351 | (T140078702683904) G0 finished cleaning and exited.

@@ -1,0 +1,24 @@
+t:        86 | (T140463912658688) G0 created.
+t:       161 | (T140463912658688) G0 arrived at area (0, 1).
+t:       197 | (T140463895873280) G2 created.
+t:       232 | (T140463904265984) G1 created.
+t:       267 | (T140463887480576) G3 created.
+t:       300 | (T140463879087872) G4 created.
+t:    100444 | (T140463912658688) G0 gathered a cigbutt from (0, 1).
+t:    200766 | (T140463912658688) G0 gathered a cigbutt from (0, 2).
+t:    301089 | (T140463912658688) G0 gathered a cigbutt from (1, 1).
+t:    401410 | (T140463912658688) G0 gathered a cigbutt from (1, 2).
+t:    401422 | (T140463912658688) G0 cleared the current area and left.
+t:    401460 | (T140463912658688) G0 finished cleaning and exited.
+t:    401517 | (T140463895873280) G2 arrived at area (0, 1).
+t:    401526 | (T140463895873280) G2 cleared the current area and left.
+t:    401567 | (T140463904265984) G1 arrived at area (0, 1).
+t:    401581 | (T140463904265984) G1 cleared the current area and left.
+t:    401592 | (T140463895873280) G2 finished cleaning and exited.
+t:    401667 | (T140463904265984) G1 finished cleaning and exited.
+t:    401727 | (T140463879087872) G4 arrived at area (0, 1).
+t:    401736 | (T140463879087872) G4 cleared the current area and left.
+t:    401772 | (T140463879087872) G4 finished cleaning and exited.
+t:    401788 | (T140463887480576) G3 arrived at area (0, 1).
+t:    401796 | (T140463887480576) G3 cleared the current area and left.
+t:    401804 | (T140463887480576) G3 finished cleaning and exited.

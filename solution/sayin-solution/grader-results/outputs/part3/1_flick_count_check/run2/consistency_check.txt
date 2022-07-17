@@ -1,0 +1,193 @@
++ OK: PP0 created with tid=139875686610688.
++ OK: PP0 arrived at area (0, 3).
++ OK: SS0 created with tid=139875678217984.
++ OK: SS0 arrived at cell (1, 1).
++ OK: SS0 flicked towards (0, 0), now 1 cigbutts are in the cell.
++ OK: PP0 gathered from (0, 3), leaving 9 cigbutts in the cell.
++ OK: PP0 gathered from (0, 3), leaving 8 cigbutts in the cell.
++ OK: SS0 flicked towards (0, 1), now 1 cigbutts are in the cell.
++ OK: SS0 flicked towards (0, 2), now 1 cigbutts are in the cell.
++ OK: PP0 gathered from (0, 3), leaving 7 cigbutts in the cell.
++ OK: PP0 gathered from (0, 3), leaving 6 cigbutts in the cell.
++ OK: SS0 flicked towards (1, 2), now 1 cigbutts are in the cell.
++ OK: PP0 gathered from (0, 3), leaving 5 cigbutts in the cell.
++ OK: SS0 flicked towards (2, 2), now 1 cigbutts are in the cell.
++ OK: SS0 flicked towards (2, 1), now 1 cigbutts are in the cell.
++ OK: PP0 gathered from (0, 3), leaving 4 cigbutts in the cell.
++ OK: SS0 flicked towards (2, 0), now 1 cigbutts are in the cell.
++ OK: PP0 gathered from (0, 3), leaving 3 cigbutts in the cell.
++ OK: SS0 flicked towards (1, 0), now 1 cigbutts are in the cell.
++ OK: PP0 gathered from (0, 3), leaving 2 cigbutts in the cell.
++ OK: SS0 flicked towards (0, 0), now 2 cigbutts are in the cell.
++ OK: PP0 gathered from (0, 3), leaving 1 cigbutts in the cell.
++ OK: PP0 gathered from (0, 3), leaving 0 cigbutts in the cell.
++ OK: SS0 flicked towards (0, 1), now 2 cigbutts are in the cell.
++ OK: PP0 gathered from (1, 3), leaving 19 cigbutts in the cell.
++ OK: SS0 flicked towards (0, 2), now 2 cigbutts are in the cell.
++ OK: SS0 flicked towards (1, 2), now 2 cigbutts are in the cell.
++ OK: PP0 gathered from (1, 3), leaving 18 cigbutts in the cell.
++ OK: PP0 gathered from (1, 3), leaving 17 cigbutts in the cell.
++ OK: SS0 flicked towards (2, 2), now 2 cigbutts are in the cell.
++ OK: SS0 flicked towards (2, 1), now 2 cigbutts are in the cell.
++ OK: PP0 gathered from (1, 3), leaving 16 cigbutts in the cell.
++ OK: SS0 flicked towards (2, 0), now 2 cigbutts are in the cell.
++ OK: PP0 gathered from (1, 3), leaving 15 cigbutts in the cell.
++ OK: SS0 flicked towards (1, 0), now 2 cigbutts are in the cell.
++ OK: PP0 gathered from (1, 3), leaving 14 cigbutts in the cell.
++ OK: PP0 gathered from (1, 3), leaving 13 cigbutts in the cell.
++ OK: SS0 flicked towards (0, 0), now 3 cigbutts are in the cell.
++ OK: PP0 gathered from (1, 3), leaving 12 cigbutts in the cell.
++ OK: SS0 flicked towards (0, 1), now 3 cigbutts are in the cell.
++ OK: PP0 gathered from (1, 3), leaving 11 cigbutts in the cell.
++ OK: SS0 flicked towards (0, 2), now 3 cigbutts are in the cell.
++ OK: SS0 flicked towards (1, 2), now 3 cigbutts are in the cell.
++ OK: PP0 gathered from (1, 3), leaving 10 cigbutts in the cell.
++ OK: SS0 flicked towards (2, 2), now 3 cigbutts are in the cell.
++ OK: PP0 gathered from (1, 3), leaving 9 cigbutts in the cell.
++ OK: PP0 gathered from (1, 3), leaving 8 cigbutts in the cell.
++ OK: SS0 flicked towards (2, 1), now 3 cigbutts are in the cell.
++ OK: PP0 gathered from (1, 3), leaving 7 cigbutts in the cell.
++ OK: SS0 flicked towards (2, 0), now 3 cigbutts are in the cell.
++ OK: SS0 flicked towards (1, 0), now 3 cigbutts are in the cell.
++ OK: PP0 gathered from (1, 3), leaving 6 cigbutts in the cell.
++ OK: PP0 gathered from (1, 3), leaving 5 cigbutts in the cell.
++ OK: SS0 flicked towards (0, 0), now 4 cigbutts are in the cell.
++ OK: SS0 flicked towards (0, 1), now 4 cigbutts are in the cell.
++ OK: PP0 gathered from (1, 3), leaving 4 cigbutts in the cell.
++ OK: SS0 flicked towards (0, 2), now 4 cigbutts are in the cell.
++ OK: PP0 gathered from (1, 3), leaving 3 cigbutts in the cell.
++ OK: PP0 gathered from (1, 3), leaving 2 cigbutts in the cell.
++ OK: SS0 flicked towards (1, 2), now 4 cigbutts are in the cell.
++ OK: PP0 gathered from (1, 3), leaving 1 cigbutts in the cell.
++ OK: SS0 flicked towards (2, 2), now 4 cigbutts are in the cell.
++ OK: SS0 flicked towards (2, 1), now 4 cigbutts are in the cell.
++ OK: PP0 gathered from (1, 3), leaving 0 cigbutts in the cell.
++ OK: SS0 flicked towards (2, 0), now 4 cigbutts are in the cell.
++ OK: PP0 gathered from (2, 3), leaving 9 cigbutts in the cell.
++ OK: SS0 flicked towards (1, 0), now 4 cigbutts are in the cell.
++ OK: PP0 gathered from (2, 3), leaving 8 cigbutts in the cell.
++ OK: PP0 gathered from (2, 3), leaving 7 cigbutts in the cell.
++ OK: SS0 flicked towards (0, 0), now 5 cigbutts are in the cell.
++ OK: PP0 gathered from (2, 3), leaving 6 cigbutts in the cell.
++ OK: SS0 flicked towards (0, 1), now 5 cigbutts are in the cell.
++ OK: PP0 gathered from (2, 3), leaving 5 cigbutts in the cell.
++ OK: SS0 flicked towards (0, 2), now 5 cigbutts are in the cell.
++ OK: PP0 gathered from (2, 3), leaving 4 cigbutts in the cell.
++ OK: SS0 flicked towards (1, 2), now 5 cigbutts are in the cell.
++ OK: PP0 gathered from (2, 3), leaving 3 cigbutts in the cell.
++ OK: SS0 flicked towards (2, 2), now 5 cigbutts are in the cell.
++ OK: SS0 flicked towards (2, 1), now 5 cigbutts are in the cell.
++ OK: PP0 gathered from (2, 3), leaving 2 cigbutts in the cell.
++ OK: SS0 flicked towards (2, 0), now 5 cigbutts are in the cell.
++ OK: PP0 gathered from (2, 3), leaving 1 cigbutts in the cell.
++ OK: SS0 flicked towards (1, 0), now 5 cigbutts are in the cell.
++ OK: PP0 gathered from (2, 3), leaving 0 cigbutts in the cell.
++ OK: PP0 left last area, which was (0, 3).
++ OK: SS0 flicked towards (0, 0), now 6 cigbutts are in the cell.
++ OK: SS0 flicked towards (0, 1), now 6 cigbutts are in the cell.
++ OK: SS0 flicked towards (0, 2), now 6 cigbutts are in the cell.
++ OK: SS0 flicked towards (1, 2), now 6 cigbutts are in the cell.
++ OK: SS0 flicked towards (2, 2), now 6 cigbutts are in the cell.
++ OK: SS0 flicked towards (2, 1), now 6 cigbutts are in the cell.
++ OK: SS0 flicked towards (2, 0), now 6 cigbutts are in the cell.
++ OK: SS0 flicked towards (1, 0), now 6 cigbutts are in the cell.
++ OK: SS0 flicked towards (0, 0), now 7 cigbutts are in the cell.
++ OK: SS0 flicked towards (0, 1), now 7 cigbutts are in the cell.
++ OK: SS0 flicked towards (0, 2), now 7 cigbutts are in the cell.
++ OK: SS0 flicked towards (1, 2), now 7 cigbutts are in the cell.
++ OK: SS0 flicked towards (2, 2), now 7 cigbutts are in the cell.
++ OK: SS0 flicked towards (2, 1), now 7 cigbutts are in the cell.
++ OK: SS0 flicked towards (2, 0), now 7 cigbutts are in the cell.
++ OK: SS0 flicked towards (1, 0), now 7 cigbutts are in the cell.
++ OK: SS0 flicked towards (0, 0), now 8 cigbutts are in the cell.
++ OK: SS0 flicked towards (0, 1), now 8 cigbutts are in the cell.
++ OK: SS0 flicked towards (0, 2), now 8 cigbutts are in the cell.
++ OK: SS0 flicked towards (1, 2), now 8 cigbutts are in the cell.
++ OK: SS0 flicked towards (2, 2), now 8 cigbutts are in the cell.
++ OK: SS0 flicked towards (2, 1), now 8 cigbutts are in the cell.
++ OK: SS0 flicked towards (2, 0), now 8 cigbutts are in the cell.
++ OK: SS0 flicked towards (1, 0), now 8 cigbutts are in the cell.
++ OK: SS0 flicked towards (0, 0), now 9 cigbutts are in the cell.
++ OK: SS0 flicked towards (0, 1), now 9 cigbutts are in the cell.
++ OK: SS0 flicked towards (0, 2), now 9 cigbutts are in the cell.
++ OK: SS0 flicked towards (1, 2), now 9 cigbutts are in the cell.
++ OK: SS0 flicked towards (2, 2), now 9 cigbutts are in the cell.
++ OK: SS0 flicked towards (2, 1), now 9 cigbutts are in the cell.
++ OK: SS0 flicked towards (2, 0), now 9 cigbutts are in the cell.
++ OK: SS0 flicked towards (1, 0), now 9 cigbutts are in the cell.
++ OK: SS0 flicked towards (0, 0), now 10 cigbutts are in the cell.
++ OK: SS0 flicked towards (0, 1), now 10 cigbutts are in the cell.
++ OK: SS0 flicked towards (0, 2), now 10 cigbutts are in the cell.
++ OK: SS0 flicked towards (1, 2), now 10 cigbutts are in the cell.
++ OK: SS0 flicked towards (2, 2), now 10 cigbutts are in the cell.
++ OK: SS0 flicked towards (2, 1), now 10 cigbutts are in the cell.
++ OK: SS0 flicked towards (2, 0), now 10 cigbutts are in the cell.
++ OK: SS0 flicked towards (1, 0), now 10 cigbutts are in the cell.
++ OK: SS0 flicked towards (0, 0), now 11 cigbutts are in the cell.
++ OK: SS0 flicked towards (0, 1), now 11 cigbutts are in the cell.
++ OK: SS0 flicked towards (0, 2), now 11 cigbutts are in the cell.
++ OK: SS0 flicked towards (1, 2), now 11 cigbutts are in the cell.
++ OK: SS0 flicked towards (2, 2), now 11 cigbutts are in the cell.
++ OK: SS0 flicked towards (2, 1), now 11 cigbutts are in the cell.
++ OK: SS0 flicked towards (2, 0), now 11 cigbutts are in the cell.
++ OK: SS0 flicked towards (1, 0), now 11 cigbutts are in the cell.
++ OK: SS0 flicked towards (0, 0), now 12 cigbutts are in the cell.
++ OK: SS0 flicked towards (0, 1), now 12 cigbutts are in the cell.
++ OK: SS0 flicked towards (0, 2), now 12 cigbutts are in the cell.
++ OK: SS0 flicked towards (1, 2), now 12 cigbutts are in the cell.
++ OK: SS0 flicked towards (2, 2), now 12 cigbutts are in the cell.
++ OK: SS0 flicked towards (2, 1), now 12 cigbutts are in the cell.
++ OK: SS0 flicked towards (2, 0), now 12 cigbutts are in the cell.
++ OK: SS0 flicked towards (1, 0), now 12 cigbutts are in the cell.
++ OK: SS0 flicked towards (0, 0), now 13 cigbutts are in the cell.
++ OK: SS0 flicked towards (0, 1), now 13 cigbutts are in the cell.
++ OK: SS0 flicked towards (0, 2), now 13 cigbutts are in the cell.
++ OK: SS0 flicked towards (1, 2), now 13 cigbutts are in the cell.
++ OK: SS0 left last cell, which was (1, 1).
++ OK: SS0 exited properly.
++ OK: PP0 arrived at area (0, 0).
++ OK: PP0 gathered from (0, 0), leaving 12 cigbutts in the cell.
++ OK: PP0 gathered from (0, 0), leaving 11 cigbutts in the cell.
++ OK: PP0 gathered from (0, 0), leaving 10 cigbutts in the cell.
++ OK: PP0 gathered from (0, 0), leaving 9 cigbutts in the cell.
++ OK: PP0 gathered from (0, 0), leaving 8 cigbutts in the cell.
++ OK: PP0 gathered from (0, 0), leaving 7 cigbutts in the cell.
++ OK: PP0 gathered from (0, 0), leaving 6 cigbutts in the cell.
++ OK: PP0 gathered from (0, 0), leaving 5 cigbutts in the cell.
++ OK: PP0 gathered from (0, 0), leaving 4 cigbutts in the cell.
++ OK: PP0 gathered from (0, 0), leaving 3 cigbutts in the cell.
++ OK: PP0 gathered from (0, 0), leaving 2 cigbutts in the cell.
++ OK: PP0 gathered from (0, 0), leaving 1 cigbutts in the cell.
++ OK: PP0 gathered from (0, 0), leaving 0 cigbutts in the cell.
++ OK: PP0 gathered from (1, 0), leaving 11 cigbutts in the cell.
++ OK: PP0 gathered from (1, 0), leaving 10 cigbutts in the cell.
++ OK: PP0 gathered from (1, 0), leaving 9 cigbutts in the cell.
++ OK: PP0 gathered from (1, 0), leaving 8 cigbutts in the cell.
++ OK: PP0 gathered from (1, 0), leaving 7 cigbutts in the cell.
++ OK: PP0 gathered from (1, 0), leaving 6 cigbutts in the cell.
++ OK: PP0 gathered from (1, 0), leaving 5 cigbutts in the cell.
++ OK: PP0 gathered from (1, 0), leaving 4 cigbutts in the cell.
++ OK: PP0 gathered from (1, 0), leaving 3 cigbutts in the cell.
++ OK: PP0 gathered from (1, 0), leaving 2 cigbutts in the cell.
++ OK: PP0 gathered from (1, 0), leaving 1 cigbutts in the cell.
++ OK: PP0 gathered from (1, 0), leaving 0 cigbutts in the cell.
++ OK: PP0 gathered from (2, 0), leaving 11 cigbutts in the cell.
++ OK: PP0 gathered from (2, 0), leaving 10 cigbutts in the cell.
++ OK: PP0 gathered from (2, 0), leaving 9 cigbutts in the cell.
++ OK: PP0 gathered from (2, 0), leaving 8 cigbutts in the cell.
++ OK: PP0 gathered from (2, 0), leaving 7 cigbutts in the cell.
++ OK: PP0 gathered from (2, 0), leaving 6 cigbutts in the cell.
++ OK: PP0 gathered from (2, 0), leaving 5 cigbutts in the cell.
++ OK: PP0 gathered from (2, 0), leaving 4 cigbutts in the cell.
++ OK: PP0 gathered from (2, 0), leaving 3 cigbutts in the cell.
++ OK: PP0 gathered from (2, 0), leaving 2 cigbutts in the cell.
++ OK: PP0 gathered from (2, 0), leaving 1 cigbutts in the cell.
++ OK: PP0 gathered from (2, 0), leaving 0 cigbutts in the cell.
++ OK: PP0 left last area, which was (0, 0).
++ OK: PP0 exited properly.
++ OK: End of notification stream reached. Everyone has exited cleanly and all orders were delivered. Nice!
+--------------------------------------------------------------------------------
+Looks like no fatal inconsistencies occurred! Good job.
+
+Consistency multiplier:
+1.00

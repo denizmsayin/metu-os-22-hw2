@@ -1,0 +1,434 @@
++ OK: PP0 created with tid=140008205997824.
++ OK: PP3 created with tid=140008180819712.
++ OK: PP0 arrived at area (36, 7).
++ OK: PP3 arrived at area (53, 7).
++ OK: PP2 created with tid=140008189212416.
++ OK: PP2 arrived at area (14, 7).
++ OK: PP5 created with tid=140008164034304.
++ OK: PP5 arrived at area (43, 8).
++ OK: PP4 created with tid=140008172427008.
++ OK: PP4 arrived at area (49, 3).
++ OK: PP1 created with tid=140008197605120.
++ OK: PP1 arrived at area (90, 2).
++ OK: PP8 created with tid=140008065324800.
++ OK: PP8 arrived at area (5, 5).
++ OK: PP6 created with tid=140008082110208.
++ OK: PP6 arrived at area (19, 7).
++ OK: PP7 created with tid=140008073717504.
++ OK: PP7 arrived at area (58, 5).
++ OK: PP11 created with tid=140007905928960.
++ OK: PP9 created with tid=140008056932096.
++ OK: PP9 arrived at area (63, 0).
++ OK: PP11 arrived at area (9, 7).
++ OK: PP10 created with tid=140008048539392.
++ OK: PP10 arrived at area (67, 7).
++ OK: PP12 created with tid=140008040146688.
++ OK: PP12 arrived at area (42, 8).
++ OK: PP13 created with tid=140008031753984.
++ OK: PP13 arrived at area (79, 1).
++ OK: PP14 created with tid=140007947892480.
++ OK: PP14 arrived at area (12, 1).
++ OK: PP15 created with tid=140007939499776.
++ OK: PP15 arrived at area (41, 0).
++ OK: PP16 created with tid=140007931107072.
++ OK: PP16 arrived at area (31, 8).
++ OK: PP17 created with tid=140007922714368.
++ OK: PP17 arrived at area (78, 6).
++ OK: PP18 created with tid=140007914321664.
++ OK: PP18 arrived at area (29, 7).
++ OK: PP19 created with tid=140007897536256.
++ OK: PP19 arrived at area (59, 4).
++ OK: PP20 created with tid=140007813674752.
++ OK: PP20 arrived at area (75, 4).
++ OK: PP22 created with tid=140007796889344.
++ OK: PP22 arrived at area (73, 4).
++ OK: PP21 created with tid=140007805282048.
++ OK: PP21 arrived at area (25, 6).
++ OK: PP23 created with tid=140007788496640.
++ OK: PP23 arrived at area (35, 0).
++ OK: PP26 created with tid=140007763318528.
++ OK: PP26 arrived at area (74, 5).
++ OK: PP24 created with tid=140007780103936.
++ OK: PP24 arrived at area (77, 5).
++ OK: PP27 created with tid=140007754925824.
++ OK: PP27 arrived at area (95, 6).
++ OK: PP28 created with tid=140007746533120.
++ OK: PP28 arrived at area (67, 8).
++ OK: PP25 created with tid=140007771711232.
++ OK: PP25 arrived at area (80, 1).
++ OK: PP29 created with tid=140007738140416.
++ OK: PP29 arrived at area (95, 5).
++ OK: PP31 created with tid=140007721355008.
++ OK: PP31 arrived at area (33, 8).
++ OK: PP32 created with tid=140007712962304.
++ OK: PP32 arrived at area (74, 6).
++ OK: PP30 created with tid=140007729747712.
++ OK: PP33 created with tid=140007704569600.
++ OK: PP30 arrived at area (86, 6).
++ OK: PP33 arrived at area (60, 0).
++ OK: PP34 created with tid=140007561959168.
++ OK: PP34 arrived at area (81, 7).
++ OK: PP35 created with tid=140007696176896.
++ OK: PP35 arrived at area (5, 0).
++ OK: PP36 created with tid=140007612348160.
++ OK: PP36 arrived at area (68, 2).
++ OK: PP37 created with tid=140007603955456.
++ OK: PP37 arrived at area (75, 2).
++ OK: PP38 created with tid=140007595562752.
++ OK: PP38 arrived at area (36, 0).
++ OK: PP39 created with tid=140007587170048.
++ OK: PP39 arrived at area (30, 5).
++ OK: PP40 created with tid=140007578777344.
++ OK: PP40 arrived at area (35, 3).
++ OK: PP41 created with tid=140007570384640.
++ OK: PP41 arrived at area (82, 9).
++ OK: PP42 created with tid=140007553566464.
++ OK: PP42 arrived at area (72, 3).
++ OK: PP43 created with tid=140007545173760.
++ OK: PP43 arrived at area (99, 2).
++ OK: PP44 created with tid=140007536781056.
++ OK: PP44 arrived at area (69, 4).
++ OK: PP45 created with tid=140007528388352.
++ OK: PP45 arrived at area (45, 3).
++ OK: PP46 created with tid=140007519995648.
++ OK: PP46 arrived at area (6, 2).
++ OK: PP47 created with tid=140007511602944.
++ OK: PP47 arrived at area (57, 5).
++ OK: PP48 created with tid=140007503210240.
++ OK: PP48 arrived at area (78, 0).
++ OK: PP49 created with tid=140007494817536.
++ OK: PP49 arrived at area (7, 7).
++ OK: PP1 gathered from (90, 2), leaving 16 cigbutts in the cell.
++ OK: PP15 gathered from (41, 0), leaving 13 cigbutts in the cell.
++ OK: PP40 gathered from (35, 3), leaving 20 cigbutts in the cell.
++ OK: PP2 gathered from (14, 7), leaving 14 cigbutts in the cell.
++ OK: PP14 gathered from (12, 1), leaving 24 cigbutts in the cell.
++ OK: PP35 gathered from (5, 0), leaving 11 cigbutts in the cell.
++ OK: PP36 gathered from (68, 2), leaving 9 cigbutts in the cell.
++ OK: PP47 gathered from (57, 5), leaving 25 cigbutts in the cell.
++ OK: PP17 gathered from (78, 6), leaving 18 cigbutts in the cell.
++ OK: PP30 gathered from (86, 6), leaving 22 cigbutts in the cell.
++ OK: PP44 gathered from (69, 4), leaving 14 cigbutts in the cell.
++ OK: PP45 gathered from (45, 3), leaving 20 cigbutts in the cell.
++ OK: PP46 gathered from (6, 2), leaving 11 cigbutts in the cell.
++ OK: PP8 gathered from (5, 5), leaving 20 cigbutts in the cell.
++ OK: PP42 gathered from (72, 3), leaving 25 cigbutts in the cell.
++ OK: PP43 gathered from (99, 2), leaving 15 cigbutts in the cell.
++ OK: PP3 gathered from (53, 7), leaving 13 cigbutts in the cell.
++ OK: PP5 gathered from (43, 8), leaving 24 cigbutts in the cell.
++ OK: PP6 gathered from (19, 7), leaving 29 cigbutts in the cell.
++ OK: PP19 gathered from (59, 4), leaving 16 cigbutts in the cell.
++ OK: PP27 gathered from (95, 6), leaving 29 cigbutts in the cell.
++ OK: PP24 gathered from (77, 5), leaving 16 cigbutts in the cell.
++ OK: PP7 gathered from (58, 5), leaving 17 cigbutts in the cell.
++ OK: PP9 gathered from (63, 0), leaving 16 cigbutts in the cell.
++ OK: PP16 gathered from (31, 8), leaving 28 cigbutts in the cell.
++ OK: PP22 gathered from (73, 4), leaving 13 cigbutts in the cell.
++ OK: PP31 gathered from (33, 8), leaving 11 cigbutts in the cell.
++ OK: PP10 gathered from (67, 7), leaving 29 cigbutts in the cell.
++ OK: PP20 gathered from (75, 4), leaving 27 cigbutts in the cell.
++ OK: PP21 gathered from (25, 6), leaving 13 cigbutts in the cell.
++ OK: PP26 gathered from (74, 5), leaving 27 cigbutts in the cell.
++ OK: PP29 gathered from (95, 5), leaving 25 cigbutts in the cell.
++ OK: PP39 gathered from (30, 5), leaving 10 cigbutts in the cell.
++ OK: PP0 gathered from (36, 7), leaving 17 cigbutts in the cell.
++ OK: PP4 gathered from (49, 3), leaving 25 cigbutts in the cell.
++ OK: PP13 gathered from (79, 1), leaving 27 cigbutts in the cell.
++ OK: PP28 gathered from (67, 8), leaving 10 cigbutts in the cell.
++ OK: PP48 gathered from (78, 0), leaving 24 cigbutts in the cell.
++ OK: PP18 gathered from (29, 7), leaving 19 cigbutts in the cell.
++ OK: PP38 gathered from (36, 0), leaving 29 cigbutts in the cell.
++ OK: PP11 gathered from (9, 7), leaving 15 cigbutts in the cell.
++ OK: PP12 gathered from (42, 8), leaving 9 cigbutts in the cell.
++ OK: PP23 gathered from (35, 0), leaving 20 cigbutts in the cell.
++ OK: PP25 gathered from (80, 1), leaving 23 cigbutts in the cell.
++ OK: PP32 gathered from (74, 6), leaving 17 cigbutts in the cell.
++ OK: PP37 gathered from (75, 2), leaving 16 cigbutts in the cell.
++ OK: PP34 gathered from (81, 7), leaving 25 cigbutts in the cell.
++ OK: PP33 gathered from (60, 0), leaving 13 cigbutts in the cell.
++ OK: PP41 gathered from (82, 9), leaving 13 cigbutts in the cell.
++ OK: PP49 gathered from (7, 7), leaving 28 cigbutts in the cell.
++ OK: PP1 gathered from (90, 2), leaving 15 cigbutts in the cell.
++ OK: PP15 gathered from (41, 0), leaving 12 cigbutts in the cell.
++ OK: PP40 gathered from (35, 3), leaving 19 cigbutts in the cell.
++ OK: PP14 gathered from (12, 1), leaving 23 cigbutts in the cell.
++ OK: PP2 gathered from (14, 7), leaving 13 cigbutts in the cell.
++ OK: PP36 gathered from (68, 2), leaving 8 cigbutts in the cell.
++ OK: PP35 gathered from (5, 0), leaving 10 cigbutts in the cell.
++ OK: PP47 gathered from (57, 5), leaving 24 cigbutts in the cell.
++ OK: PP17 gathered from (78, 6), leaving 17 cigbutts in the cell.
++ OK: PP30 gathered from (86, 6), leaving 21 cigbutts in the cell.
++ OK: PP45 gathered from (45, 3), leaving 19 cigbutts in the cell.
++ OK: PP44 gathered from (69, 4), leaving 13 cigbutts in the cell.
++ OK: PP46 gathered from (6, 2), leaving 10 cigbutts in the cell.
++ OK: PP8 gathered from (5, 5), leaving 19 cigbutts in the cell.
++ OK: PP43 gathered from (99, 2), leaving 14 cigbutts in the cell.
++ OK: PP42 gathered from (72, 3), leaving 24 cigbutts in the cell.
++ OK: PP5 gathered from (43, 8), leaving 23 cigbutts in the cell.
++ OK: PP3 gathered from (53, 7), leaving 12 cigbutts in the cell.
++ OK: PP19 gathered from (59, 4), leaving 15 cigbutts in the cell.
++ OK: PP6 gathered from (19, 7), leaving 28 cigbutts in the cell.
++ OK: PP27 gathered from (95, 6), leaving 28 cigbutts in the cell.
++ OK: PP24 gathered from (77, 5), leaving 15 cigbutts in the cell.
++ OK: PP7 gathered from (58, 5), leaving 16 cigbutts in the cell.
++ OK: PP16 gathered from (31, 8), leaving 27 cigbutts in the cell.
++ OK: PP9 gathered from (63, 0), leaving 15 cigbutts in the cell.
++ OK: PP31 gathered from (33, 8), leaving 10 cigbutts in the cell.
++ OK: PP22 gathered from (73, 4), leaving 12 cigbutts in the cell.
++ OK: PP10 gathered from (67, 7), leaving 28 cigbutts in the cell.
++ OK: PP20 gathered from (75, 4), leaving 26 cigbutts in the cell.
++ OK: PP21 gathered from (25, 6), leaving 12 cigbutts in the cell.
++ OK: PP26 gathered from (74, 5), leaving 26 cigbutts in the cell.
++ OK: PP39 gathered from (30, 5), leaving 9 cigbutts in the cell.
++ OK: PP29 gathered from (95, 5), leaving 24 cigbutts in the cell.
++ OK: PP0 gathered from (36, 7), leaving 16 cigbutts in the cell.
++ OK: PP4 gathered from (49, 3), leaving 24 cigbutts in the cell.
++ OK: PP13 gathered from (79, 1), leaving 26 cigbutts in the cell.
++ OK: PP28 gathered from (67, 8), leaving 9 cigbutts in the cell.
++ OK: PP48 gathered from (78, 0), leaving 23 cigbutts in the cell.
++ OK: PP18 gathered from (29, 7), leaving 18 cigbutts in the cell.
++ OK: PP38 gathered from (36, 0), leaving 28 cigbutts in the cell.
++ OK: PP11 gathered from (9, 7), leaving 14 cigbutts in the cell.
++ OK: PP12 gathered from (42, 8), leaving 8 cigbutts in the cell.
++ OK: PP32 gathered from (74, 6), leaving 16 cigbutts in the cell.
++ OK: PP23 gathered from (35, 0), leaving 19 cigbutts in the cell.
++ OK: PP34 gathered from (81, 7), leaving 24 cigbutts in the cell.
++ OK: PP25 gathered from (80, 1), leaving 22 cigbutts in the cell.
++ OK: PP41 gathered from (82, 9), leaving 12 cigbutts in the cell.
++ OK: PP33 gathered from (60, 0), leaving 12 cigbutts in the cell.
++ OK: PP37 gathered from (75, 2), leaving 15 cigbutts in the cell.
++ OK: PP49 gathered from (7, 7), leaving 27 cigbutts in the cell.
++ OK: PP1 gathered from (90, 2), leaving 14 cigbutts in the cell.
++ OK: PP15 gathered from (41, 0), leaving 11 cigbutts in the cell.
++ OK: PP40 gathered from (35, 3), leaving 18 cigbutts in the cell.
++ OK: PP14 gathered from (12, 1), leaving 22 cigbutts in the cell.
++ OK: PP2 gathered from (14, 7), leaving 12 cigbutts in the cell.
++ OK: PP36 gathered from (68, 2), leaving 7 cigbutts in the cell.
++ OK: PP35 gathered from (5, 0), leaving 9 cigbutts in the cell.
++ OK: PP47 gathered from (57, 5), leaving 23 cigbutts in the cell.
++ OK: PP17 gathered from (78, 6), leaving 16 cigbutts in the cell.
++ OK: PP30 gathered from (86, 6), leaving 20 cigbutts in the cell.
++ OK: PP45 gathered from (45, 3), leaving 18 cigbutts in the cell.
++ OK: PP44 gathered from (69, 4), leaving 12 cigbutts in the cell.
++ OK: PP46 gathered from (6, 2), leaving 9 cigbutts in the cell.
++ OK: PP8 gathered from (5, 5), leaving 18 cigbutts in the cell.
++ OK: PP43 gathered from (99, 2), leaving 13 cigbutts in the cell.
++ OK: PP42 gathered from (72, 3), leaving 23 cigbutts in the cell.
++ OK: PP3 gathered from (53, 7), leaving 11 cigbutts in the cell.
++ OK: PP24 gathered from (77, 5), leaving 14 cigbutts in the cell.
++ OK: PP19 gathered from (59, 4), leaving 14 cigbutts in the cell.
++ OK: PP6 gathered from (19, 7), leaving 27 cigbutts in the cell.
++ OK: PP5 gathered from (43, 8), leaving 22 cigbutts in the cell.
++ OK: PP27 gathered from (95, 6), leaving 27 cigbutts in the cell.
++ OK: PP7 gathered from (58, 5), leaving 15 cigbutts in the cell.
++ OK: PP31 gathered from (33, 8), leaving 9 cigbutts in the cell.
++ OK: PP16 gathered from (31, 8), leaving 26 cigbutts in the cell.
++ OK: PP9 gathered from (63, 0), leaving 14 cigbutts in the cell.
++ OK: PP22 gathered from (73, 4), leaving 11 cigbutts in the cell.
++ OK: PP10 gathered from (67, 7), leaving 27 cigbutts in the cell.
++ OK: PP20 gathered from (75, 4), leaving 25 cigbutts in the cell.
++ OK: PP21 gathered from (25, 6), leaving 11 cigbutts in the cell.
++ OK: PP26 gathered from (74, 5), leaving 25 cigbutts in the cell.
++ OK: PP29 gathered from (95, 5), leaving 23 cigbutts in the cell.
++ OK: PP39 gathered from (30, 5), leaving 8 cigbutts in the cell.
++ OK: PP13 gathered from (79, 1), leaving 25 cigbutts in the cell.
++ OK: PP0 gathered from (36, 7), leaving 15 cigbutts in the cell.
++ OK: PP28 gathered from (67, 8), leaving 8 cigbutts in the cell.
++ OK: PP4 gathered from (49, 3), leaving 23 cigbutts in the cell.
++ OK: PP48 gathered from (78, 0), leaving 22 cigbutts in the cell.
++ OK: PP18 gathered from (29, 7), leaving 17 cigbutts in the cell.
++ OK: PP38 gathered from (36, 0), leaving 27 cigbutts in the cell.
++ OK: PP32 gathered from (74, 6), leaving 15 cigbutts in the cell.
++ OK: PP49 gathered from (7, 7), leaving 26 cigbutts in the cell.
++ OK: PP37 gathered from (75, 2), leaving 14 cigbutts in the cell.
++ OK: PP34 gathered from (81, 7), leaving 23 cigbutts in the cell.
++ OK: PP11 gathered from (9, 7), leaving 13 cigbutts in the cell.
++ OK: PP25 gathered from (80, 1), leaving 21 cigbutts in the cell.
++ OK: PP41 gathered from (82, 9), leaving 11 cigbutts in the cell.
++ OK: PP12 gathered from (42, 8), leaving 7 cigbutts in the cell.
++ OK: PP23 gathered from (35, 0), leaving 18 cigbutts in the cell.
++ OK: PP33 gathered from (60, 0), leaving 11 cigbutts in the cell.
++ OK: PP1 gathered from (90, 2), leaving 13 cigbutts in the cell.
++ OK: PP15 gathered from (41, 0), leaving 10 cigbutts in the cell.
++ OK: PP40 gathered from (35, 3), leaving 17 cigbutts in the cell.
++ OK: PP14 gathered from (12, 1), leaving 21 cigbutts in the cell.
++ OK: PP2 gathered from (14, 7), leaving 11 cigbutts in the cell.
++ OK: PP36 gathered from (68, 2), leaving 6 cigbutts in the cell.
++ OK: PP35 gathered from (5, 0), leaving 8 cigbutts in the cell.
++ OK: PP47 gathered from (57, 5), leaving 22 cigbutts in the cell.
++ OK: PP17 gathered from (78, 6), leaving 15 cigbutts in the cell.
++ OK: PP30 gathered from (86, 6), leaving 19 cigbutts in the cell.
++ OK: PP45 gathered from (45, 3), leaving 17 cigbutts in the cell.
++ OK: PP44 gathered from (69, 4), leaving 11 cigbutts in the cell.
++ OK: PP46 gathered from (6, 2), leaving 8 cigbutts in the cell.
++ OK: PP8 gathered from (5, 5), leaving 17 cigbutts in the cell.
++ OK: PP43 gathered from (99, 2), leaving 12 cigbutts in the cell.
++ OK: PP42 gathered from (72, 3), leaving 22 cigbutts in the cell.
++ OK: PP3 gathered from (53, 7), leaving 10 cigbutts in the cell.
++ OK: PP24 gathered from (77, 5), leaving 13 cigbutts in the cell.
++ OK: PP19 gathered from (59, 4), leaving 13 cigbutts in the cell.
++ OK: PP6 gathered from (19, 7), leaving 26 cigbutts in the cell.
++ OK: PP27 gathered from (95, 6), leaving 26 cigbutts in the cell.
++ OK: PP5 gathered from (43, 8), leaving 21 cigbutts in the cell.
++ OK: PP7 gathered from (58, 5), leaving 14 cigbutts in the cell.
++ OK: PP31 gathered from (33, 8), leaving 8 cigbutts in the cell.
++ OK: PP16 gathered from (31, 8), leaving 25 cigbutts in the cell.
++ OK: PP22 gathered from (73, 4), leaving 10 cigbutts in the cell.
++ OK: PP9 gathered from (63, 0), leaving 13 cigbutts in the cell.
++ OK: PP10 gathered from (67, 7), leaving 26 cigbutts in the cell.
++ OK: PP20 gathered from (75, 4), leaving 24 cigbutts in the cell.
++ OK: PP21 gathered from (25, 6), leaving 10 cigbutts in the cell.
++ OK: PP29 gathered from (95, 5), leaving 22 cigbutts in the cell.
++ OK: PP26 gathered from (74, 5), leaving 24 cigbutts in the cell.
++ OK: PP39 gathered from (30, 5), leaving 7 cigbutts in the cell.
++ OK: PP13 gathered from (79, 1), leaving 24 cigbutts in the cell.
++ OK: PP0 gathered from (36, 7), leaving 14 cigbutts in the cell.
++ OK: PP28 gathered from (67, 8), leaving 7 cigbutts in the cell.
++ OK: PP4 gathered from (49, 3), leaving 22 cigbutts in the cell.
++ OK: PP48 gathered from (78, 0), leaving 21 cigbutts in the cell.
++ OK: PP38 gathered from (36, 0), leaving 26 cigbutts in the cell.
++ OK: PP18 gathered from (29, 7), leaving 16 cigbutts in the cell.
++ OK: PP11 gathered from (9, 7), leaving 12 cigbutts in the cell.
++ OK: PP41 gathered from (82, 9), leaving 10 cigbutts in the cell.
++ OK: PP32 gathered from (74, 6), leaving 14 cigbutts in the cell.
++ OK: PP49 gathered from (7, 7), leaving 25 cigbutts in the cell.
++ OK: PP37 gathered from (75, 2), leaving 13 cigbutts in the cell.
++ OK: PP23 gathered from (35, 0), leaving 17 cigbutts in the cell.
++ OK: PP33 gathered from (60, 0), leaving 10 cigbutts in the cell.
++ OK: PP25 gathered from (80, 1), leaving 20 cigbutts in the cell.
++ OK: PP34 gathered from (81, 7), leaving 22 cigbutts in the cell.
++ OK: PP12 gathered from (42, 8), leaving 6 cigbutts in the cell.
++ OK: PP1 gathered from (90, 2), leaving 12 cigbutts in the cell.
++ OK: PP15 gathered from (41, 0), leaving 9 cigbutts in the cell.
++ OK: PP40 gathered from (35, 3), leaving 16 cigbutts in the cell.
++ OK: PP2 gathered from (14, 7), leaving 10 cigbutts in the cell.
++ OK: PP14 gathered from (12, 1), leaving 20 cigbutts in the cell.
++ OK: PP36 gathered from (68, 2), leaving 5 cigbutts in the cell.
++ OK: PP35 gathered from (5, 0), leaving 7 cigbutts in the cell.
++ OK: PP47 gathered from (57, 5), leaving 21 cigbutts in the cell.
++ OK: PP17 gathered from (78, 6), leaving 14 cigbutts in the cell.
++ OK: PP45 gathered from (45, 3), leaving 16 cigbutts in the cell.
++ OK: PP46 gathered from (6, 2), leaving 7 cigbutts in the cell.
++ OK: PP30 gathered from (86, 6), leaving 18 cigbutts in the cell.
++ OK: PP44 gathered from (69, 4), leaving 10 cigbutts in the cell.
++ OK: PP8 gathered from (5, 5), leaving 16 cigbutts in the cell.
++ OK: PP43 gathered from (99, 2), leaving 11 cigbutts in the cell.
++ OK: PP42 gathered from (72, 3), leaving 21 cigbutts in the cell.
++ OK: PP24 gathered from (77, 5), leaving 12 cigbutts in the cell.
++ OK: PP3 gathered from (53, 7), leaving 9 cigbutts in the cell.
++ OK: PP19 gathered from (59, 4), leaving 12 cigbutts in the cell.
++ OK: PP6 gathered from (19, 7), leaving 25 cigbutts in the cell.
++ OK: PP5 gathered from (43, 8), leaving 20 cigbutts in the cell.
++ OK: PP27 gathered from (95, 6), leaving 25 cigbutts in the cell.
++ OK: PP7 gathered from (58, 5), leaving 13 cigbutts in the cell.
++ OK: PP22 gathered from (73, 4), leaving 9 cigbutts in the cell.
++ OK: PP31 gathered from (33, 8), leaving 7 cigbutts in the cell.
++ OK: PP16 gathered from (31, 8), leaving 24 cigbutts in the cell.
++ OK: PP9 gathered from (63, 0), leaving 12 cigbutts in the cell.
++ OK: PP39 gathered from (30, 5), leaving 6 cigbutts in the cell.
++ OK: PP10 gathered from (67, 7), leaving 25 cigbutts in the cell.
++ OK: PP20 gathered from (75, 4), leaving 23 cigbutts in the cell.
++ OK: PP21 gathered from (25, 6), leaving 9 cigbutts in the cell.
++ OK: PP26 gathered from (74, 5), leaving 23 cigbutts in the cell.
++ OK: PP29 gathered from (95, 5), leaving 21 cigbutts in the cell.
++ OK: PP13 gathered from (79, 1), leaving 23 cigbutts in the cell.
++ OK: PP0 gathered from (36, 7), leaving 13 cigbutts in the cell.
++ OK: PP28 gathered from (67, 8), leaving 6 cigbutts in the cell.
++ OK: PP4 gathered from (49, 3), leaving 21 cigbutts in the cell.
++ OK: PP48 gathered from (78, 0), leaving 20 cigbutts in the cell.
++ OK: PP38 gathered from (36, 0), leaving 25 cigbutts in the cell.
++ OK: PP18 gathered from (29, 7), leaving 15 cigbutts in the cell.
++ OK: PP37 gathered from (75, 2), leaving 12 cigbutts in the cell.
++ OK: PP34 gathered from (81, 7), leaving 21 cigbutts in the cell.
++ OK: PP32 gathered from (74, 6), leaving 13 cigbutts in the cell.
++ OK: PP12 gathered from (42, 8), leaving 5 cigbutts in the cell.
++ OK: PP11 gathered from (9, 7), leaving 11 cigbutts in the cell.
++ OK: PP23 gathered from (35, 0), leaving 16 cigbutts in the cell.
++ OK: PP33 gathered from (60, 0), leaving 9 cigbutts in the cell.
++ OK: PP25 gathered from (80, 1), leaving 19 cigbutts in the cell.
++ OK: PP41 gathered from (82, 9), leaving 9 cigbutts in the cell.
++ OK: PP49 gathered from (7, 7), leaving 24 cigbutts in the cell.
++ OK: PP1 gathered from (90, 2), leaving 11 cigbutts in the cell.
++ OK: PP15 gathered from (41, 0), leaving 8 cigbutts in the cell.
++ OK: PP40 gathered from (35, 3), leaving 15 cigbutts in the cell.
++ OK: PP14 gathered from (12, 1), leaving 19 cigbutts in the cell.
++ OK: PP36 gathered from (68, 2), leaving 4 cigbutts in the cell.
++ OK: PP35 gathered from (5, 0), leaving 6 cigbutts in the cell.
++ OK: PP2 gathered from (14, 7), leaving 9 cigbutts in the cell.
++ OK: PP47 gathered from (57, 5), leaving 20 cigbutts in the cell.
++ OK: PP17 gathered from (78, 6), leaving 13 cigbutts in the cell.
++ OK: PP30 gathered from (86, 6), leaving 17 cigbutts in the cell.
++ OK: PP46 gathered from (6, 2), leaving 6 cigbutts in the cell.
++ OK: PP45 gathered from (45, 3), leaving 15 cigbutts in the cell.
++ OK: PP44 gathered from (69, 4), leaving 9 cigbutts in the cell.
++ OK: PP8 gathered from (5, 5), leaving 15 cigbutts in the cell.
++ OK: PP42 gathered from (72, 3), leaving 20 cigbutts in the cell.
++ OK: PP43 gathered from (99, 2), leaving 10 cigbutts in the cell.
++ OK: PP5 gathered from (43, 8), leaving 19 cigbutts in the cell.
++ OK: PP6 gathered from (19, 7), leaving 24 cigbutts in the cell.
++ OK: PP19 gathered from (59, 4), leaving 11 cigbutts in the cell.
++ OK: PP24 gathered from (77, 5), leaving 11 cigbutts in the cell.
++ OK: PP27 gathered from (95, 6), leaving 24 cigbutts in the cell.
++ OK: PP3 gathered from (53, 7), leaving 8 cigbutts in the cell.
++ OK: Order STOP delivered at 600 ms, expected at 600 ms. On time!
++ OK: PP39 stopped as ordered.
++ OK: PP26 stopped as ordered.
++ OK: PP16 stopped as ordered.
++ OK: PP0 stopped as ordered.
++ OK: PP20 stopped as ordered.
++ OK: PP22 stopped as ordered.
++ OK: PP31 stopped as ordered.
++ OK: PP9 stopped as ordered.
++ OK: PP21 stopped as ordered.
++ OK: PP4 stopped as ordered.
++ OK: PP38 stopped as ordered.
++ OK: PP34 stopped as ordered.
++ OK: PP37 stopped as ordered.
++ OK: PP28 stopped as ordered.
++ OK: PP18 stopped as ordered.
++ OK: PP12 stopped as ordered.
++ OK: PP41 stopped as ordered.
++ OK: PP32 stopped as ordered.
++ OK: PP49 stopped as ordered.
++ OK: PP15 stopped as ordered.
++ OK: PP40 stopped as ordered.
++ OK: PP33 stopped as ordered.
++ OK: PP47 stopped as ordered.
++ OK: PP36 stopped as ordered.
++ OK: PP30 stopped as ordered.
++ OK: PP11 stopped as ordered.
++ OK: PP25 stopped as ordered.
++ OK: PP44 stopped as ordered.
++ OK: PP6 stopped as ordered.
++ OK: PP1 stopped as ordered.
++ OK: PP14 stopped as ordered.
++ OK: PP17 stopped as ordered.
++ OK: PP5 stopped as ordered.
++ OK: PP43 stopped as ordered.
++ OK: PP2 stopped as ordered.
++ OK: PP42 stopped as ordered.
++ OK: PP10 stopped as ordered.
++ OK: PP48 stopped as ordered.
++ OK: PP35 stopped as ordered.
++ OK: PP23 stopped as ordered.
++ OK: PP45 stopped as ordered.
++ OK: PP7 stopped as ordered.
++ OK: PP46 stopped as ordered.
++ OK: PP24 stopped as ordered.
++ OK: PP29 stopped as ordered.
++ OK: PP19 stopped as ordered.
++ OK: PP8 stopped as ordered.
++ OK: PP13 stopped as ordered.
++ OK: PP27 stopped as ordered.
++ OK: PP3 stopped as ordered.
++ OK: Order BREAK delivered at 1000 ms, expected at 1000 ms. On time!
++ OK: Order CONTINUE delivered at 1200 ms, expected at 1200 ms. On time!
++ OK: Order STOP delivered at 1400 ms, expected at 1400 ms. On time!
++ OK: Order BREAK delivered at 1600 ms, expected at 1600 ms. On time!
++ OK: Order BREAK delivered at 1800 ms, expected at 1800 ms. On time!
++ OK: End of notification stream reached. Everyone has exited cleanly and all orders were delivered. Nice!
+--------------------------------------------------------------------------------
+Looks like no fatal inconsistencies occurred! Good job.
+
+Consistency multiplier:
+1.00

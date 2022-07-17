@@ -1,0 +1,81 @@
+t:       127 | (T140619285116672) S0 created.
+t:       149 | (T140619285116672) S0 arrived at cell (1, 1).
+t:       152 | (T140619268331264) S2 created.
+t:       154 | (T140619276723968) S1 created.
+t:       173 | (T140619268331264) S2 arrived at cell (1, 3).
+t:       177 | (T140619276723968) S1 arrived at cell (1, 2).
+t:       179 | (T140619259938560) S3 created.
+t:       181 | (T140619108935424) S5 created.
+t:       185 | (T140619108935424) S5 arrived at cell (2, 3).
+t:       188 | (T140619259938560) S3 arrived at cell (2, 1).
+t:       208 | (T140619251545856) S4 created.
+t:       210 | (T140619251545856) S4 arrived at cell (2, 2).
+t:       228 | (T140619175425792) S6 created.
+t:       229 | (T140619175425792) S6 arrived at cell (3, 1).
+t:       241 | (T140619167033088) S7 created.
+t:       242 | (T140619167033088) S7 arrived at cell (3, 2).
+t:       256 | (T140619158640384) S8 created.
+t:       268 | (T140619158640384) S8 arrived at cell (3, 3).
+t:    100292 | (T140619175425792) S6 flicked a cigbutt towards (2, 0).
+t:    100329 | (T140619285116672) S0 flicked a cigbutt towards (0, 0).
+t:    100340 | (T140619276723968) S1 flicked a cigbutt towards (0, 1).
+t:    100371 | (T140619108935424) S5 flicked a cigbutt towards (1, 2).
+t:    100416 | (T140619251545856) S4 flicked a cigbutt towards (1, 1).
+t:    100484 | (T140619167033088) S7 flicked a cigbutt towards (2, 1).
+t:    100568 | (T140619259938560) S3 flicked a cigbutt towards (1, 0).
+t:    100656 | (T140619158640384) S8 flicked a cigbutt towards (2, 2).
+t:    100740 | (T140619268331264) S2 flicked a cigbutt towards (0, 2).
+t:    200645 | (T140619276723968) S1 flicked a cigbutt towards (0, 2).
+t:    200664 | (T140619251545856) S4 flicked a cigbutt towards (1, 2).
+t:    200688 | (T140619167033088) S7 flicked a cigbutt towards (2, 2).
+t:    200711 | (T140619259938560) S3 flicked a cigbutt towards (1, 1).
+t:    200739 | (T140619108935424) S5 flicked a cigbutt towards (1, 3).
+t:    200807 | (T140619285116672) S0 flicked a cigbutt towards (0, 1).
+t:    200823 | (T140619268331264) S2 flicked a cigbutt towards (0, 3).
+t:    200879 | (T140619175425792) S6 flicked a cigbutt towards (2, 1).
+t:    200962 | (T140619158640384) S8 flicked a cigbutt towards (2, 3).
+t:    300811 | (T140619276723968) S1 flicked a cigbutt towards (0, 3).
+t:    300827 | (T140619251545856) S4 flicked a cigbutt towards (1, 3).
+t:    300856 | (T140619259938560) S3 flicked a cigbutt towards (1, 2).
+t:    300866 | (T140619167033088) S7 flicked a cigbutt towards (2, 3).
+t:    300881 | (T140619108935424) S5 flicked a cigbutt towards (1, 4).
+t:    300915 | (T140619268331264) S2 flicked a cigbutt towards (0, 4).
+t:    300966 | (T140619175425792) S6 flicked a cigbutt towards (2, 2).
+t:    300973 | (T140619285116672) S0 flicked a cigbutt towards (0, 2).
+t:    301040 | (T140619158640384) S8 flicked a cigbutt towards (2, 4).
+t:    401147 | (T140619268331264) S2 flicked a cigbutt towards (1, 4).
+t:    401162 | (T140619167033088) S7 flicked a cigbutt towards (3, 3).
+t:    401184 | (T140619175425792) S6 flicked a cigbutt towards (3, 2).
+t:    401195 | (T140619276723968) S1 flicked a cigbutt towards (1, 3).
+t:    401225 | (T140619259938560) S3 flicked a cigbutt towards (2, 2).
+t:    401294 | (T140619251545856) S4 flicked a cigbutt towards (2, 3).
+t:    401378 | (T140619158640384) S8 flicked a cigbutt towards (3, 4).
+t:    401462 | (T140619108935424) S5 flicked a cigbutt towards (2, 4).
+t:    401546 | (T140619285116672) S0 flicked a cigbutt towards (1, 2).
+t:    501494 | (T140619268331264) S2 flicked a cigbutt towards (2, 4).
+t:    501508 | (T140619259938560) S3 flicked a cigbutt towards (3, 2).
+t:    501521 | (T140619251545856) S4 flicked a cigbutt towards (3, 3).
+t:    501534 | (T140619259938560) S3 had enough of the current area and left.
+t:    501537 | (T140619251545856) S4 had enough of the current area and left.
+t:    501546 | (T140619167033088) S7 flicked a cigbutt towards (4, 3).
+t:    501571 | (T140619167033088) S7 had enough of the current area and left.
+t:    501583 | (T140619175425792) S6 flicked a cigbutt towards (4, 2).
+t:    501599 | (T140619175425792) S6 had enough of the current area and left.
+t:    501625 | (T140619259938560) S3 finished smoking and exited.
+t:    501653 | (T140619268331264) S2 had enough of the current area and left.
+t:    501679 | (T140619268331264) S2 finished smoking and exited.
+t:    501692 | (T140619285116672) S0 flicked a cigbutt towards (2, 2).
+t:    501700 | (T140619285116672) S0 had enough of the current area and left.
+t:    501715 | (T140619108935424) S5 flicked a cigbutt towards (3, 4).
+t:    501724 | (T140619276723968) S1 flicked a cigbutt towards (2, 3).
+t:    501735 | (T140619108935424) S5 had enough of the current area and left.
+t:    501744 | (T140619276723968) S1 had enough of the current area and left.
+t:    501756 | (T140619158640384) S8 flicked a cigbutt towards (4, 4).
+t:    501769 | (T140619251545856) S4 finished smoking and exited.
+t:    501778 | (T140619175425792) S6 finished smoking and exited.
+t:    501795 | (T140619158640384) S8 had enough of the current area and left.
+t:    501804 | (T140619158640384) S8 finished smoking and exited.
+t:    501854 | (T140619285116672) S0 finished smoking and exited.
+t:    501926 | (T140619108935424) S5 finished smoking and exited.
+t:    501986 | (T140619276723968) S1 finished smoking and exited.
+t:    502039 | (T140619167033088) S7 finished smoking and exited.

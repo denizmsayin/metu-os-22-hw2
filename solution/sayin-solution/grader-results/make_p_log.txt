@@ -1,0 +1,7 @@
+cc -Wall -Wshadow -pedantic -Wno-unused-result -Wno-unused-function -std=gnu11 -fms-extensions -O3   -c -o hw2.o hw2.c
+cc -Wall -Wshadow -pedantic -Wno-unused-result -Wno-unused-function -std=gnu11 -fms-extensions -O3   -c -o hw2_output.o hw2_output.c
+cc -Wall -Wshadow -pedantic -Wno-unused-result -Wno-unused-function -std=gnu11 -fms-extensions -O3   -c -o generic_rwa.o generic_rwa.c
+cc -Wall -Wshadow -pedantic -Wno-unused-result -Wno-unused-function -std=gnu11 -fms-extensions -O3   -c -o area_containers.o area_containers.c
+cc -Wall -Wshadow -pedantic -Wno-unused-result -Wno-unused-function -std=gnu11 -fms-extensions -O3   -c -o error.o error.c
+cc -Wall -Wshadow -pedantic -Wno-unused-result -Wno-unused-function -std=gnu11 -fms-extensions -O3   -c -o sync_mechanism.o sync_mechanism.c
+cc -pthread  hw2.o hw2_output.o generic_rwa.o area_containers.o error.o sync_mechanism.o   -o hw2

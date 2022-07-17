@@ -1,0 +1,59 @@
++ OK: PP0 created with tid=140677435086592.
++ OK: PP0 arrived at area (0, 0).
++ OK: PP1 created with tid=140677426693888.
++ OK: PP1 arrived at area (2, 0).
++ OK: PP2 created with tid=140677418301184.
++ OK: PP2 arrived at area (1, 0).
++ OK: PP0 gathered from (0, 0), leaving 0 cigbutts in the cell.
++ OK: PP0 left last area, which was (0, 0).
++ OK: PP2 gathered from (1, 0), leaving 3 cigbutts in the cell.
++ OK: PP1 gathered from (2, 0), leaving 0 cigbutts in the cell.
++ OK: PP0 arrived at area (0, 1).
++ OK: PP1 gathered from (2, 1), leaving 1 cigbutts in the cell.
++ OK: PP2 gathered from (1, 0), leaving 2 cigbutts in the cell.
++ OK: PP0 gathered from (0, 1), leaving 1 cigbutts in the cell.
++ OK: PP2 gathered from (1, 0), leaving 1 cigbutts in the cell.
++ OK: PP0 gathered from (0, 1), leaving 0 cigbutts in the cell.
++ OK: PP0 left last area, which was (0, 1).
++ OK: PP0 arrived at area (0, 2).
++ OK: PP1 gathered from (2, 1), leaving 0 cigbutts in the cell.
++ OK: PP1 gathered from (3, 0), leaving 3 cigbutts in the cell.
++ OK: PP0 gathered from (0, 2), leaving 2 cigbutts in the cell.
++ OK: PP2 gathered from (1, 0), leaving 0 cigbutts in the cell.
++ OK: PP0 gathered from (0, 2), leaving 1 cigbutts in the cell.
++ OK: PP2 gathered from (1, 1), leaving 2 cigbutts in the cell.
++ OK: PP1 gathered from (3, 0), leaving 2 cigbutts in the cell.
++ OK: PP1 gathered from (3, 0), leaving 1 cigbutts in the cell.
++ OK: PP0 gathered from (0, 2), leaving 0 cigbutts in the cell.
++ OK: PP0 left last area, which was (0, 2).
++ OK: PP0 exited properly.
++ OK: PP2 gathered from (1, 1), leaving 1 cigbutts in the cell.
++ OK: PP1 gathered from (3, 0), leaving 0 cigbutts in the cell.
++ OK: PP2 gathered from (1, 1), leaving 0 cigbutts in the cell.
++ OK: PP1 gathered from (3, 1), leaving 2 cigbutts in the cell.
++ OK: PP2 gathered from (1, 2), leaving 1 cigbutts in the cell.
++ OK: PP1 gathered from (3, 1), leaving 1 cigbutts in the cell.
++ OK: PP2 gathered from (1, 2), leaving 0 cigbutts in the cell.
++ OK: PP2 left last area, which was (1, 0).
++ OK: PP2 exited properly.
++ OK: PP1 gathered from (3, 1), leaving 0 cigbutts in the cell.
++ OK: PP1 left last area, which was (2, 0).
++ OK: PP1 arrived at area (2, 2).
++ OK: PP1 gathered from (2, 2), leaving 2 cigbutts in the cell.
++ OK: PP1 gathered from (2, 2), leaving 1 cigbutts in the cell.
++ OK: PP1 gathered from (2, 2), leaving 0 cigbutts in the cell.
++ OK: PP1 gathered from (2, 3), leaving 3 cigbutts in the cell.
++ OK: PP1 gathered from (2, 3), leaving 2 cigbutts in the cell.
++ OK: PP1 gathered from (2, 3), leaving 1 cigbutts in the cell.
++ OK: PP1 gathered from (2, 3), leaving 0 cigbutts in the cell.
++ OK: PP1 gathered from (3, 2), leaving 1 cigbutts in the cell.
++ OK: PP1 gathered from (3, 2), leaving 0 cigbutts in the cell.
++ OK: PP1 gathered from (3, 3), leaving 0 cigbutts in the cell.
++ OK: PP1 left last area, which was (2, 2).
++ OK: PP1 exited properly.
++ OK: End of notification stream reached. Everyone has exited cleanly and all orders were delivered. Nice!
+--------------------------------------------------------------------------------
+Looks like no fatal inconsistencies occurred! Good job.
+
+Consistency multiplier:
+1.00

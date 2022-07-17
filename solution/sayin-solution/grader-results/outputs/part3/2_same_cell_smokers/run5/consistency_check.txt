@@ -1,0 +1,24 @@
++ OK: SS0 created with tid=139900354373376.
++ OK: SS0 arrived at cell (1, 1).
++ OK: SS2 created with tid=139900337587968.
++ OK: SS1 created with tid=139900345980672.
++ OK: SS0 flicked towards (0, 0), now 1 cigbutts are in the cell.
++ OK: SS0 left last cell, which was (1, 1).
++ OK: SS0 exited properly.
++ OK: SS2 arrived at cell (1, 1).
++ OK: SS2 flicked towards (0, 0), now 2 cigbutts are in the cell.
++ OK: SS2 flicked towards (0, 1), now 1 cigbutts are in the cell.
++ OK: SS2 flicked towards (0, 2), now 1 cigbutts are in the cell.
++ OK: SS2 left last cell, which was (1, 1).
++ OK: SS2 exited properly.
++ OK: SS1 arrived at cell (1, 1).
++ OK: SS1 flicked towards (0, 0), now 3 cigbutts are in the cell.
++ OK: SS1 flicked towards (0, 1), now 2 cigbutts are in the cell.
++ OK: SS1 left last cell, which was (1, 1).
++ OK: SS1 exited properly.
++ OK: End of notification stream reached. Everyone has exited cleanly and all orders were delivered. Nice!
+--------------------------------------------------------------------------------
+Looks like no fatal inconsistencies occurred! Good job.
+
+Consistency multiplier:
+1.00

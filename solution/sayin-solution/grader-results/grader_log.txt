@@ -1,0 +1,487 @@
+Attempting to compile with latest (PROPER_PRIVATE_*) hw2_output.{c,h}...
+Looks like it worked!
+
+##### Grading part1 #####
+Case: 0_simplest
+  - Points out of 100: 5
+  - Number of runs to do: 4
+  - Times out if not complete in: 3 seconds
+  - No extra consistency checker args.
+* Run 1: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 2: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 3: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 4: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+> Case multiplier (min of runs) is 1.00
+> Case grade is 5 x 1.00
+= 5.00
+
+Case: 1_one_private_six_areas
+  - Points out of 100: 4
+  - Number of runs to do: 3
+  - Times out if not complete in: 9 seconds
+  - No extra consistency checker args.
+* Run 1: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 2: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 3: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+> Case multiplier (min of runs) is 1.00
+> Case grade is 4 x 1.00
+= 4.00
+
+Case: 2_indeps
+  - Points out of 100: 4
+  - Number of runs to do: 3
+  - Times out if not complete in: 6 seconds
+  - No extra consistency checker args.
+* Run 1: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 2: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 3: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+> Case multiplier (min of runs) is 1.00
+> Case grade is 4 x 1.00
+= 4.00
+
+Case: 3_simple_intersect
+  - Points out of 100: 4
+  - Number of runs to do: 8
+  - Times out if not complete in: 6 seconds
+  - No extra consistency checker args.
+* Run 1: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 2: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 3: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 4: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 5: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 6: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 7: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 8: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+> Case multiplier (min of runs) is 1.00
+> Case grade is 4 x 1.00
+= 4.00
+
+Case: 4_five_on_one
+  - Points out of 100: 3
+  - Number of runs to do: 8
+  - Times out if not complete in: 2 seconds
+  - No extra consistency checker args.
+* Run 1: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 2: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 3: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 4: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 5: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 6: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 7: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 8: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+> Case multiplier (min of runs) is 1.00
+> Case grade is 3 x 1.00
+= 3.00
+
+Case: 5_some_action
+  - Points out of 100: 3
+  - Number of runs to do: 5
+  - Times out if not complete in: 20 seconds
+  - No extra consistency checker args.
+* Run 1: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 2: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 3: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 4: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 5: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+> Case multiplier (min of runs) is 1.00
+> Case grade is 3 x 1.00
+= 3.00
+
+Case: 6_chaos
+  - Points out of 100: 2
+  - Number of runs to do: 1
+  - Times out if not complete in: 40 seconds
+  - Extra consistency checker args: -gdt 100 -s
+* Run 1: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+Output 2248KB > 256KB, xz'd to 172KB. unxz to decompress.
+> Case multiplier (min of runs) is 1.00
+> Case grade is 2 x 1.00
+= 2.00
+
+#############################
+
+
+##### Grading part2 #####
+Case: 0_simple_break_cont
+  - Points out of 100: 5
+  - Number of runs to do: 3
+  - Times out if not complete in: 6 seconds
+  - Extra consistency checker args: -odt 100 -ort 100
+* Run 1: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 2: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 3: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+> Case multiplier (min of runs) is 1.00
+> Case grade is 5 x 1.00
+= 5.00
+
+Case: 1_stop
+  - Points out of 100: 5
+  - Number of runs to do: 5
+  - Times out if not complete in: 6 seconds
+  - Extra consistency checker args: -odt 100 -ort 100
+* Run 1: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 2: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 3: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 4: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 5: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+> Case multiplier (min of runs) is 1.00
+> Case grade is 5 x 1.00
+= 5.00
+
+Case: 2_breaks_and_conts
+  - Points out of 100: 5
+  - Number of runs to do: 2
+  - Times out if not complete in: 15 seconds
+  - Extra consistency checker args: -odt 100 -ort 100
+* Run 1: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 2: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+> Case multiplier (min of runs) is 1.00
+> Case grade is 5 x 1.00
+= 5.00
+
+Case: 3_break_cont_stop
+  - Points out of 100: 4
+  - Number of runs to do: 5
+  - Times out if not complete in: 5 seconds
+  - Extra consistency checker args: -odt 100 -ort 100
+* Run 1: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 2: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 3: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 4: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 5: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+> Case multiplier (min of runs) is 1.00
+> Case grade is 4 x 1.00
+= 4.00
+
+Case: 4_break_stop
+  - Points out of 100: 4
+  - Number of runs to do: 4
+  - Times out if not complete in: 6 seconds
+  - Extra consistency checker args: -odt 100 -ort 100
+* Run 1: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 2: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 3: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 4: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+> Case multiplier (min of runs) is 1.00
+> Case grade is 4 x 1.00
+= 4.00
+
+Case: 5_redundant
+  - Points out of 100: 3
+  - Number of runs to do: 1
+  - Times out if not complete in: 15 seconds
+  - Extra consistency checker args: -odt 100 -ort 100 -gdt 30
+* Run 1: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+> Case multiplier (min of runs) is 1.00
+> Case grade is 3 x 1.00
+= 3.00
+
+Case: 6_orders_after_stop
+  - Points out of 100: 3
+  - Number of runs to do: 5
+  - Times out if not complete in: 3 seconds
+  - Extra consistency checker args: -odt 100 -ort 100 -gdt 50
+* Run 1: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 2: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 3: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 4: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 5: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+> Case multiplier (min of runs) is 1.00
+> Case grade is 3 x 1.00
+= 3.00
+
+Case: 7_lightning_break_cont
+  - Points out of 100: 2
+  - Number of runs to do: 1
+  - Times out if not complete in: 50 seconds
+  - Extra consistency checker args: -odt 200 -ort 100 -gdt 35 -s
+* Run 1: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+Output 1096KB > 256KB, xz'd to 80KB. unxz to decompress.
+> Case multiplier (min of runs) is 1.00
+> Case grade is 2 x 1.00
+= 2.00
+
+Case: 8_big_mostly_indep
+  - Points out of 100: 2
+  - Number of runs to do: 8
+  - Times out if not complete in: 15 seconds
+  - Extra consistency checker args: -odt 400 -ort 400 -gdt 100 -s
+* Run 1: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+Output 5248KB > 256KB, xz'd to 372KB. unxz to decompress.
+* Run 2: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+Output 5244KB > 256KB, xz'd to 376KB. unxz to decompress.
+* Run 3: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+Output 5252KB > 256KB, xz'd to 368KB. unxz to decompress.
+* Run 4: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+Output 5248KB > 256KB, xz'd to 384KB. unxz to decompress.
+* Run 5: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+Output 5220KB > 256KB, xz'd to 372KB. unxz to decompress.
+* Run 6: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+Output 5248KB > 256KB, xz'd to 392KB. unxz to decompress.
+* Run 7: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+Output 5244KB > 256KB, xz'd to 380KB. unxz to decompress.
+* Run 8: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+Output 5248KB > 256KB, xz'd to 368KB. unxz to decompress.
+> Case multiplier (min of runs) is 1.00
+> Case grade is 2 x 1.00
+= 2.00
+
+Case: 9_many_dep
+  - Points out of 100: 2
+  - Number of runs to do: 8
+  - Times out if not complete in: 30 seconds
+  - Extra consistency checker args: -odt 400 -ort 400 -gdt 100 -s
+* Run 1: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+Output 1184KB > 256KB, xz'd to 104KB. unxz to decompress.
+* Run 2: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+Output 1216KB > 256KB, xz'd to 104KB. unxz to decompress.
+* Run 3: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+Output 1204KB > 256KB, xz'd to 104KB. unxz to decompress.
+* Run 4: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+Output 1204KB > 256KB, xz'd to 104KB. unxz to decompress.
+* Run 5: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+Output 1204KB > 256KB, xz'd to 104KB. unxz to decompress.
+* Run 6: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+Output 1200KB > 256KB, xz'd to 104KB. unxz to decompress.
+* Run 7: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+Output 1192KB > 256KB, xz'd to 104KB. unxz to decompress.
+* Run 8: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+Output 1204KB > 256KB, xz'd to 104KB. unxz to decompress.
+> Case multiplier (min of runs) is 1.00
+> Case grade is 2 x 1.00
+= 2.00
+
+#############################
+
+
+##### Grading part3 #####
+Case: 0_cc_three_pp_case
+  - Points out of 100: 8
+  - Number of runs to do: 20
+  - Times out if not complete in: 5 seconds
+  - Extra consistency checker args: -ldt 100
+* Run 1: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 2: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 3: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 4: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 5: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 6: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 7: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 8: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 9: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 10: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 11: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 12: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 13: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 14: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 15: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 16: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 17: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 18: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 19: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 20: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+> Case multiplier (min of runs) is 1.00
+> Case grade is 8 x 1.00
+= 8.00
+
+Case: 1_flick_count_check
+  - Points out of 100: 4
+  - Number of runs to do: 5
+  - Times out if not complete in: 5 seconds
+  - Extra consistency checker args: -ldt 100
+* Run 1: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 2: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 3: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 4: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 5: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+> Case multiplier (min of runs) is 1.00
+> Case grade is 4 x 1.00
+= 4.00
+
+Case: 2_same_cell_smokers
+  - Points out of 100: 4
+  - Number of runs to do: 5
+  - Times out if not complete in: 3 seconds
+  - Extra consistency checker args: -ldt 100
+* Run 1: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 2: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 3: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 4: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 5: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+> Case multiplier (min of runs) is 1.00
+> Case grade is 4 x 1.00
+= 4.00
+
+Case: 3_smokers_grouped
+  - Points out of 100: 4
+  - Number of runs to do: 5
+  - Times out if not complete in: 3 seconds
+  - Extra consistency checker args: -ldt 100
+* Run 1: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 2: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 3: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 4: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 5: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+> Case multiplier (min of runs) is 1.00
+> Case grade is 4 x 1.00
+= 4.00
+
+Case: 4_one_pp_one_ss
+  - Points out of 100: 4
+  - Number of runs to do: 5
+  - Times out if not complete in: 9 seconds
+  - Extra consistency checker args: -ldt 100
+* Run 1: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 2: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 3: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 4: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 5: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+> Case multiplier (min of runs) is 1.00
+> Case grade is 4 x 1.00
+= 4.00
+
+Case: 5_more_pp_and_ss
+  - Points out of 100: 4
+  - Number of runs to do: 4
+  - Times out if not complete in: 30 seconds
+  - Extra consistency checker args: -ldt 100 -gdt 30
+* Run 1: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 2: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 3: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 4: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+> Case multiplier (min of runs) is 1.00
+> Case grade is 4 x 1.00
+= 4.00
+
+Case: 6_smoker_stop
+  - Points out of 100: 4
+  - Number of runs to do: 5
+  - Times out if not complete in: 5 seconds
+  - Extra consistency checker args: -odt 100 -ort 100 -ldt 100 -gdt 30
+* Run 1: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 2: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 3: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 4: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 5: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+> Case multiplier (min of runs) is 1.00
+> Case grade is 4 x 1.00
+= 4.00
+
+Case: 7_medium_pp_ss_order
+  - Points out of 100: 3
+  - Number of runs to do: 5
+  - Times out if not complete in: 10 seconds
+  - Extra consistency checker args: -odt 150 -ort 150 -ldt 150 -gdt 40
+* Run 1: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 2: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 3: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 4: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+* Run 5: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+> Case multiplier (min of runs) is 1.00
+> Case grade is 3 x 1.00
+= 3.00
+
+Case: 8_hell_on_grid
+  - Points out of 100: 2
+  - Number of runs to do: 5
+  - Times out if not complete in: 120 seconds
+  - Extra consistency checker args: -odt 3000 -ort 3000 -ldt 4000 -gdt 2000 -s
+* Run 1: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+Output 8640KB > 256KB, xz'd to 808KB. unxz to decompress.
+* Run 2: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+Output 8640KB > 256KB, xz'd to 808KB. unxz to decompress.
+* Run 3: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+Output 8644KB > 256KB, xz'd to 808KB. unxz to decompress.
+* Run 4: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+Output 8640KB > 256KB, xz'd to 808KB. unxz to decompress.
+* Run 5: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+Output 8640KB > 256KB, xz'd to 808KB. unxz to decompress.
+> Case multiplier (min of runs) is 1.00
+> Case grade is 2 x 1.00
+= 2.00
+
+Case: 9_another_hell_on_grid
+  - Points out of 100: 2
+  - Number of runs to do: 5
+  - Times out if not complete in: 120 seconds
+  - Extra consistency checker args: -odt 3000 -ort 3000 -ldt 4000 -gdt 2000 -s
+* Run 1: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+Output 10328KB > 256KB, xz'd to 872KB. unxz to decompress.
+* Run 2: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+Output 10324KB > 256KB, xz'd to 864KB. unxz to decompress.
+* Run 3: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+Output 10324KB > 256KB, xz'd to 868KB. unxz to decompress.
+* Run 4: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+Output 10324KB > 256KB, xz'd to 864KB. unxz to decompress.
+* Run 5: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+Output 10324KB > 256KB, xz'd to 872KB. unxz to decompress.
+> Case multiplier (min of runs) is 1.00
+> Case grade is 2 x 1.00
+= 2.00
+
+Case: A_blazing_cigbutts
+  - Points out of 100: 1
+  - Number of runs to do: 8
+  - Times out if not complete in: 5 seconds
+  - Extra consistency checker args: -gdt 1
+* Run 1: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+Output 1100KB > 256KB, xz'd to 40KB. unxz to decompress.
+* Run 2: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+Output 1100KB > 256KB, xz'd to 36KB. unxz to decompress.
+* Run 3: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+Output 1100KB > 256KB, xz'd to 40KB. unxz to decompress.
+* Run 4: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+Output 1100KB > 256KB, xz'd to 40KB. unxz to decompress.
+* Run 5: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+Output 1100KB > 256KB, xz'd to 40KB. unxz to decompress.
+* Run 6: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+Output 1100KB > 256KB, xz'd to 40KB. unxz to decompress.
+* Run 7: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+Output 1100KB > 256KB, xz'd to 40KB. unxz to decompress.
+* Run 8: Done. Checking output: Success ✓ Consistency multiplier is 1.00.
+Output 1100KB > 256KB, xz'd to 40KB. unxz to decompress.
+> Case multiplier (min of runs) is 1.00
+> Case grade is 1 x 1.00
+= 1.00
+
+#############################
+
+TALLY HO!
+--------------------------------------------------------------
+Summing up grades:
+< Part 1:
+  > 0_simplest = 5.00/5.00
+  > 1_one_private_six_areas = 4.00/4.00
+  > 2_indeps = 4.00/4.00
+  > 3_simple_intersect = 4.00/4.00
+  > 4_five_on_one = 3.00/3.00
+  > 5_some_action = 3.00/3.00
+  > 6_chaos = 2.00/2.00
+> Part 1 grade = 25.00/25.00
+< Part 2:
+  > 0_simple_break_cont = 5.00/5.00
+  > 1_stop = 5.00/5.00
+  > 2_breaks_and_conts = 5.00/5.00
+  > 3_break_cont_stop = 4.00/4.00
+  > 4_break_stop = 4.00/4.00
+  > 5_redundant = 3.00/3.00
+  > 6_orders_after_stop = 3.00/3.00
+  > 7_lightning_break_cont = 2.00/2.00
+  > 8_big_mostly_indep = 2.00/2.00
+  > 9_many_dep = 2.00/2.00
+> Part 2 grade = 35.00/35.00
+< Part 3:
+  > 0_cc_three_pp_case = 8.00/8.00
+  > 1_flick_count_check = 4.00/4.00
+  > 2_same_cell_smokers = 4.00/4.00
+  > 3_smokers_grouped = 4.00/4.00
+  > 4_one_pp_one_ss = 4.00/4.00
+  > 5_more_pp_and_ss = 4.00/4.00
+  > 6_smoker_stop = 4.00/4.00
+  > 7_medium_pp_ss_order = 3.00/3.00
+  > 8_hell_on_grid = 2.00/2.00
+  > 9_another_hell_on_grid = 2.00/2.00
+  > A_blazing_cigbutts = 1.00/1.00
+> Part 3 grade = 40.00/40.00
+Total grade = 100.00/100.00
+--------------------------------------------------------------

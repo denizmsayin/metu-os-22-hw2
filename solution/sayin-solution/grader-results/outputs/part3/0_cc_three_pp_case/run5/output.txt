@@ -1,0 +1,38 @@
+t:        85 | (T140062707820288) G0 created.
+t:       131 | (T140062707820288) G0 arrived at area (2, 0).
+t:       159 | (T140062691034880) G2 created.
+t:       162 | (T140062691034880) G2 arrived at area (0, 2).
+t:       163 | (T140062699427584) G1 created.
+t:    100445 | (T140062707820288) G0 gathered a cigbutt from (2, 0).
+t:    100475 | (T140062691034880) G2 gathered a cigbutt from (0, 2).
+t:    200781 | (T140062707820288) G0 gathered a cigbutt from (2, 0).
+t:    200812 | (T140062691034880) G2 gathered a cigbutt from (0, 3).
+t:    301118 | (T140062707820288) G0 gathered a cigbutt from (2, 1).
+t:    301148 | (T140062691034880) G2 gathered a cigbutt from (0, 3).
+t:    401452 | (T140062707820288) G0 gathered a cigbutt from (2, 1).
+t:    401482 | (T140062691034880) G2 gathered a cigbutt from (0, 3).
+t:    501798 | (T140062691034880) G2 gathered a cigbutt from (0, 3).
+t:    501830 | (T140062707820288) G0 gathered a cigbutt from (2, 1).
+t:    602139 | (T140062691034880) G2 gathered a cigbutt from (1, 2).
+t:    602168 | (T140062707820288) G0 gathered a cigbutt from (3, 0).
+t:    702480 | (T140062691034880) G2 gathered a cigbutt from (1, 2).
+t:    702507 | (T140062707820288) G0 gathered a cigbutt from (3, 0).
+t:    802818 | (T140062707820288) G0 gathered a cigbutt from (3, 0).
+t:    802848 | (T140062691034880) G2 gathered a cigbutt from (1, 3).
+t:    903155 | (T140062707820288) G0 gathered a cigbutt from (3, 1).
+t:    903182 | (T140062691034880) G2 gathered a cigbutt from (1, 3).
+t:   1003493 | (T140062691034880) G2 gathered a cigbutt from (1, 3).
+t:   1003515 | (T140062691034880) G2 cleared the current area and left.
+t:   1003522 | (T140062707820288) G0 gathered a cigbutt from (3, 1).
+t:   1003534 | (T140062707820288) G0 cleared the current area and left.
+t:   1003615 | (T140062691034880) G2 finished cleaning and exited.
+t:   1003699 | (T140062707820288) G0 finished cleaning and exited.
+t:   1003710 | (T140062699427584) G1 arrived at area (1, 1).
+t:   1104028 | (T140062699427584) G1 gathered a cigbutt from (1, 1).
+t:   1204346 | (T140062699427584) G1 gathered a cigbutt from (1, 1).
+t:   1304657 | (T140062699427584) G1 gathered a cigbutt from (1, 1).
+t:   1404975 | (T140062699427584) G1 gathered a cigbutt from (1, 1).
+t:   1505293 | (T140062699427584) G1 gathered a cigbutt from (1, 1).
+t:   1605609 | (T140062699427584) G1 gathered a cigbutt from (2, 2).
+t:   1605620 | (T140062699427584) G1 cleared the current area and left.
+t:   1605630 | (T140062699427584) G1 finished cleaning and exited.

@@ -1,0 +1,19 @@
+t:       133 | (T140249354983168) G0 created.
+t:       152 | (T140249354983168) G0 arrived at area (0, 0).
+t:       192 | (T140249346590464) G1 created.
+t:    120459 | (T140249354983168) G0 gathered a cigbutt from (0, 0).
+t:    240777 | (T140249354983168) G0 gathered a cigbutt from (0, 1).
+t:    361095 | (T140249354983168) G0 gathered a cigbutt from (0, 1).
+t:    481355 | (T140249354983168) G0 gathered a cigbutt from (1, 0).
+t:    601624 | (T140249354983168) G0 gathered a cigbutt from (1, 0).
+t:    721942 | (T140249354983168) G0 gathered a cigbutt from (1, 0).
+t:    842260 | (T140249354983168) G0 gathered a cigbutt from (1, 1).
+t:    842272 | (T140249354983168) G0 cleared the current area and left.
+t:    842289 | (T140249354983168) G0 finished cleaning and exited.
+t:    842349 | (T140249346590464) G1 arrived at area (1, 0).
+t:    922663 | (T140249346590464) G1 gathered a cigbutt from (2, 0).
+t:   1002981 | (T140249346590464) G1 gathered a cigbutt from (2, 1).
+t:   1083304 | (T140249346590464) G1 gathered a cigbutt from (2, 1).
+t:   1163623 | (T140249346590464) G1 gathered a cigbutt from (2, 1).
+t:   1163635 | (T140249346590464) G1 cleared the current area and left.
+t:   1163644 | (T140249346590464) G1 finished cleaning and exited.

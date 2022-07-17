@@ -1,0 +1,45 @@
+t:        58 | (T140551614367488) G0 created.
+t:        83 | (T140551614367488) G0 arrived at area (0, 0).
+t:        95 | (T140551605974784) G1 created.
+t:        97 | (T140551605974784) G1 arrived at area (0, 2).
+t:       118 | (T140551463364352) G2 created.
+t:       120 | (T140551463364352) G2 arrived at area (2, 0).
+t:    100296 | (T140551463364352) G2 gathered a cigbutt from (2, 0).
+t:    100332 | (T140551614367488) G0 gathered a cigbutt from (0, 0).
+t:    100404 | (T140551605974784) G1 gathered a cigbutt from (0, 2).
+t:    200635 | (T140551605974784) G1 gathered a cigbutt from (0, 2).
+t:    200666 | (T140551614367488) G0 gathered a cigbutt from (0, 0).
+t:    200693 | (T140551463364352) G2 gathered a cigbutt from (2, 0).
+t:    300974 | (T140551614367488) G0 gathered a cigbutt from (0, 0).
+t:    301000 | (T140551605974784) G1 gathered a cigbutt from (0, 2).
+t:    301081 | (T140551463364352) G2 gathered a cigbutt from (2, 0).
+t:    401312 | (T140551614367488) G0 gathered a cigbutt from (0, 0).
+t:    401340 | (T140551463364352) G2 gathered a cigbutt from (2, 0).
+t:    401370 | (T140551605974784) G1 gathered a cigbutt from (0, 2).
+t:    501651 | (T140551605974784) G1 gathered a cigbutt from (0, 2).
+t:    501763 | (T140551463364352) G2 gathered a cigbutt from (2, 0).
+t:    501835 | (T140551614367488) G0 gathered a cigbutt from (0, 0).
+t:    600317 | (T140551614371648) BREAK!
+t:    600377 | (T140551605974784) G1 took a break.
+t:    600387 | (T140551463364352) G2 took a break.
+t:    600415 | (T140551614367488) G0 took a break.
+t:    900316 | (T140551614371648) CONTINUE!
+t:    900369 | (T140551605974784) G1 is continuing after a break.
+t:    900380 | (T140551605974784) G1 arrived at area (0, 2).
+t:    900394 | (T140551463364352) G2 is continuing after a break.
+t:    900409 | (T140551463364352) G2 arrived at area (2, 0).
+t:    900419 | (T140551614367488) G0 is continuing after a break.
+t:    900439 | (T140551614367488) G0 arrived at area (0, 0).
+t:   1000705 | (T140551463364352) G2 gathered a cigbutt from (2, 0).
+t:   1000732 | (T140551614367488) G0 gathered a cigbutt from (0, 0).
+t:   1000769 | (T140551605974784) G1 gathered a cigbutt from (0, 2).
+t:   1101051 | (T140551614367488) G0 gathered a cigbutt from (0, 0).
+t:   1101084 | (T140551605974784) G1 gathered a cigbutt from (0, 2).
+t:   1101124 | (T140551463364352) G2 gathered a cigbutt from (2, 0).
+t:   1201391 | (T140551605974784) G1 gathered a cigbutt from (0, 2).
+t:   1201427 | (T140551463364352) G2 gathered a cigbutt from (2, 0).
+t:   1201502 | (T140551614367488) G0 gathered a cigbutt from (0, 0).
+t:   1300098 | (T140551614371648) STOP!
+t:   1300155 | (T140551605974784) G1 stopped as ordered.
+t:   1300168 | (T140551614367488) G0 stopped as ordered.
+t:   1300196 | (T140551463364352) G2 stopped as ordered.

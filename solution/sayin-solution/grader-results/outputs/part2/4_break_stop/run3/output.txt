@@ -1,0 +1,15 @@
+t:        83 | (T140639176083200) G242 created.
+t:       103 | (T140639176083200) G242 arrived at area (0, 0).
+t:       134 | (T140639167690496) G334 created.
+t:       136 | (T140639167690496) G334 arrived at area (1, 0).
+t:    300410 | (T140639176083200) G242 gathered a cigbutt from (0, 0).
+t:    400448 | (T140639167690496) G334 gathered a cigbutt from (1, 0).
+t:    600729 | (T140639176083200) G242 gathered a cigbutt from (0, 0).
+t:    800769 | (T140639167690496) G334 gathered a cigbutt from (1, 0).
+t:    901049 | (T140639176083200) G242 gathered a cigbutt from (0, 0).
+t:   1000315 | (T140639176087360) BREAK!
+t:   1000387 | (T140639176083200) G242 took a break.
+t:   1000399 | (T140639167690496) G334 took a break.
+t:   2000318 | (T140639176087360) STOP!
+t:   2000386 | (T140639167690496) G334 stopped as ordered.
+t:   2000399 | (T140639176083200) G242 stopped as ordered.

@@ -1,0 +1,30 @@
++ OK: PP0 created with tid=139674996786944.
++ OK: PP0 arrived at area (0, 1).
++ OK: PP1 created with tid=139674988394240.
++ OK: PP2 created with tid=139674980001536.
++ OK: PP3 created with tid=139674971608832.
++ OK: PP4 created with tid=139674963216128.
++ OK: PP0 gathered from (0, 1), leaving 0 cigbutts in the cell.
++ OK: PP0 gathered from (0, 2), leaving 0 cigbutts in the cell.
++ OK: PP0 gathered from (1, 1), leaving 0 cigbutts in the cell.
++ OK: PP0 gathered from (1, 2), leaving 0 cigbutts in the cell.
++ OK: PP0 left last area, which was (0, 1).
++ OK: PP0 exited properly.
++ OK: PP1 arrived at area (0, 1).
++ OK: PP1 left last area, which was (0, 1).
++ OK: PP1 exited properly.
++ OK: PP3 arrived at area (0, 1).
++ OK: PP3 left last area, which was (0, 1).
++ OK: PP3 exited properly.
++ OK: PP4 arrived at area (0, 1).
++ OK: PP4 left last area, which was (0, 1).
++ OK: PP4 exited properly.
++ OK: PP2 arrived at area (0, 1).
++ OK: PP2 left last area, which was (0, 1).
++ OK: PP2 exited properly.
++ OK: End of notification stream reached. Everyone has exited cleanly and all orders were delivered. Nice!
+--------------------------------------------------------------------------------
+Looks like no fatal inconsistencies occurred! Good job.
+
+Consistency multiplier:
+1.00

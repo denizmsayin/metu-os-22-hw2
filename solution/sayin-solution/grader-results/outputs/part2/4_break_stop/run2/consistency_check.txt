@@ -1,0 +1,21 @@
++ OK: PP242 created with tid=140589624395520.
++ OK: PP242 arrived at area (0, 0).
++ OK: PP334 created with tid=140589616002816.
++ OK: PP334 arrived at area (1, 0).
++ OK: PP242 gathered from (0, 0), leaving 241 cigbutts in the cell.
++ OK: PP334 gathered from (1, 0), leaving 333 cigbutts in the cell.
++ OK: PP242 gathered from (0, 0), leaving 240 cigbutts in the cell.
++ OK: PP334 gathered from (1, 0), leaving 332 cigbutts in the cell.
++ OK: PP242 gathered from (0, 0), leaving 239 cigbutts in the cell.
++ OK: Order BREAK delivered at 1000 ms, expected at 1000 ms. On time!
++ OK: PP334 took a break.
++ OK: PP242 took a break.
++ OK: Order STOP delivered at 2000 ms, expected at 2000 ms. On time!
++ OK: PP334 stopped as ordered.
++ OK: PP242 stopped as ordered.
++ OK: End of notification stream reached. Everyone has exited cleanly and all orders were delivered. Nice!
+--------------------------------------------------------------------------------
+Looks like no fatal inconsistencies occurred! Good job.
+
+Consistency multiplier:
+1.00

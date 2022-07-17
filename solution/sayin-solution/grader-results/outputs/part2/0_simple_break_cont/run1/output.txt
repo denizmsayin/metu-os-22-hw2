@@ -1,0 +1,26 @@
+t:        81 | (T139961603585792) G0 created.
+t:        99 | (T139961603585792) G0 arrived at area (0, 0).
+t:    100349 | (T139961603585792) G0 gathered a cigbutt from (0, 0).
+t:    200641 | (T139961603585792) G0 gathered a cigbutt from (0, 0).
+t:    300959 | (T139961603585792) G0 gathered a cigbutt from (0, 0).
+t:    401277 | (T139961603585792) G0 gathered a cigbutt from (0, 0).
+t:    501595 | (T139961603585792) G0 gathered a cigbutt from (0, 0).
+t:    601892 | (T139961603585792) G0 gathered a cigbutt from (0, 0).
+t:    702211 | (T139961603585792) G0 gathered a cigbutt from (0, 0).
+t:    802531 | (T139961603585792) G0 gathered a cigbutt from (0, 0).
+t:    902848 | (T139961603585792) G0 gathered a cigbutt from (0, 0).
+t:   1000316 | (T139961603589952) BREAK!
+t:   1000377 | (T139961603585792) G0 took a break.
+t:   2000317 | (T139961603589952) CONTINUE!
+t:   2000377 | (T139961603585792) G0 is continuing after a break.
+t:   2000397 | (T139961603585792) G0 arrived at area (0, 0).
+t:   2100701 | (T139961603585792) G0 gathered a cigbutt from (0, 0).
+t:   2201016 | (T139961603585792) G0 gathered a cigbutt from (0, 0).
+t:   2301340 | (T139961603585792) G0 gathered a cigbutt from (0, 0).
+t:   2401677 | (T139961603585792) G0 gathered a cigbutt from (0, 0).
+t:   2501994 | (T139961603585792) G0 gathered a cigbutt from (0, 0).
+t:   2602305 | (T139961603585792) G0 gathered a cigbutt from (0, 0).
+t:   2702623 | (T139961603585792) G0 gathered a cigbutt from (0, 0).
+t:   2802941 | (T139961603585792) G0 gathered a cigbutt from (0, 0).
+t:   2802953 | (T139961603585792) G0 cleared the current area and left.
+t:   2802959 | (T139961603585792) G0 finished cleaning and exited.

@@ -1,0 +1,51 @@
++ OK: PP0 created with tid=140512749324032.
++ OK: PP0 arrived at area (0, 0).
++ OK: PP2 created with tid=140512732538624.
++ OK: PP2 arrived at area (2, 0).
++ OK: PP1 created with tid=140512740931328.
++ OK: PP1 arrived at area (0, 2).
++ OK: PP2 gathered from (2, 0), leaving 9 cigbutts in the cell.
++ OK: PP1 gathered from (0, 2), leaving 14 cigbutts in the cell.
++ OK: PP0 gathered from (0, 0), leaving 9 cigbutts in the cell.
++ OK: PP1 gathered from (0, 2), leaving 13 cigbutts in the cell.
++ OK: PP2 gathered from (2, 0), leaving 8 cigbutts in the cell.
++ OK: PP0 gathered from (0, 0), leaving 8 cigbutts in the cell.
++ OK: PP0 gathered from (0, 0), leaving 7 cigbutts in the cell.
++ OK: PP2 gathered from (2, 0), leaving 7 cigbutts in the cell.
++ OK: PP1 gathered from (0, 2), leaving 12 cigbutts in the cell.
++ OK: PP2 gathered from (2, 0), leaving 6 cigbutts in the cell.
++ OK: PP1 gathered from (0, 2), leaving 11 cigbutts in the cell.
++ OK: PP0 gathered from (0, 0), leaving 6 cigbutts in the cell.
++ OK: PP2 gathered from (2, 0), leaving 5 cigbutts in the cell.
++ OK: PP0 gathered from (0, 0), leaving 5 cigbutts in the cell.
++ OK: PP1 gathered from (0, 2), leaving 10 cigbutts in the cell.
++ OK: Order BREAK delivered at 600 ms, expected at 600 ms. On time!
++ OK: PP2 took a break.
++ OK: PP0 took a break.
++ OK: PP1 took a break.
++ OK: Order CONTINUE delivered at 900 ms, expected at 900 ms. On time!
++ OK: PP2 continued after a break.
++ OK: PP0 continued after a break.
++ OK: PP0 arrived at area (0, 0).
++ OK: PP2 arrived at area (2, 0).
++ OK: PP1 continued after a break.
++ OK: PP1 arrived at area (0, 2).
++ OK: PP2 gathered from (2, 0), leaving 4 cigbutts in the cell.
++ OK: PP1 gathered from (0, 2), leaving 9 cigbutts in the cell.
++ OK: PP0 gathered from (0, 0), leaving 4 cigbutts in the cell.
++ OK: PP0 gathered from (0, 0), leaving 3 cigbutts in the cell.
++ OK: PP1 gathered from (0, 2), leaving 8 cigbutts in the cell.
++ OK: PP2 gathered from (2, 0), leaving 3 cigbutts in the cell.
++ OK: PP1 gathered from (0, 2), leaving 7 cigbutts in the cell.
++ OK: PP2 gathered from (2, 0), leaving 2 cigbutts in the cell.
++ OK: PP0 gathered from (0, 0), leaving 2 cigbutts in the cell.
++ OK: Order STOP delivered at 1300 ms, expected at 1300 ms. On time!
++ OK: PP1 stopped as ordered.
++ OK: PP2 stopped as ordered.
++ OK: PP0 stopped as ordered.
++ OK: End of notification stream reached. Everyone has exited cleanly and all orders were delivered. Nice!
+--------------------------------------------------------------------------------
+Looks like no fatal inconsistencies occurred! Good job.
+
+Consistency multiplier:
+1.00

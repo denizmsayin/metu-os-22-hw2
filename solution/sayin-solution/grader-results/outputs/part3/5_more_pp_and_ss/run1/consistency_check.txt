@@ -1,0 +1,649 @@
++ OK: PP0 created with tid=140162208876288.
++ OK: PP0 arrived at area (0, 5).
++ OK: PP12 created with tid=140162175305472.
++ OK: PP12 arrived at area (5, 1).
++ OK: PP6 created with tid=140162192090880.
++ OK: PP17 created with tid=140162166912768.
++ OK: PP31 created with tid=140162133341952.
++ OK: PP22 created with tid=140162158520064.
++ OK: PP22 arrived at area (2, 5).
++ OK: PP7 created with tid=140162183698176.
++ OK: SS2 created with tid=140162116556544.
++ OK: SS2 arrived at cell (1, 2).
++ OK: PP27 created with tid=140162150127360.
++ OK: PP1 created with tid=140162200483584.
++ OK: PP30 created with tid=140162141734656.
++ OK: PP27 arrived at area (5, 6).
++ OK: SS0 created with tid=140162124949248.
++ OK: SS5 created with tid=140162108163840.
++ OK: SS9 created with tid=140162029844224.
++ OK: SS9 arrived at cell (2, 2).
++ OK: SS13 created with tid=140162021451520.
++ OK: SS18 created with tid=140162004666112.
++ OK: SS27 created with tid=140161987880704.
++ OK: SS30 created with tid=140161979488000.
++ OK: SS14 created with tid=140162013058816.
++ OK: SS23 created with tid=140161996273408.
++ OK: PP0 gathered from (0, 5), leaving 3 cigbutts in the cell.
++ OK: PP27 gathered from (5, 6), leaving 2 cigbutts in the cell.
++ OK: SS9 flicked towards (1, 1), now 9 cigbutts are in the cell.
++ OK: PP12 gathered from (5, 1), leaving 4 cigbutts in the cell.
++ OK: SS2 flicked towards (0, 1), now 4 cigbutts are in the cell.
++ OK: SS2 left last cell, which was (1, 2).
++ OK: PP22 gathered from (2, 5), leaving 3 cigbutts in the cell.
++ OK: PP0 gathered from (0, 5), leaving 2 cigbutts in the cell.
++ OK: PP27 gathered from (5, 6), leaving 1 cigbutts in the cell.
++ OK: SS9 flicked towards (1, 2), now 8 cigbutts are in the cell.
++ OK: PP12 gathered from (5, 1), leaving 3 cigbutts in the cell.
++ OK: PP22 gathered from (2, 5), leaving 2 cigbutts in the cell.
++ OK: PP27 gathered from (5, 6), leaving 0 cigbutts in the cell.
++ OK: PP0 gathered from (0, 5), leaving 1 cigbutts in the cell.
++ OK: SS9 flicked towards (1, 3), now 4 cigbutts are in the cell.
++ OK: PP12 gathered from (5, 1), leaving 2 cigbutts in the cell.
++ OK: PP22 gathered from (2, 5), leaving 1 cigbutts in the cell.
++ OK: PP27 gathered from (5, 7), leaving 5 cigbutts in the cell.
++ OK: PP0 gathered from (0, 5), leaving 0 cigbutts in the cell.
++ OK: SS9 flicked towards (2, 3), now 4 cigbutts are in the cell.
++ OK: PP12 gathered from (5, 1), leaving 1 cigbutts in the cell.
++ OK: PP22 gathered from (2, 5), leaving 0 cigbutts in the cell.
++ OK: PP27 gathered from (5, 7), leaving 4 cigbutts in the cell.
++ OK: PP0 gathered from (0, 6), leaving 3 cigbutts in the cell.
++ OK: SS9 flicked towards (3, 3), now 8 cigbutts are in the cell.
++ OK: PP12 gathered from (5, 1), leaving 0 cigbutts in the cell.
++ OK: PP27 gathered from (5, 7), leaving 3 cigbutts in the cell.
++ OK: PP0 gathered from (0, 6), leaving 2 cigbutts in the cell.
++ OK: PP22 gathered from (2, 6), leaving 7 cigbutts in the cell.
++ OK: SS9 flicked towards (3, 2), now 7 cigbutts are in the cell.
++ OK: PP27 gathered from (5, 7), leaving 2 cigbutts in the cell.
++ OK: PP0 gathered from (0, 6), leaving 1 cigbutts in the cell.
++ OK: PP12 gathered from (5, 2), leaving 2 cigbutts in the cell.
++ OK: PP22 gathered from (2, 6), leaving 6 cigbutts in the cell.
++ OK: SS9 flicked towards (3, 1), now 5 cigbutts are in the cell.
++ OK: SS9 left last cell, which was (2, 2).
++ OK: PP27 gathered from (5, 7), leaving 1 cigbutts in the cell.
++ OK: PP0 gathered from (0, 6), leaving 0 cigbutts in the cell.
++ OK: PP12 gathered from (5, 2), leaving 1 cigbutts in the cell.
++ OK: PP22 gathered from (2, 6), leaving 5 cigbutts in the cell.
++ OK: PP27 gathered from (5, 7), leaving 0 cigbutts in the cell.
++ OK: PP0 gathered from (0, 7), leaving 3 cigbutts in the cell.
++ OK: PP12 gathered from (5, 2), leaving 0 cigbutts in the cell.
++ OK: PP22 gathered from (2, 6), leaving 4 cigbutts in the cell.
++ OK: PP27 gathered from (5, 8), leaving 2 cigbutts in the cell.
++ OK: PP0 gathered from (0, 7), leaving 2 cigbutts in the cell.
++ OK: PP12 gathered from (5, 3), leaving 7 cigbutts in the cell.
++ OK: PP22 gathered from (2, 6), leaving 3 cigbutts in the cell.
++ OK: PP27 gathered from (5, 8), leaving 1 cigbutts in the cell.
++ OK: PP0 gathered from (0, 7), leaving 1 cigbutts in the cell.
++ OK: PP12 gathered from (5, 3), leaving 6 cigbutts in the cell.
++ OK: PP27 gathered from (5, 8), leaving 0 cigbutts in the cell.
++ OK: PP0 gathered from (0, 7), leaving 0 cigbutts in the cell.
++ OK: PP22 gathered from (2, 6), leaving 2 cigbutts in the cell.
++ OK: PP12 gathered from (5, 3), leaving 5 cigbutts in the cell.
++ OK: PP0 gathered from (1, 5), leaving 5 cigbutts in the cell.
++ OK: PP27 gathered from (5, 9), leaving 6 cigbutts in the cell.
++ OK: PP22 gathered from (2, 6), leaving 1 cigbutts in the cell.
++ OK: PP27 gathered from (5, 9), leaving 5 cigbutts in the cell.
++ OK: PP0 gathered from (1, 5), leaving 4 cigbutts in the cell.
++ OK: PP12 gathered from (5, 3), leaving 4 cigbutts in the cell.
++ OK: PP22 gathered from (2, 6), leaving 0 cigbutts in the cell.
++ OK: PP27 gathered from (5, 9), leaving 4 cigbutts in the cell.
++ OK: PP0 gathered from (1, 5), leaving 3 cigbutts in the cell.
++ OK: PP12 gathered from (5, 3), leaving 3 cigbutts in the cell.
++ OK: PP22 gathered from (2, 7), leaving 7 cigbutts in the cell.
++ OK: PP27 gathered from (5, 9), leaving 3 cigbutts in the cell.
++ OK: PP0 gathered from (1, 5), leaving 2 cigbutts in the cell.
++ OK: PP12 gathered from (5, 3), leaving 2 cigbutts in the cell.
++ OK: PP0 gathered from (1, 5), leaving 1 cigbutts in the cell.
++ OK: PP27 gathered from (5, 9), leaving 2 cigbutts in the cell.
++ OK: PP22 gathered from (2, 7), leaving 6 cigbutts in the cell.
++ OK: PP12 gathered from (5, 3), leaving 1 cigbutts in the cell.
++ OK: PP27 gathered from (5, 9), leaving 1 cigbutts in the cell.
++ OK: PP0 gathered from (1, 5), leaving 0 cigbutts in the cell.
++ OK: PP22 gathered from (2, 7), leaving 5 cigbutts in the cell.
++ OK: PP12 gathered from (5, 3), leaving 0 cigbutts in the cell.
++ OK: PP0 gathered from (1, 6), leaving 2 cigbutts in the cell.
++ OK: PP27 gathered from (5, 9), leaving 0 cigbutts in the cell.
++ OK: PP22 gathered from (2, 7), leaving 4 cigbutts in the cell.
++ OK: PP12 gathered from (6, 1), leaving 7 cigbutts in the cell.
++ OK: PP27 gathered from (6, 6), leaving 7 cigbutts in the cell.
++ OK: PP0 gathered from (1, 6), leaving 1 cigbutts in the cell.
++ OK: PP22 gathered from (2, 7), leaving 3 cigbutts in the cell.
++ OK: PP27 gathered from (6, 6), leaving 6 cigbutts in the cell.
++ OK: PP0 gathered from (1, 6), leaving 0 cigbutts in the cell.
++ OK: PP12 gathered from (6, 1), leaving 6 cigbutts in the cell.
++ OK: PP22 gathered from (2, 7), leaving 2 cigbutts in the cell.
++ OK: PP27 gathered from (6, 6), leaving 5 cigbutts in the cell.
++ OK: PP0 gathered from (1, 7), leaving 2 cigbutts in the cell.
++ OK: PP12 gathered from (6, 1), leaving 5 cigbutts in the cell.
++ OK: PP0 gathered from (1, 7), leaving 1 cigbutts in the cell.
++ OK: PP27 gathered from (6, 6), leaving 4 cigbutts in the cell.
++ OK: PP22 gathered from (2, 7), leaving 1 cigbutts in the cell.
++ OK: PP12 gathered from (6, 1), leaving 4 cigbutts in the cell.
++ OK: PP27 gathered from (6, 6), leaving 3 cigbutts in the cell.
++ OK: PP0 gathered from (1, 7), leaving 0 cigbutts in the cell.
++ OK: PP0 left last area, which was (0, 5).
++ OK: PP22 gathered from (2, 7), leaving 0 cigbutts in the cell.
++ OK: PP22 left last area, which was (2, 5).
++ OK: PP22 arrived at area (2, 0).
++ OK: PP6 arrived at area (1, 4).
++ OK: PP12 gathered from (6, 1), leaving 3 cigbutts in the cell.
++ OK: PP27 gathered from (6, 6), leaving 2 cigbutts in the cell.
++ OK: PP6 gathered from (1, 4), leaving 6 cigbutts in the cell.
++ OK: PP22 gathered from (2, 0), leaving 3 cigbutts in the cell.
++ OK: PP12 gathered from (6, 1), leaving 2 cigbutts in the cell.
++ OK: PP27 gathered from (6, 6), leaving 1 cigbutts in the cell.
++ OK: PP6 gathered from (1, 4), leaving 5 cigbutts in the cell.
++ OK: PP22 gathered from (2, 0), leaving 2 cigbutts in the cell.
++ OK: PP27 gathered from (6, 6), leaving 0 cigbutts in the cell.
++ OK: PP12 gathered from (6, 1), leaving 1 cigbutts in the cell.
++ OK: PP6 gathered from (1, 4), leaving 4 cigbutts in the cell.
++ OK: PP27 gathered from (6, 7), leaving 2 cigbutts in the cell.
++ OK: PP22 gathered from (2, 0), leaving 1 cigbutts in the cell.
++ OK: PP12 gathered from (6, 1), leaving 0 cigbutts in the cell.
++ OK: PP6 gathered from (1, 4), leaving 3 cigbutts in the cell.
++ OK: PP27 gathered from (6, 7), leaving 1 cigbutts in the cell.
++ OK: PP22 gathered from (2, 0), leaving 0 cigbutts in the cell.
++ OK: PP12 gathered from (6, 2), leaving 6 cigbutts in the cell.
++ OK: PP6 gathered from (1, 4), leaving 2 cigbutts in the cell.
++ OK: PP27 gathered from (6, 7), leaving 0 cigbutts in the cell.
++ OK: PP22 gathered from (2, 1), leaving 6 cigbutts in the cell.
++ OK: PP12 gathered from (6, 2), leaving 5 cigbutts in the cell.
++ OK: PP27 gathered from (6, 8), leaving 2 cigbutts in the cell.
++ OK: PP6 gathered from (1, 4), leaving 1 cigbutts in the cell.
++ OK: PP22 gathered from (2, 1), leaving 5 cigbutts in the cell.
++ OK: PP12 gathered from (6, 2), leaving 4 cigbutts in the cell.
++ OK: PP27 gathered from (6, 8), leaving 1 cigbutts in the cell.
++ OK: PP6 gathered from (1, 4), leaving 0 cigbutts in the cell.
++ OK: PP12 gathered from (6, 2), leaving 3 cigbutts in the cell.
++ OK: PP22 gathered from (2, 1), leaving 4 cigbutts in the cell.
++ OK: PP27 gathered from (6, 8), leaving 0 cigbutts in the cell.
++ OK: PP6 gathered from (2, 4), leaving 6 cigbutts in the cell.
++ OK: PP27 gathered from (6, 9), leaving 7 cigbutts in the cell.
++ OK: PP12 gathered from (6, 2), leaving 2 cigbutts in the cell.
++ OK: PP22 gathered from (2, 1), leaving 3 cigbutts in the cell.
++ OK: PP6 gathered from (2, 4), leaving 5 cigbutts in the cell.
++ OK: PP27 gathered from (6, 9), leaving 6 cigbutts in the cell.
++ OK: PP12 gathered from (6, 2), leaving 1 cigbutts in the cell.
++ OK: PP22 gathered from (2, 1), leaving 2 cigbutts in the cell.
++ OK: PP6 gathered from (2, 4), leaving 4 cigbutts in the cell.
++ OK: PP27 gathered from (6, 9), leaving 5 cigbutts in the cell.
++ OK: PP12 gathered from (6, 2), leaving 0 cigbutts in the cell.
++ OK: PP22 gathered from (2, 1), leaving 1 cigbutts in the cell.
++ OK: PP6 gathered from (2, 4), leaving 3 cigbutts in the cell.
++ OK: PP27 gathered from (6, 9), leaving 4 cigbutts in the cell.
++ OK: PP12 gathered from (6, 3), leaving 4 cigbutts in the cell.
++ OK: PP6 gathered from (2, 4), leaving 2 cigbutts in the cell.
++ OK: PP22 gathered from (2, 1), leaving 0 cigbutts in the cell.
++ OK: PP27 gathered from (6, 9), leaving 3 cigbutts in the cell.
++ OK: PP12 gathered from (6, 3), leaving 3 cigbutts in the cell.
++ OK: PP6 gathered from (2, 4), leaving 1 cigbutts in the cell.
++ OK: PP27 gathered from (6, 9), leaving 2 cigbutts in the cell.
++ OK: PP22 gathered from (2, 2), leaving 6 cigbutts in the cell.
++ OK: PP6 gathered from (2, 4), leaving 0 cigbutts in the cell.
++ OK: PP12 gathered from (6, 3), leaving 2 cigbutts in the cell.
++ OK: PP27 gathered from (6, 9), leaving 1 cigbutts in the cell.
++ OK: PP22 gathered from (2, 2), leaving 5 cigbutts in the cell.
++ OK: PP27 gathered from (6, 9), leaving 0 cigbutts in the cell.
++ OK: PP6 gathered from (3, 4), leaving 4 cigbutts in the cell.
++ OK: PP12 gathered from (6, 3), leaving 1 cigbutts in the cell.
++ OK: PP22 gathered from (2, 2), leaving 4 cigbutts in the cell.
++ OK: PP27 gathered from (7, 6), leaving 4 cigbutts in the cell.
++ OK: PP6 gathered from (3, 4), leaving 3 cigbutts in the cell.
++ OK: PP12 gathered from (6, 3), leaving 0 cigbutts in the cell.
++ OK: PP22 gathered from (2, 2), leaving 3 cigbutts in the cell.
++ OK: PP27 gathered from (7, 6), leaving 3 cigbutts in the cell.
++ OK: PP6 gathered from (3, 4), leaving 2 cigbutts in the cell.
++ OK: PP12 gathered from (7, 1), leaving 4 cigbutts in the cell.
++ OK: PP22 gathered from (2, 2), leaving 2 cigbutts in the cell.
++ OK: PP27 gathered from (7, 6), leaving 2 cigbutts in the cell.
++ OK: PP6 gathered from (3, 4), leaving 1 cigbutts in the cell.
++ OK: PP12 gathered from (7, 1), leaving 3 cigbutts in the cell.
++ OK: PP27 gathered from (7, 6), leaving 1 cigbutts in the cell.
++ OK: PP22 gathered from (2, 2), leaving 1 cigbutts in the cell.
++ OK: PP6 gathered from (3, 4), leaving 0 cigbutts in the cell.
++ OK: PP12 gathered from (7, 1), leaving 2 cigbutts in the cell.
++ OK: PP27 gathered from (7, 6), leaving 0 cigbutts in the cell.
++ OK: PP22 gathered from (2, 2), leaving 0 cigbutts in the cell.
++ OK: PP22 left last area, which was (2, 0).
++ OK: PP22 exited properly.
++ OK: PP6 gathered from (3, 5), leaving 2 cigbutts in the cell.
++ OK: PP27 gathered from (7, 7), leaving 5 cigbutts in the cell.
++ OK: PP12 gathered from (7, 1), leaving 1 cigbutts in the cell.
++ OK: PP6 gathered from (3, 5), leaving 1 cigbutts in the cell.
++ OK: PP27 gathered from (7, 7), leaving 4 cigbutts in the cell.
++ OK: PP12 gathered from (7, 1), leaving 0 cigbutts in the cell.
++ OK: PP6 gathered from (3, 5), leaving 0 cigbutts in the cell.
++ OK: PP27 gathered from (7, 7), leaving 3 cigbutts in the cell.
++ OK: PP12 gathered from (7, 2), leaving 2 cigbutts in the cell.
++ OK: PP6 gathered from (3, 6), leaving 3 cigbutts in the cell.
++ OK: PP27 gathered from (7, 7), leaving 2 cigbutts in the cell.
++ OK: PP12 gathered from (7, 2), leaving 1 cigbutts in the cell.
++ OK: PP27 gathered from (7, 7), leaving 1 cigbutts in the cell.
++ OK: PP6 gathered from (3, 6), leaving 2 cigbutts in the cell.
++ OK: PP12 gathered from (7, 2), leaving 0 cigbutts in the cell.
++ OK: PP27 gathered from (7, 7), leaving 0 cigbutts in the cell.
++ OK: PP6 gathered from (3, 6), leaving 1 cigbutts in the cell.
++ OK: PP12 gathered from (7, 3), leaving 3 cigbutts in the cell.
++ OK: PP27 gathered from (7, 8), leaving 7 cigbutts in the cell.
++ OK: PP6 gathered from (3, 6), leaving 0 cigbutts in the cell.
++ OK: PP27 gathered from (7, 8), leaving 6 cigbutts in the cell.
++ OK: PP12 gathered from (7, 3), leaving 2 cigbutts in the cell.
++ OK: PP6 gathered from (3, 7), leaving 7 cigbutts in the cell.
++ OK: PP27 gathered from (7, 8), leaving 5 cigbutts in the cell.
++ OK: PP12 gathered from (7, 3), leaving 1 cigbutts in the cell.
++ OK: PP6 gathered from (3, 7), leaving 6 cigbutts in the cell.
++ OK: PP27 gathered from (7, 8), leaving 4 cigbutts in the cell.
++ OK: PP12 gathered from (7, 3), leaving 0 cigbutts in the cell.
++ OK: PP6 gathered from (3, 7), leaving 5 cigbutts in the cell.
++ OK: PP27 gathered from (7, 8), leaving 3 cigbutts in the cell.
++ OK: PP12 gathered from (8, 1), leaving 4 cigbutts in the cell.
++ OK: PP6 gathered from (3, 7), leaving 4 cigbutts in the cell.
++ OK: PP27 gathered from (7, 8), leaving 2 cigbutts in the cell.
++ OK: PP12 gathered from (8, 1), leaving 3 cigbutts in the cell.
++ OK: PP6 gathered from (3, 7), leaving 3 cigbutts in the cell.
++ OK: PP27 gathered from (7, 8), leaving 1 cigbutts in the cell.
++ OK: PP6 gathered from (3, 7), leaving 2 cigbutts in the cell.
++ OK: PP12 gathered from (8, 1), leaving 2 cigbutts in the cell.
++ OK: PP27 gathered from (7, 8), leaving 0 cigbutts in the cell.
++ OK: PP27 gathered from (7, 9), leaving 4 cigbutts in the cell.
++ OK: PP6 gathered from (3, 7), leaving 1 cigbutts in the cell.
++ OK: PP12 gathered from (8, 1), leaving 1 cigbutts in the cell.
++ OK: PP27 gathered from (7, 9), leaving 3 cigbutts in the cell.
++ OK: PP6 gathered from (3, 7), leaving 0 cigbutts in the cell.
++ OK: PP12 gathered from (8, 1), leaving 0 cigbutts in the cell.
++ OK: PP27 gathered from (7, 9), leaving 2 cigbutts in the cell.
++ OK: PP6 gathered from (4, 4), leaving 2 cigbutts in the cell.
++ OK: PP12 gathered from (8, 2), leaving 4 cigbutts in the cell.
++ OK: PP27 gathered from (7, 9), leaving 1 cigbutts in the cell.
++ OK: PP6 gathered from (4, 4), leaving 1 cigbutts in the cell.
++ OK: PP12 gathered from (8, 2), leaving 3 cigbutts in the cell.
++ OK: PP27 gathered from (7, 9), leaving 0 cigbutts in the cell.
++ OK: PP27 left last area, which was (5, 6).
++ OK: PP27 exited properly.
++ OK: PP1 arrived at area (6, 7).
++ OK: PP1 left last area, which was (6, 7).
++ OK: PP0 arrived at area (6, 4).
++ OK: SS30 arrived at cell (7, 8).
++ OK: SS0 arrived at cell (8, 8).
++ OK: PP6 gathered from (4, 4), leaving 0 cigbutts in the cell.
++ OK: PP12 gathered from (8, 2), leaving 2 cigbutts in the cell.
++ OK: PP0 gathered from (6, 4), leaving 6 cigbutts in the cell.
++ OK: SS0 flicked towards (7, 7), now 1 cigbutts are in the cell.
++ OK: SS30 flicked towards (6, 7), now 1 cigbutts are in the cell.
++ OK: PP6 gathered from (4, 5), leaving 2 cigbutts in the cell.
++ OK: PP0 gathered from (6, 4), leaving 5 cigbutts in the cell.
++ OK: PP12 gathered from (8, 2), leaving 1 cigbutts in the cell.
++ OK: SS0 flicked towards (7, 8), now 1 cigbutts are in the cell.
++ OK: SS0 left last cell, which was (8, 8).
++ OK: SS30 flicked towards (6, 8), now 1 cigbutts are in the cell.
++ OK: PP6 gathered from (4, 5), leaving 1 cigbutts in the cell.
++ OK: PP0 gathered from (6, 4), leaving 4 cigbutts in the cell.
++ OK: PP12 gathered from (8, 2), leaving 0 cigbutts in the cell.
++ OK: SS30 flicked towards (6, 9), now 1 cigbutts are in the cell.
++ OK: SS30 left last cell, which was (7, 8).
++ OK: PP6 gathered from (4, 5), leaving 0 cigbutts in the cell.
++ OK: PP0 gathered from (6, 4), leaving 3 cigbutts in the cell.
++ OK: PP12 gathered from (8, 3), leaving 3 cigbutts in the cell.
++ OK: PP6 gathered from (4, 6), leaving 5 cigbutts in the cell.
++ OK: PP0 gathered from (6, 4), leaving 2 cigbutts in the cell.
++ OK: PP12 gathered from (8, 3), leaving 2 cigbutts in the cell.
++ OK: PP0 gathered from (6, 4), leaving 1 cigbutts in the cell.
++ OK: PP6 gathered from (4, 6), leaving 4 cigbutts in the cell.
++ OK: PP12 gathered from (8, 3), leaving 1 cigbutts in the cell.
++ OK: PP0 gathered from (6, 4), leaving 0 cigbutts in the cell.
++ OK: PP6 gathered from (4, 6), leaving 3 cigbutts in the cell.
++ OK: PP12 gathered from (8, 3), leaving 0 cigbutts in the cell.
++ OK: PP12 left last area, which was (5, 1).
++ OK: PP12 exited properly.
++ OK: SS2 arrived at cell (4, 2).
++ OK: PP7 arrived at area (6, 1).
++ OK: PP7 left last area, which was (6, 1).
++ OK: PP31 arrived at area (8, 2).
++ OK: PP0 gathered from (6, 5), leaving 3 cigbutts in the cell.
++ OK: PP6 gathered from (4, 6), leaving 2 cigbutts in the cell.
++ OK: PP0 gathered from (6, 5), leaving 2 cigbutts in the cell.
++ OK: SS2 flicked towards (3, 1), now 6 cigbutts are in the cell.
++ OK: SS2 left last cell, which was (4, 2).
++ OK: SS2 exited properly.
++ OK: PP31 gathered from (9, 2), leaving 3 cigbutts in the cell.
++ OK: PP6 gathered from (4, 6), leaving 1 cigbutts in the cell.
++ OK: PP0 gathered from (6, 5), leaving 1 cigbutts in the cell.
++ OK: PP31 gathered from (9, 2), leaving 2 cigbutts in the cell.
++ OK: PP6 gathered from (4, 6), leaving 0 cigbutts in the cell.
++ OK: PP0 gathered from (6, 5), leaving 0 cigbutts in the cell.
++ OK: PP6 gathered from (4, 7), leaving 2 cigbutts in the cell.
++ OK: PP31 gathered from (9, 2), leaving 1 cigbutts in the cell.
++ OK: PP0 gathered from (7, 4), leaving 2 cigbutts in the cell.
++ OK: PP6 gathered from (4, 7), leaving 1 cigbutts in the cell.
++ OK: PP31 gathered from (9, 2), leaving 0 cigbutts in the cell.
++ OK: PP0 gathered from (7, 4), leaving 1 cigbutts in the cell.
++ OK: PP6 gathered from (4, 7), leaving 0 cigbutts in the cell.
++ OK: PP6 left last area, which was (1, 4).
++ OK: PP6 arrived at area (3, 0).
++ OK: SS14 arrived at cell (4, 8).
++ OK: SS30 arrived at cell (4, 5).
++ OK: PP30 arrived at area (1, 7).
++ OK: PP30 left last area, which was (1, 7).
++ OK: SS5 arrived at cell (5, 8).
++ OK: PP30 exited properly.
++ OK: SS13 arrived at cell (1, 7).
++ OK: PP0 gathered from (7, 4), leaving 0 cigbutts in the cell.
++ OK: PP31 gathered from (9, 3), leaving 6 cigbutts in the cell.
++ OK: SS13 flicked towards (0, 6), now 1 cigbutts are in the cell.
++ OK: SS5 flicked towards (4, 7), now 1 cigbutts are in the cell.
++ OK: SS14 flicked towards (3, 7), now 1 cigbutts are in the cell.
++ OK: PP6 gathered from (3, 0), leaving 5 cigbutts in the cell.
++ OK: SS30 flicked towards (3, 4), now 1 cigbutts are in the cell.
++ OK: PP0 gathered from (7, 5), leaving 5 cigbutts in the cell.
++ OK: PP31 gathered from (9, 3), leaving 5 cigbutts in the cell.
++ OK: SS13 flicked towards (0, 7), now 1 cigbutts are in the cell.
++ OK: SS5 flicked towards (4, 8), now 6 cigbutts are in the cell.
++ OK: SS14 flicked towards (3, 8), now 7 cigbutts are in the cell.
++ OK: PP0 gathered from (7, 5), leaving 4 cigbutts in the cell.
++ OK: PP6 gathered from (3, 0), leaving 4 cigbutts in the cell.
++ OK: SS30 flicked towards (3, 5), now 1 cigbutts are in the cell.
++ OK: PP31 gathered from (9, 3), leaving 4 cigbutts in the cell.
++ OK: SS13 flicked towards (0, 8), now 9 cigbutts are in the cell.
++ OK: SS5 flicked towards (4, 9), now 6 cigbutts are in the cell.
++ OK: PP0 gathered from (7, 5), leaving 3 cigbutts in the cell.
++ OK: SS14 flicked towards (3, 9), now 6 cigbutts are in the cell.
++ OK: SS14 left last cell, which was (4, 8).
++ OK: PP6 gathered from (3, 0), leaving 3 cigbutts in the cell.
++ OK: SS30 flicked towards (3, 6), now 1 cigbutts are in the cell.
++ OK: PP31 gathered from (9, 3), leaving 3 cigbutts in the cell.
++ OK: SS13 flicked towards (1, 8), now 4 cigbutts are in the cell.
++ OK: SS5 flicked towards (5, 9), now 1 cigbutts are in the cell.
++ OK: SS5 left last cell, which was (5, 8).
++ OK: SS5 arrived at cell (3, 8).
++ OK: PP0 gathered from (7, 5), leaving 2 cigbutts in the cell.
++ OK: PP6 gathered from (3, 0), leaving 2 cigbutts in the cell.
++ OK: SS30 flicked towards (4, 6), now 1 cigbutts are in the cell.
++ OK: SS30 left last cell, which was (4, 5).
++ OK: SS30 arrived at cell (1, 1).
++ OK: SS13 flicked towards (2, 8), now 9 cigbutts are in the cell.
++ OK: SS5 flicked towards (2, 7), now 1 cigbutts are in the cell.
++ OK: PP31 gathered from (9, 3), leaving 2 cigbutts in the cell.
++ OK: PP0 gathered from (7, 5), leaving 1 cigbutts in the cell.
++ OK: PP6 gathered from (3, 0), leaving 1 cigbutts in the cell.
++ OK: SS30 flicked towards (0, 0), now 9 cigbutts are in the cell.
++ OK: SS13 flicked towards (2, 7), now 2 cigbutts are in the cell.
++ OK: SS13 left last cell, which was (1, 7).
++ OK: SS13 exited properly.
++ OK: PP1 arrived at area (2, 4).
++ OK: SS5 flicked towards (2, 8), now 10 cigbutts are in the cell.
++ OK: PP0 gathered from (7, 5), leaving 0 cigbutts in the cell.
++ OK: PP0 left last area, which was (6, 4).
++ OK: PP0 exited properly.
++ OK: PP7 arrived at area (6, 6).
++ OK: PP31 gathered from (9, 3), leaving 1 cigbutts in the cell.
++ OK: PP6 gathered from (3, 0), leaving 0 cigbutts in the cell.
++ OK: SS30 flicked towards (0, 1), now 5 cigbutts are in the cell.
++ OK: PP1 gathered from (3, 4), leaving 0 cigbutts in the cell.
++ OK: SS5 flicked towards (2, 9), now 8 cigbutts are in the cell.
++ OK: PP7 gathered from (6, 7), leaving 0 cigbutts in the cell.
++ OK: PP7 left last area, which was (6, 6).
++ OK: PP7 exited properly.
++ OK: SS9 arrived at cell (6, 7).
++ OK: PP31 gathered from (9, 3), leaving 0 cigbutts in the cell.
++ OK: PP31 left last area, which was (8, 2).
++ OK: SS18 arrived at cell (8, 2).
++ OK: PP6 gathered from (3, 1), leaving 5 cigbutts in the cell.
++ OK: SS30 flicked towards (0, 2), now 4 cigbutts are in the cell.
++ OK: PP1 gathered from (3, 5), leaving 0 cigbutts in the cell.
++ OK: SS5 flicked towards (3, 9), now 7 cigbutts are in the cell.
++ OK: SS5 left last cell, which was (3, 8).
++ OK: SS5 exited properly.
++ OK: SS9 flicked towards (5, 6), now 1 cigbutts are in the cell.
++ OK: SS18 flicked towards (7, 1), now 1 cigbutts are in the cell.
++ OK: SS18 left last cell, which was (8, 2).
++ OK: SS18 exited properly.
++ OK: PP6 gathered from (3, 1), leaving 4 cigbutts in the cell.
++ OK: PP1 gathered from (3, 6), leaving 0 cigbutts in the cell.
++ OK: PP1 left last area, which was (2, 4).
++ OK: SS30 flicked towards (1, 2), now 9 cigbutts are in the cell.
++ OK: SS9 flicked towards (5, 7), now 1 cigbutts are in the cell.
++ OK: PP6 gathered from (3, 1), leaving 3 cigbutts in the cell.
++ OK: SS30 flicked towards (2, 2), now 1 cigbutts are in the cell.
++ OK: SS9 flicked towards (5, 8), now 1 cigbutts are in the cell.
++ OK: PP6 gathered from (3, 1), leaving 2 cigbutts in the cell.
++ OK: SS30 flicked towards (2, 1), now 1 cigbutts are in the cell.
++ OK: SS30 left last cell, which was (1, 1).
++ OK: SS30 exited properly.
++ OK: SS9 flicked towards (6, 8), now 2 cigbutts are in the cell.
++ OK: PP6 gathered from (3, 1), leaving 1 cigbutts in the cell.
++ OK: SS9 flicked towards (7, 8), now 2 cigbutts are in the cell.
++ OK: PP6 gathered from (3, 1), leaving 0 cigbutts in the cell.
++ OK: SS9 flicked towards (7, 7), now 2 cigbutts are in the cell.
++ OK: PP6 gathered from (3, 2), leaving 6 cigbutts in the cell.
++ OK: SS9 flicked towards (7, 6), now 1 cigbutts are in the cell.
++ OK: SS9 left last cell, which was (6, 7).
++ OK: SS9 exited properly.
++ OK: PP31 arrived at area (4, 8).
++ OK: PP6 gathered from (3, 2), leaving 5 cigbutts in the cell.
++ OK: PP31 gathered from (4, 8), leaving 5 cigbutts in the cell.
++ OK: PP6 gathered from (3, 2), leaving 4 cigbutts in the cell.
++ OK: PP6 gathered from (3, 2), leaving 3 cigbutts in the cell.
++ OK: PP31 gathered from (4, 8), leaving 4 cigbutts in the cell.
++ OK: PP6 gathered from (3, 2), leaving 2 cigbutts in the cell.
++ OK: PP31 gathered from (4, 8), leaving 3 cigbutts in the cell.
++ OK: PP6 gathered from (3, 2), leaving 1 cigbutts in the cell.
++ OK: PP31 gathered from (4, 8), leaving 2 cigbutts in the cell.
++ OK: PP6 gathered from (3, 2), leaving 0 cigbutts in the cell.
++ OK: PP31 gathered from (4, 8), leaving 1 cigbutts in the cell.
++ OK: PP6 gathered from (3, 3), leaving 7 cigbutts in the cell.
++ OK: PP31 gathered from (4, 8), leaving 0 cigbutts in the cell.
++ OK: PP6 gathered from (3, 3), leaving 6 cigbutts in the cell.
++ OK: PP31 gathered from (4, 9), leaving 5 cigbutts in the cell.
++ OK: PP6 gathered from (3, 3), leaving 5 cigbutts in the cell.
++ OK: PP31 gathered from (4, 9), leaving 4 cigbutts in the cell.
++ OK: PP6 gathered from (3, 3), leaving 4 cigbutts in the cell.
++ OK: PP31 gathered from (4, 9), leaving 3 cigbutts in the cell.
++ OK: PP6 gathered from (3, 3), leaving 3 cigbutts in the cell.
++ OK: PP31 gathered from (4, 9), leaving 2 cigbutts in the cell.
++ OK: PP6 gathered from (3, 3), leaving 2 cigbutts in the cell.
++ OK: PP31 gathered from (4, 9), leaving 1 cigbutts in the cell.
++ OK: PP6 gathered from (3, 3), leaving 1 cigbutts in the cell.
++ OK: PP6 gathered from (3, 3), leaving 0 cigbutts in the cell.
++ OK: PP31 gathered from (4, 9), leaving 0 cigbutts in the cell.
++ OK: PP6 gathered from (4, 0), leaving 4 cigbutts in the cell.
++ OK: PP31 gathered from (5, 8), leaving 0 cigbutts in the cell.
++ OK: PP6 gathered from (4, 0), leaving 3 cigbutts in the cell.
++ OK: PP31 gathered from (5, 9), leaving 0 cigbutts in the cell.
++ OK: PP31 left last area, which was (4, 8).
++ OK: PP6 gathered from (4, 0), leaving 2 cigbutts in the cell.
++ OK: PP6 gathered from (4, 0), leaving 1 cigbutts in the cell.
++ OK: PP6 gathered from (4, 0), leaving 0 cigbutts in the cell.
++ OK: PP6 gathered from (4, 1), leaving 3 cigbutts in the cell.
++ OK: PP6 gathered from (4, 1), leaving 2 cigbutts in the cell.
++ OK: PP6 gathered from (4, 1), leaving 1 cigbutts in the cell.
++ OK: PP6 gathered from (4, 1), leaving 0 cigbutts in the cell.
++ OK: PP6 gathered from (4, 2), leaving 3 cigbutts in the cell.
++ OK: PP6 gathered from (4, 2), leaving 2 cigbutts in the cell.
++ OK: PP6 gathered from (4, 2), leaving 1 cigbutts in the cell.
++ OK: PP6 gathered from (4, 2), leaving 0 cigbutts in the cell.
++ OK: PP6 gathered from (4, 3), leaving 4 cigbutts in the cell.
++ OK: PP6 gathered from (4, 3), leaving 3 cigbutts in the cell.
++ OK: PP6 gathered from (4, 3), leaving 2 cigbutts in the cell.
++ OK: PP6 gathered from (4, 3), leaving 1 cigbutts in the cell.
++ OK: PP6 gathered from (4, 3), leaving 0 cigbutts in the cell.
++ OK: PP6 gathered from (5, 0), leaving 6 cigbutts in the cell.
++ OK: PP6 gathered from (5, 0), leaving 5 cigbutts in the cell.
++ OK: PP6 gathered from (5, 0), leaving 4 cigbutts in the cell.
++ OK: PP6 gathered from (5, 0), leaving 3 cigbutts in the cell.
++ OK: PP6 gathered from (5, 0), leaving 2 cigbutts in the cell.
++ OK: PP6 gathered from (5, 0), leaving 1 cigbutts in the cell.
++ OK: PP6 gathered from (5, 0), leaving 0 cigbutts in the cell.
++ OK: PP6 gathered from (6, 0), leaving 4 cigbutts in the cell.
++ OK: PP6 gathered from (6, 0), leaving 3 cigbutts in the cell.
++ OK: PP6 gathered from (6, 0), leaving 2 cigbutts in the cell.
++ OK: PP6 gathered from (6, 0), leaving 1 cigbutts in the cell.
++ OK: PP6 gathered from (6, 0), leaving 0 cigbutts in the cell.
++ OK: PP6 left last area, which was (3, 0).
++ OK: PP6 exited properly.
++ OK: SS23 arrived at cell (4, 3).
++ OK: PP31 arrived at area (6, 3).
++ OK: SS27 arrived at cell (7, 1).
++ OK: SS0 arrived at cell (4, 4).
++ OK: PP31 left last area, which was (6, 3).
++ OK: PP31 arrived at area (8, 3).
++ OK: SS23 flicked towards (3, 2), now 1 cigbutts are in the cell.
++ OK: SS0 flicked towards (3, 3), now 1 cigbutts are in the cell.
++ OK: SS27 flicked towards (6, 0), now 1 cigbutts are in the cell.
++ OK: PP31 gathered from (8, 4), leaving 7 cigbutts in the cell.
++ OK: SS23 flicked towards (3, 3), now 2 cigbutts are in the cell.
++ OK: SS0 flicked towards (3, 4), now 1 cigbutts are in the cell.
++ OK: SS0 left last cell, which was (4, 4).
++ OK: SS0 arrived at cell (6, 1).
++ OK: SS27 flicked towards (6, 1), now 1 cigbutts are in the cell.
++ OK: PP31 gathered from (8, 4), leaving 6 cigbutts in the cell.
++ OK: SS23 flicked towards (3, 4), now 2 cigbutts are in the cell.
++ OK: SS0 flicked towards (5, 0), now 1 cigbutts are in the cell.
++ OK: SS27 flicked towards (6, 2), now 1 cigbutts are in the cell.
++ OK: SS27 left last cell, which was (7, 1).
++ OK: SS27 arrived at cell (7, 1).
++ OK: PP31 gathered from (8, 4), leaving 5 cigbutts in the cell.
++ OK: SS23 flicked towards (4, 4), now 1 cigbutts are in the cell.
++ OK: SS0 flicked towards (5, 1), now 1 cigbutts are in the cell.
++ OK: SS27 flicked towards (6, 0), now 2 cigbutts are in the cell.
++ OK: PP31 gathered from (8, 4), leaving 4 cigbutts in the cell.
++ OK: SS23 flicked towards (5, 4), now 7 cigbutts are in the cell.
++ OK: SS0 flicked towards (5, 2), now 1 cigbutts are in the cell.
++ OK: SS27 flicked towards (6, 1), now 2 cigbutts are in the cell.
++ OK: SS23 flicked towards (5, 3), now 1 cigbutts are in the cell.
++ OK: PP31 gathered from (8, 4), leaving 3 cigbutts in the cell.
++ OK: SS0 flicked towards (6, 2), now 2 cigbutts are in the cell.
++ OK: SS27 flicked towards (6, 2), now 3 cigbutts are in the cell.
++ OK: SS23 flicked towards (5, 2), now 2 cigbutts are in the cell.
++ OK: SS23 left last cell, which was (4, 3).
++ OK: SS23 exited properly.
++ OK: PP1 arrived at area (2, 3).
++ OK: PP31 gathered from (8, 4), leaving 2 cigbutts in the cell.
++ OK: SS0 flicked towards (7, 2), now 1 cigbutts are in the cell.
++ OK: PP1 gathered from (2, 3), leaving 3 cigbutts in the cell.
++ OK: SS27 flicked towards (7, 2), now 2 cigbutts are in the cell.
++ OK: PP31 gathered from (8, 4), leaving 1 cigbutts in the cell.
++ OK: SS0 flicked towards (7, 1), now 2 cigbutts are in the cell.
++ OK: PP1 gathered from (2, 3), leaving 2 cigbutts in the cell.
++ OK: SS27 flicked towards (8, 2), now 1 cigbutts are in the cell.
++ OK: PP31 gathered from (8, 4), leaving 0 cigbutts in the cell.
++ OK: SS0 flicked towards (7, 0), now 5 cigbutts are in the cell.
++ OK: PP1 gathered from (2, 3), leaving 1 cigbutts in the cell.
++ OK: SS27 flicked towards (8, 1), now 1 cigbutts are in the cell.
++ OK: PP31 gathered from (9, 4), leaving 7 cigbutts in the cell.
++ OK: PP1 gathered from (2, 3), leaving 0 cigbutts in the cell.
++ OK: SS0 flicked towards (6, 0), now 3 cigbutts are in the cell.
++ OK: SS27 flicked towards (8, 0), now 5 cigbutts are in the cell.
++ OK: SS27 left last cell, which was (7, 1).
++ OK: SS27 exited properly.
++ OK: PP31 gathered from (9, 4), leaving 6 cigbutts in the cell.
++ OK: PP1 gathered from (3, 3), leaving 1 cigbutts in the cell.
++ OK: SS0 flicked towards (5, 0), now 2 cigbutts are in the cell.
++ OK: SS0 left last cell, which was (6, 1).
++ OK: SS0 exited properly.
++ OK: PP1 gathered from (3, 3), leaving 0 cigbutts in the cell.
++ OK: PP31 gathered from (9, 4), leaving 5 cigbutts in the cell.
++ OK: PP1 gathered from (3, 4), leaving 1 cigbutts in the cell.
++ OK: PP31 gathered from (9, 4), leaving 4 cigbutts in the cell.
++ OK: PP1 gathered from (3, 4), leaving 0 cigbutts in the cell.
++ OK: PP1 left last area, which was (2, 3).
++ OK: PP31 gathered from (9, 4), leaving 3 cigbutts in the cell.
++ OK: PP31 gathered from (9, 4), leaving 2 cigbutts in the cell.
++ OK: PP31 gathered from (9, 4), leaving 1 cigbutts in the cell.
++ OK: PP31 gathered from (9, 4), leaving 0 cigbutts in the cell.
++ OK: PP31 left last area, which was (8, 3).
++ OK: PP31 exited properly.
++ OK: SS14 arrived at cell (7, 3).
++ OK: SS14 flicked towards (6, 2), now 4 cigbutts are in the cell.
++ OK: SS14 flicked towards (6, 3), now 1 cigbutts are in the cell.
++ OK: SS14 flicked towards (6, 4), now 1 cigbutts are in the cell.
++ OK: SS14 flicked towards (7, 4), now 1 cigbutts are in the cell.
++ OK: SS14 flicked towards (8, 4), now 1 cigbutts are in the cell.
++ OK: SS14 left last cell, which was (7, 3).
++ OK: SS14 exited properly.
++ OK: PP17 arrived at area (6, 2).
++ OK: PP17 gathered from (6, 2), leaving 3 cigbutts in the cell.
++ OK: PP17 gathered from (6, 2), leaving 2 cigbutts in the cell.
++ OK: PP17 gathered from (6, 2), leaving 1 cigbutts in the cell.
++ OK: PP17 gathered from (6, 2), leaving 0 cigbutts in the cell.
++ OK: PP17 gathered from (6, 3), leaving 0 cigbutts in the cell.
++ OK: PP17 gathered from (6, 4), leaving 0 cigbutts in the cell.
++ OK: PP17 gathered from (7, 2), leaving 1 cigbutts in the cell.
++ OK: PP17 gathered from (7, 2), leaving 0 cigbutts in the cell.
++ OK: PP17 gathered from (7, 4), leaving 0 cigbutts in the cell.
++ OK: PP17 gathered from (8, 2), leaving 0 cigbutts in the cell.
++ OK: PP17 gathered from (8, 4), leaving 0 cigbutts in the cell.
++ OK: PP17 left last area, which was (6, 2).
++ OK: PP17 arrived at area (7, 0).
++ OK: PP1 arrived at area (8, 4).
++ OK: PP17 gathered from (7, 0), leaving 4 cigbutts in the cell.
++ OK: PP1 gathered from (8, 5), leaving 4 cigbutts in the cell.
++ OK: PP17 gathered from (7, 0), leaving 3 cigbutts in the cell.
++ OK: PP1 gathered from (8, 5), leaving 3 cigbutts in the cell.
++ OK: PP17 gathered from (7, 0), leaving 2 cigbutts in the cell.
++ OK: PP1 gathered from (8, 5), leaving 2 cigbutts in the cell.
++ OK: PP17 gathered from (7, 0), leaving 1 cigbutts in the cell.
++ OK: PP1 gathered from (8, 5), leaving 1 cigbutts in the cell.
++ OK: PP17 gathered from (7, 0), leaving 0 cigbutts in the cell.
++ OK: PP1 gathered from (8, 5), leaving 0 cigbutts in the cell.
++ OK: PP17 gathered from (7, 1), leaving 1 cigbutts in the cell.
++ OK: PP1 gathered from (8, 6), leaving 7 cigbutts in the cell.
++ OK: PP17 gathered from (7, 1), leaving 0 cigbutts in the cell.
++ OK: PP1 gathered from (8, 6), leaving 6 cigbutts in the cell.
++ OK: PP17 gathered from (8, 0), leaving 4 cigbutts in the cell.
++ OK: PP1 gathered from (8, 6), leaving 5 cigbutts in the cell.
++ OK: PP17 gathered from (8, 0), leaving 3 cigbutts in the cell.
++ OK: PP1 gathered from (8, 6), leaving 4 cigbutts in the cell.
++ OK: PP17 gathered from (8, 0), leaving 2 cigbutts in the cell.
++ OK: PP1 gathered from (8, 6), leaving 3 cigbutts in the cell.
++ OK: PP17 gathered from (8, 0), leaving 1 cigbutts in the cell.
++ OK: PP1 gathered from (8, 6), leaving 2 cigbutts in the cell.
++ OK: PP17 gathered from (8, 0), leaving 0 cigbutts in the cell.
++ OK: PP1 gathered from (8, 6), leaving 1 cigbutts in the cell.
++ OK: PP17 gathered from (8, 1), leaving 0 cigbutts in the cell.
++ OK: PP1 gathered from (8, 6), leaving 0 cigbutts in the cell.
++ OK: PP17 gathered from (9, 0), leaving 6 cigbutts in the cell.
++ OK: PP1 gathered from (9, 5), leaving 3 cigbutts in the cell.
++ OK: PP17 gathered from (9, 0), leaving 5 cigbutts in the cell.
++ OK: PP1 gathered from (9, 5), leaving 2 cigbutts in the cell.
++ OK: PP17 gathered from (9, 0), leaving 4 cigbutts in the cell.
++ OK: PP1 gathered from (9, 5), leaving 1 cigbutts in the cell.
++ OK: PP17 gathered from (9, 0), leaving 3 cigbutts in the cell.
++ OK: PP1 gathered from (9, 5), leaving 0 cigbutts in the cell.
++ OK: PP17 gathered from (9, 0), leaving 2 cigbutts in the cell.
++ OK: PP1 gathered from (9, 6), leaving 3 cigbutts in the cell.
++ OK: PP17 gathered from (9, 0), leaving 1 cigbutts in the cell.
++ OK: PP1 gathered from (9, 6), leaving 2 cigbutts in the cell.
++ OK: PP17 gathered from (9, 0), leaving 0 cigbutts in the cell.
++ OK: PP1 gathered from (9, 6), leaving 1 cigbutts in the cell.
++ OK: PP17 gathered from (9, 1), leaving 7 cigbutts in the cell.
++ OK: PP1 gathered from (9, 6), leaving 0 cigbutts in the cell.
++ OK: PP1 left last area, which was (8, 4).
++ OK: PP1 exited properly.
++ OK: PP17 gathered from (9, 1), leaving 6 cigbutts in the cell.
++ OK: PP17 gathered from (9, 1), leaving 5 cigbutts in the cell.
++ OK: PP17 gathered from (9, 1), leaving 4 cigbutts in the cell.
++ OK: PP17 gathered from (9, 1), leaving 3 cigbutts in the cell.
++ OK: PP17 gathered from (9, 1), leaving 2 cigbutts in the cell.
++ OK: PP17 gathered from (9, 1), leaving 1 cigbutts in the cell.
++ OK: PP17 gathered from (9, 1), leaving 0 cigbutts in the cell.
++ OK: PP17 left last area, which was (7, 0).
++ OK: PP17 arrived at area (4, 2).
++ OK: PP17 gathered from (4, 4), leaving 0 cigbutts in the cell.
++ OK: PP17 gathered from (5, 2), leaving 1 cigbutts in the cell.
++ OK: PP17 gathered from (5, 2), leaving 0 cigbutts in the cell.
++ OK: PP17 gathered from (5, 3), leaving 0 cigbutts in the cell.
++ OK: PP17 gathered from (5, 4), leaving 6 cigbutts in the cell.
++ OK: PP17 gathered from (5, 4), leaving 5 cigbutts in the cell.
++ OK: PP17 gathered from (5, 4), leaving 4 cigbutts in the cell.
++ OK: PP17 gathered from (5, 4), leaving 3 cigbutts in the cell.
++ OK: PP17 gathered from (5, 4), leaving 2 cigbutts in the cell.
++ OK: PP17 gathered from (5, 4), leaving 1 cigbutts in the cell.
++ OK: PP17 gathered from (5, 4), leaving 0 cigbutts in the cell.
++ OK: PP17 left last area, which was (4, 2).
++ OK: PP17 exited properly.
++ OK: End of notification stream reached. Everyone has exited cleanly and all orders were delivered. Nice!
+--------------------------------------------------------------------------------
+Looks like no fatal inconsistencies occurred! Good job.
+
+Consistency multiplier:
+1.00

@@ -1,0 +1,48 @@
++ OK: PP0 created with tid=139689887479552.
++ OK: PP0 arrived at area (0, 0).
++ OK: PP1 created with tid=139689879086848.
++ OK: PP1 arrived at area (1, 0).
++ OK: PP2 created with tid=139689870694144.
++ OK: PP2 arrived at area (0, 2).
++ OK: PP1 gathered from (1, 0), leaving 2 cigbutts in the cell.
++ OK: PP0 gathered from (0, 0), leaving 18 cigbutts in the cell.
++ OK: PP2 gathered from (0, 2), leaving 1 cigbutts in the cell.
++ OK: PP1 gathered from (1, 0), leaving 1 cigbutts in the cell.
++ OK: PP0 gathered from (0, 0), leaving 17 cigbutts in the cell.
++ OK: PP2 gathered from (0, 2), leaving 0 cigbutts in the cell.
++ OK: PP1 gathered from (1, 0), leaving 0 cigbutts in the cell.
++ OK: PP0 gathered from (0, 0), leaving 16 cigbutts in the cell.
++ OK: PP1 gathered from (1, 1), leaving 14 cigbutts in the cell.
++ OK: PP2 gathered from (1, 2), leaving 17 cigbutts in the cell.
++ OK: PP0 gathered from (0, 0), leaving 15 cigbutts in the cell.
++ OK: PP1 gathered from (1, 1), leaving 13 cigbutts in the cell.
++ OK: PP2 gathered from (1, 2), leaving 16 cigbutts in the cell.
++ OK: PP1 gathered from (1, 1), leaving 12 cigbutts in the cell.
++ OK: PP0 gathered from (0, 0), leaving 14 cigbutts in the cell.
++ OK: PP1 gathered from (1, 1), leaving 11 cigbutts in the cell.
++ OK: PP2 gathered from (1, 2), leaving 15 cigbutts in the cell.
++ OK: PP0 gathered from (0, 0), leaving 13 cigbutts in the cell.
++ OK: PP1 gathered from (1, 1), leaving 10 cigbutts in the cell.
++ OK: PP0 gathered from (0, 0), leaving 12 cigbutts in the cell.
++ OK: PP2 gathered from (1, 2), leaving 14 cigbutts in the cell.
++ OK: PP1 gathered from (1, 1), leaving 9 cigbutts in the cell.
++ OK: PP1 gathered from (1, 1), leaving 8 cigbutts in the cell.
++ OK: PP0 gathered from (0, 0), leaving 11 cigbutts in the cell.
++ OK: PP2 gathered from (1, 2), leaving 13 cigbutts in the cell.
++ OK: PP1 gathered from (1, 1), leaving 7 cigbutts in the cell.
++ OK: PP0 gathered from (0, 0), leaving 10 cigbutts in the cell.
++ OK: PP2 gathered from (1, 2), leaving 12 cigbutts in the cell.
++ OK: PP1 gathered from (1, 1), leaving 6 cigbutts in the cell.
++ OK: PP0 gathered from (0, 0), leaving 9 cigbutts in the cell.
++ OK: PP1 gathered from (1, 1), leaving 5 cigbutts in the cell.
++ OK: PP2 gathered from (1, 2), leaving 11 cigbutts in the cell.
++ OK: Order STOP delivered at 1100 ms, expected at 1100 ms. On time!
++ OK: PP0 stopped as ordered.
++ OK: PP2 stopped as ordered.
++ OK: PP1 stopped as ordered.
++ OK: End of notification stream reached. Everyone has exited cleanly and all orders were delivered. Nice!
+--------------------------------------------------------------------------------
+Looks like no fatal inconsistencies occurred! Good job.
+
+Consistency multiplier:
+1.00
